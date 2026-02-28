@@ -1,12 +1,12 @@
 Top reports from Starbucks program at HackerOne:
 
 1. [SQL Injection Extracts Starbucks Enterprise Accounting, Financial, Payroll Database](https://hackerone.com/reports/531051) to Starbucks - 786 upvotes, $0
-2. [JumpCloud API Key leaked via Open Github Repository.](https://hackerone.com/reports/716292) to Starbucks - 731 upvotes, $0
+2. [JumpCloud API Key leaked via Open Github Repository.](https://hackerone.com/reports/716292) to Starbucks - 732 upvotes, $0
 3. [Webshell via File Upload on ecjobs.starbucks.com.cn](https://hackerone.com/reports/506646) to Starbucks - 685 upvotes, $0
-4. [RCE and Complete Server Takeover of http://www.█████.starbucks.com.sg/](https://hackerone.com/reports/502758) to Starbucks - 567 upvotes, $0
+4. [RCE and Complete Server Takeover of http://www.█████.starbucks.com.sg/](https://hackerone.com/reports/502758) to Starbucks - 568 upvotes, $0
 5. [XXE at ecjobs.starbucks.com.cn/retail/hxpublic_v6/hxdynamicpage6.aspx](https://hackerone.com/reports/500515) to Starbucks - 318 upvotes, $0
 6. [Subdomain takeover of datacafe-cert.starbucks.com](https://hackerone.com/reports/665398) to Starbucks - 309 upvotes, $0
-7. [Singapore - Account Takeover via IDOR](https://hackerone.com/reports/876300) to Starbucks - 254 upvotes, $0
+7. [Singapore - Account Takeover via IDOR](https://hackerone.com/reports/876300) to Starbucks - 255 upvotes, $0
 8. [Unrestricted File Upload Leads to RCE on mobile.starbucks.com.sg](https://hackerone.com/reports/1027822) to Starbucks - 241 upvotes, $0
 9. [Misuse of an authentication cookie combined with a path traversal on app.starbucks.com permitted access to restricted data](https://hackerone.com/reports/876295) to Starbucks - 235 upvotes, $0
 10. [Blind SQLi leading to RCE, from Unauthenticated access to a test API Webservice](https://hackerone.com/reports/592400) to Starbucks - 233 upvotes, $0
@@ -75,9 +75,9 @@ Top reports from Starbucks program at HackerOne:
 73. [Improper handling of payment callback allows topping up a Swiss Starbucks Card bypassing actual payment via a crafted success message](https://hackerone.com/reports/682617) to Starbucks - 23 upvotes, $0
 74. [Thailand – a small number of alarm system portals accessible with the default credentials](https://hackerone.com/reports/406486) to Starbucks - 23 upvotes, $0
 75. [[newscdn.starbucks.com] CRLF Injection, XSS](https://hackerone.com/reports/192749) to Starbucks - 22 upvotes, $0
-76. [Unauthorized access to a system used for CI/CD processes](https://hackerone.com/reports/410475) to Starbucks - 22 upvotes, $0
-77. [unuse domain still in using at wechat by Starbucks East China](https://hackerone.com/reports/471265) to Starbucks - 22 upvotes, $0
-78. [Persistent CSRF in /GiftCert-AddToBasket prevents purchases on eCommerce sites](https://hackerone.com/reports/206319) to Starbucks - 21 upvotes, $0
+76. [Persistent CSRF in /GiftCert-AddToBasket prevents purchases on eCommerce sites](https://hackerone.com/reports/206319) to Starbucks - 22 upvotes, $0
+77. [Unauthorized access to a system used for CI/CD processes](https://hackerone.com/reports/410475) to Starbucks - 22 upvotes, $0
+78. [unuse domain still in using at wechat by Starbucks East China](https://hackerone.com/reports/471265) to Starbucks - 22 upvotes, $0
 79. [DVR default username and password](https://hackerone.com/reports/398797) to Starbucks - 21 upvotes, $0
 80. [India - OTP bypass on Phone number verification for account creation](https://hackerone.com/reports/762695) to Starbucks - 20 upvotes, $0
 81. [Stored XSS in comments on https://www.starbucks.co.uk/blog/*](https://hackerone.com/reports/218226) to Starbucks - 19 upvotes, $0
@@ -97,9 +97,9 @@ Top reports from Starbucks program at HackerOne:
 95. [Backup Source Code Detected](https://hackerone.com/reports/389454) to Starbucks - 15 upvotes, $0
 96. [Minimal information disclosure of internal asset names and links which were not publicly accessible.](https://hackerone.com/reports/805699) to Starbucks - 15 upvotes, $0
 97. [out of date disqus shortname usage in the web app source code](https://hackerone.com/reports/172780) to Starbucks - 14 upvotes, $0
-98. [Reflected XSS on https://www.starbucks.co.uk/shop/paymentmethod/ (bypass for 227486)](https://hackerone.com/reports/252908) to Starbucks - 13 upvotes, $0
-99. [Reflected DOM XSS on www.starbucks.co.uk](https://hackerone.com/reports/396493) to Starbucks - 13 upvotes, $0
-100. [CSRF: add item to victim's cart automatically (starbucks.com - updatecart)](https://hackerone.com/reports/177472) to Starbucks - 12 upvotes, $0
+98. [CSRF: add item to victim's cart automatically (starbucks.com - updatecart)](https://hackerone.com/reports/177472) to Starbucks - 13 upvotes, $0
+99. [Reflected XSS on https://www.starbucks.co.uk/shop/paymentmethod/ (bypass for 227486)](https://hackerone.com/reports/252908) to Starbucks - 13 upvotes, $0
+100. [Reflected DOM XSS on www.starbucks.co.uk](https://hackerone.com/reports/396493) to Starbucks - 13 upvotes, $0
 101. [India - An Insecure Direct Object Reference (IDOR) allowed unauthorized access to view card index number and monetary balance](https://hackerone.com/reports/701160) to Starbucks - 12 upvotes, $0
 102. [http://digital.starbucks.com/ Creation of Google G Suite Account on Behalf of starbucks. ](https://hackerone.com/reports/191179) to Starbucks - 11 upvotes, $0
 103. [CSRF vulnerability in saving payment card on store.starbucks.com (COBilling -AddCreditCard)](https://hackerone.com/reports/177635) to Starbucks - 10 upvotes, $0

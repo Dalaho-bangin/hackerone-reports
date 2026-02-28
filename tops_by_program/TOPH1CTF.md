@@ -101,12 +101,12 @@ Top reports from h1-ctf program at HackerOne:
 99. [Infiltrating into Grinch-Networks and saving Christmas!](https://hackerone.com/reports/1069141) to h1-ctf - 1 upvotes, $0
 100. [HackyHolidays 2020 Full Write-up: Information Disclosure of 12 Flags](https://hackerone.com/reports/1068434) to h1-ctf - 1 upvotes, $0
 101. [Hacky Holidays Writeup](https://hackerone.com/reports/1067835) to h1-ctf - 1 upvotes, $0
-102. [Writeup Hackyholiday CTF](https://hackerone.com/reports/1065731) to h1-ctf - 1 upvotes, $0
-103. [Wholesome Hacky Holidays: A Writeup](https://hackerone.com/reports/1066135) to h1-ctf - 1 upvotes, $0
-104. [First CTF ever!](https://hackerone.com/reports/1069263) to h1-ctf - 0 upvotes, $0
-105. [Successfully took down the Grinch and saved the holidays from being ruined](https://hackerone.com/reports/1067530) to h1-ctf - 0 upvotes, $0
-106. [[H1 hackyholidays] CTF Writeup](https://hackerone.com/reports/1069171) to h1-ctf - 0 upvotes, $0
-107. [[hackyholidays] CTF write-up](https://hackerone.com/reports/1069376) to h1-ctf - 0 upvotes, $0
-108. [[hacky-holidays] Grinch network is down](https://hackerone.com/reports/1066206) to h1-ctf - 0 upvotes, $0
-109. [Hacky Holidays CTF Writeup](https://hackerone.com/reports/1066007) to h1-ctf - 0 upvotes, $0
+102. [Hacky Holidays CTF Writeup](https://hackerone.com/reports/1066007) to h1-ctf - 1 upvotes, $0
+103. [Writeup Hackyholiday CTF](https://hackerone.com/reports/1065731) to h1-ctf - 1 upvotes, $0
+104. [Wholesome Hacky Holidays: A Writeup](https://hackerone.com/reports/1066135) to h1-ctf - 1 upvotes, $0
+105. [First CTF ever!](https://hackerone.com/reports/1069263) to h1-ctf - 0 upvotes, $0
+106. [Successfully took down the Grinch and saved the holidays from being ruined](https://hackerone.com/reports/1067530) to h1-ctf - 0 upvotes, $0
+107. [[H1 hackyholidays] CTF Writeup](https://hackerone.com/reports/1069171) to h1-ctf - 0 upvotes, $0
+108. [[hackyholidays] CTF write-up](https://hackerone.com/reports/1069376) to h1-ctf - 0 upvotes, $0
+109. [[hacky-holidays] Grinch network is down](https://hackerone.com/reports/1066206) to h1-ctf - 0 upvotes, $0
 110. [It's just a man on a mission](https://hackerone.com/reports/1069388) to h1-ctf - 0 upvotes, $0

@@ -9,8 +9,8 @@ Top reports from Ubiquiti Inc. program at HackerOne:
 7. [CORS Misconfiguration leading to Private Information Disclosure](https://hackerone.com/reports/430249) to Ubiquiti Inc. - 55 upvotes, $0
 8. [Ability to log in as any user without authentication if █████████ is empty](https://hackerone.com/reports/215053) to Ubiquiti Inc. - 54 upvotes, $0
 9. [Authentication bypass on sso.ubnt.com via subdomain takeover of ping.ubnt.com](https://hackerone.com/reports/172137) to Ubiquiti Inc. - 52 upvotes, $0
-10. [Read-Only user can execute arbitraty shell commands on AirOS](https://hackerone.com/reports/139398) to Ubiquiti Inc. - 44 upvotes, $0
-11. [Unrestricted File System Access via Twig Template Injection on dev-ucrm-billing-demo.ubnt.com](https://hackerone.com/reports/301406) to Ubiquiti Inc. - 44 upvotes, $0
+10. [Unrestricted File System Access via Twig Template Injection on dev-ucrm-billing-demo.ubnt.com](https://hackerone.com/reports/301406) to Ubiquiti Inc. - 45 upvotes, $0
+11. [Read-Only user can execute arbitraty shell commands on AirOS](https://hackerone.com/reports/139398) to Ubiquiti Inc. - 44 upvotes, $0
 12. [View Only to Root Privilege Escalation on UniFi Protect](https://hackerone.com/reports/825764) to Ubiquiti Inc. - 42 upvotes, $0
 13. [Firmware download/install vulnerable to CSRF](https://hackerone.com/reports/323852) to Ubiquiti Inc. - 35 upvotes, $0
 14. [sqli](https://hackerone.com/reports/207695) to Ubiquiti Inc. - 33 upvotes, $0
@@ -58,18 +58,18 @@ Top reports from Ubiquiti Inc. program at HackerOne:
 56. [Reflected File Download in community.ubnt.com/restapi/](https://hackerone.com/reports/107960) to Ubiquiti Inc. - 11 upvotes, $0
 57. [[dev-unifi-go.ubnt.com] Insecure CORS, Stealing Cookies](https://hackerone.com/reports/219014) to Ubiquiti Inc. - 11 upvotes, $0
 58. [CSRF in login form would led to account takeover](https://hackerone.com/reports/50703) to Ubiquiti Inc. - 10 upvotes, $0
-59. [UniFi Video Server - Arbitrary file upload as SYSTEM](https://hackerone.com/reports/129641) to Ubiquiti Inc. - 10 upvotes, $0
-60. [UniFi Video Server web interface admin user Firmware Update path traversal leading to local system compromise](https://hackerone.com/reports/330051) to Ubiquiti Inc. - 10 upvotes, $0
-61. [Unauthenticated request allows changing hostname](https://hackerone.com/reports/802079) to Ubiquiti Inc. - 10 upvotes, $0
-62. [Reflected XSS in Nanostation Loco M2 - AirOS ver=6.1.7](https://hackerone.com/reports/386570) to Ubiquiti Inc. - 10 upvotes, $0
-63. [account.ubnt.com CSRF](https://hackerone.com/reports/101909) to Ubiquiti Inc. - 9 upvotes, $0
-64. [Reflected cross-site scripting (XSS) vulnerability in scores.ubnt.com allows attackers to inject arbitrary web script via p parameter.](https://hackerone.com/reports/208622) to Ubiquiti Inc. - 9 upvotes, $0
-65. [XSS via SVG file](https://hackerone.com/reports/212253) to Ubiquiti Inc. - 9 upvotes, $0
-66. [Expired SSL certificate](https://hackerone.com/reports/220615) to Ubiquiti Inc. - 9 upvotes, $0
-67. [HTML Injection on airlink.ubnt.com](https://hackerone.com/reports/226783) to Ubiquiti Inc. - 9 upvotes, $0
-68. [Stored XSS / Bypassing .htaccess protection in http://nodebb.ubnt.com/](https://hackerone.com/reports/202354) to Ubiquiti Inc. - 9 upvotes, $0
-69. [Stored XSS =\> community.ubnt.com ](https://hackerone.com/reports/294048) to Ubiquiti Inc. - 9 upvotes, $0
-70. [UniFi Video Server web interface Configuration Restore path traversal leading to local system compromise](https://hackerone.com/reports/329770) to Ubiquiti Inc. - 9 upvotes, $0
+59. [UniFi Video Server web interface Configuration Restore path traversal leading to local system compromise](https://hackerone.com/reports/329770) to Ubiquiti Inc. - 10 upvotes, $0
+60. [UniFi Video Server - Arbitrary file upload as SYSTEM](https://hackerone.com/reports/129641) to Ubiquiti Inc. - 10 upvotes, $0
+61. [UniFi Video Server web interface admin user Firmware Update path traversal leading to local system compromise](https://hackerone.com/reports/330051) to Ubiquiti Inc. - 10 upvotes, $0
+62. [Unauthenticated request allows changing hostname](https://hackerone.com/reports/802079) to Ubiquiti Inc. - 10 upvotes, $0
+63. [Reflected XSS in Nanostation Loco M2 - AirOS ver=6.1.7](https://hackerone.com/reports/386570) to Ubiquiti Inc. - 10 upvotes, $0
+64. [account.ubnt.com CSRF](https://hackerone.com/reports/101909) to Ubiquiti Inc. - 9 upvotes, $0
+65. [Reflected cross-site scripting (XSS) vulnerability in scores.ubnt.com allows attackers to inject arbitrary web script via p parameter.](https://hackerone.com/reports/208622) to Ubiquiti Inc. - 9 upvotes, $0
+66. [XSS via SVG file](https://hackerone.com/reports/212253) to Ubiquiti Inc. - 9 upvotes, $0
+67. [Expired SSL certificate](https://hackerone.com/reports/220615) to Ubiquiti Inc. - 9 upvotes, $0
+68. [HTML Injection on airlink.ubnt.com](https://hackerone.com/reports/226783) to Ubiquiti Inc. - 9 upvotes, $0
+69. [Stored XSS / Bypassing .htaccess protection in http://nodebb.ubnt.com/](https://hackerone.com/reports/202354) to Ubiquiti Inc. - 9 upvotes, $0
+70. [Stored XSS =\> community.ubnt.com ](https://hackerone.com/reports/294048) to Ubiquiti Inc. - 9 upvotes, $0
 71. [UniFi Video v3.10.1 (Windows) Local Privileges Escalation to SYSTEM from arbitrary filedelete and DLL hijack vulnerabilities.](https://hackerone.com/reports/530967) to Ubiquiti Inc. - 9 upvotes, $0
 72. [UniFi Video web interface Configuration Restore user privilege escalation](https://hackerone.com/reports/329659) to Ubiquiti Inc. - 9 upvotes, $0
 73. [XW 6.2.0 firmware: 5 Reflected XSS issues in link.cgi](https://hackerone.com/reports/802498) to Ubiquiti Inc. - 9 upvotes, $0

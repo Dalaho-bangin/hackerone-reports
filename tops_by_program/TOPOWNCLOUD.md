@@ -11,10 +11,10 @@ Top reports from ownCloud program at HackerOne:
 9. [Remote Code Execution through "Files_antivirus" plugin](https://hackerone.com/reports/903872) to ownCloud - 14 upvotes, $0
 10. [GitHub Security Lab (GHSL) Vulnerability Report: SQLInjection in FileContentProvider.kt (GHSL-2022-059)](https://hackerone.com/reports/1650264) to ownCloud - 12 upvotes, $300
 11. [Theft of protected files on Android](https://hackerone.com/reports/1454002) to ownCloud - 11 upvotes, $50
-12. [RCE in ci.owncloud.com / ci.owncloud.org](https://hackerone.com/reports/98559) to ownCloud - 10 upvotes, $0
-13. [SMB User Authentication Bypass and Persistence](https://hackerone.com/reports/148151) to ownCloud - 10 upvotes, $0
-14. [User Information Disclosure via REST API](https://hackerone.com/reports/197786) to ownCloud - 10 upvotes, $0
-15. [Protocol Smuggling over LDAP password field](https://hackerone.com/reports/1054282) to ownCloud - 10 upvotes, $0
+12. [Protocol Smuggling over LDAP password field](https://hackerone.com/reports/1054282) to ownCloud - 11 upvotes, $0
+13. [RCE in ci.owncloud.com / ci.owncloud.org](https://hackerone.com/reports/98559) to ownCloud - 10 upvotes, $0
+14. [SMB User Authentication Bypass and Persistence](https://hackerone.com/reports/148151) to ownCloud - 10 upvotes, $0
+15. [User Information Disclosure via REST API](https://hackerone.com/reports/197786) to ownCloud - 10 upvotes, $0
 16. [Password Complexity Not Enforced On Password Change](https://hackerone.com/reports/276123) to ownCloud - 9 upvotes, $0
 17. [apps.owncloud.com: Malicious file upload leads to remote code execution](https://hackerone.com/reports/84374) to ownCloud - 8 upvotes, $0
 18. [[api.owncloud.org] CRLF Injection](https://hackerone.com/reports/154306) to ownCloud - 7 upvotes, $0
@@ -25,13 +25,13 @@ Top reports from ownCloud program at HackerOne:
 23. [Open Redirector via (apps/files_pdfviewer) for un-authenticated users.](https://hackerone.com/reports/131082) to ownCloud - 5 upvotes, $150
 24. [ownCloud 2.2.2.6192 DLL Hijacking Vulnerability](https://hackerone.com/reports/151475) to ownCloud - 5 upvotes, $50
 25. [No email verification during registration](https://hackerone.com/reports/90643) to ownCloud - 5 upvotes, $0
-26. [apps.owncloud.com: XSS via referrer](https://hackerone.com/reports/83374) to ownCloud - 5 upvotes, $0
-27. [[doc.owncloud.org] CRLF Injection](https://hackerone.com/reports/154275) to ownCloud - 5 upvotes, $0
-28. [Stored xss](https://hackerone.com/reports/187380) to ownCloud - 5 upvotes, $0
-29. [HTML injection in Desktop Client](https://hackerone.com/reports/206877) to ownCloud - 5 upvotes, $0
-30. [Exploiting unauthenticated encryption mode](https://hackerone.com/reports/108082) to ownCloud - 4 upvotes, $350
-31. [apps.owncloud.com: SSL Server Allows Anonymous Authentication Vulnerability (SMTP)](https://hackerone.com/reports/83803) to ownCloud - 4 upvotes, $0
-32. [Webview Vulnerablity [OwnCloudAndroid Application] ](https://hackerone.com/reports/87835) to ownCloud - 4 upvotes, $0
+26. [Webview Vulnerablity [OwnCloudAndroid Application] ](https://hackerone.com/reports/87835) to ownCloud - 5 upvotes, $0
+27. [apps.owncloud.com: XSS via referrer](https://hackerone.com/reports/83374) to ownCloud - 5 upvotes, $0
+28. [[doc.owncloud.org] CRLF Injection](https://hackerone.com/reports/154275) to ownCloud - 5 upvotes, $0
+29. [Stored xss](https://hackerone.com/reports/187380) to ownCloud - 5 upvotes, $0
+30. [HTML injection in Desktop Client](https://hackerone.com/reports/206877) to ownCloud - 5 upvotes, $0
+31. [Exploiting unauthenticated encryption mode](https://hackerone.com/reports/108082) to ownCloud - 4 upvotes, $350
+32. [apps.owncloud.com: SSL Server Allows Anonymous Authentication Vulnerability (SMTP)](https://hackerone.com/reports/83803) to ownCloud - 4 upvotes, $0
 33. [password reset email spamming](https://hackerone.com/reports/224095) to ownCloud - 4 upvotes, $0
 34. [Password appears in user name field](https://hackerone.com/reports/85559) to ownCloud - 3 upvotes, $0
 35. [apps.owncloud.com: SSL Session cookie without secure flag set](https://hackerone.com/reports/83710) to ownCloud - 3 upvotes, $0

@@ -1,7 +1,7 @@
 Top Clickjacking reports from HackerOne:
 
-1. [RCE of Burp  Scanner / Crawler via Clickjacking ](https://hackerone.com/reports/1274695) to PortSwigger Web Security - 168 upvotes, $3000
-2. [Twitter Periscope Clickjacking Vulnerability](https://hackerone.com/reports/591432) to X / xAI - 138 upvotes, $1120
+1. [RCE of Burp  Scanner / Crawler via Clickjacking ](https://hackerone.com/reports/1274695) to PortSwigger Web Security - 169 upvotes, $3000
+2. [Twitter Periscope Clickjacking Vulnerability](https://hackerone.com/reports/591432) to X / xAI - 139 upvotes, $1120
 3. [Highly wormable clickjacking in player card](https://hackerone.com/reports/85624) to X / xAI - 134 upvotes, $0
 4. [Clickjacking on donation page](https://hackerone.com/reports/921709) to WordPress - 89 upvotes, $0
 5. [Clickjacking in main domain https://topechelon.com/](https://hackerone.com/reports/2964441) to Top Echelon Software - 79 upvotes, $0
@@ -41,9 +41,9 @@ Top Clickjacking reports from HackerOne:
 39. [clickjacking в /lead_forms_app.php](https://hackerone.com/reports/294334) to VK.com - 11 upvotes, $0
 40. [Certificate warnings and similar UI elements in Web protection of Anti-Virus products family are susceptible to clickjacking](https://hackerone.com/reports/463695) to Kaspersky - 11 upvotes, $0
 41. [Clickjacking Vulnerability in sifchain.finance](https://hackerone.com/reports/1185949) to Sifchain - 11 upvotes, $0
-42. [Get ip and Geo location any user via Clickjacking with inspectlet technology](https://hackerone.com/reports/998555) to Acronis - 10 upvotes, $0
-43. [Clickjacking URLS](https://hackerone.com/reports/1039805) to Nextcloud - 10 upvotes, $0
-44. [Reflected XSS through clickjacking at https://████](https://hackerone.com/reports/1149144) to U.S. Dept Of Defense - 10 upvotes, $0
+42. [Reflected XSS through clickjacking at https://████](https://hackerone.com/reports/1149144) to U.S. Dept Of Defense - 11 upvotes, $0
+43. [Get ip and Geo location any user via Clickjacking with inspectlet technology](https://hackerone.com/reports/998555) to Acronis - 10 upvotes, $0
+44. [Clickjacking URLS](https://hackerone.com/reports/1039805) to Nextcloud - 10 upvotes, $0
 45. [Bypass of the Clickjacking protection on Flickr using data URL in iframes](https://hackerone.com/reports/7264) to Yahoo! - 9 upvotes, $0
 46. [Delete images of users  with clickjacking in https://pw.mail.ru](https://hackerone.com/reports/675614) to Mail.ru - 9 upvotes, $0
 47. [Clickjacking on authorized page https://wakatime.com/share/embed](https://hackerone.com/reports/244967) to WakaTime - 8 upvotes, $0

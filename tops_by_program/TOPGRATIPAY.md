@@ -26,10 +26,10 @@ Top reports from Gratipay program at HackerOne:
 24. [protect against tabnabbing in statement](https://hackerone.com/reports/109161) to Gratipay - 8 upvotes, $0
 25. [CSV injection in gratipay.com via payment history export feature.](https://hackerone.com/reports/219323) to Gratipay - 8 upvotes, $0
 26. [Avoid "resend verification email" confusion](https://hackerone.com/reports/156542) to Gratipay - 7 upvotes, $1
-27. [No Valid SPF Records.](https://hackerone.com/reports/116973) to Gratipay - 6 upvotes, $10
-28. [suppress version in Server header on gratipay.com or grtp.co](https://hackerone.com/reports/123742) to Gratipay - 6 upvotes, $1
-29. [Incomplete or No Cache-control and Pragma HTTP Header Set](https://hackerone.com/reports/185833) to Gratipay - 6 upvotes, $0
-30. [Transferring incorrect data to the http://gip.rocks/v1 endpoint with correct Content-Type leads to local paths disclosure through the error message](https://hackerone.com/reports/219601) to Gratipay - 6 upvotes, $0
+27. [Transferring incorrect data to the http://gip.rocks/v1 endpoint with correct Content-Type leads to local paths disclosure through the error message](https://hackerone.com/reports/219601) to Gratipay - 7 upvotes, $0
+28. [No Valid SPF Records.](https://hackerone.com/reports/116973) to Gratipay - 6 upvotes, $10
+29. [suppress version in Server header on gratipay.com or grtp.co](https://hackerone.com/reports/123742) to Gratipay - 6 upvotes, $1
+30. [Incomplete or No Cache-control and Pragma HTTP Header Set](https://hackerone.com/reports/185833) to Gratipay - 6 upvotes, $0
 31. [[gratipay.com] CRLF Injection](https://hackerone.com/reports/79552) to Gratipay - 5 upvotes, $40
 32. [don't serve hidden files from Nginx](https://hackerone.com/reports/120026) to Gratipay - 5 upvotes, $1
 33. [Content Spoofing/Text Injection ](https://hackerone.com/reports/154921) to Gratipay - 5 upvotes, $1

@@ -13,7 +13,7 @@ Top reports from VK.com program at HackerOne:
 11. [Вставляем свой код в мобильном приложении в разделе помощи сообществам](https://hackerone.com/reports/433904) to VK.com - 44 upvotes, $300
 12. [Clickjacking vkpay](https://hackerone.com/reports/374817) to VK.com - 44 upvotes, $0
 13. [Выполнение API-методов при открытии сообщества/приложения](https://hackerone.com/reports/1354452) to VK.com - 43 upvotes, $2000
-14. [[VK Android] Access to app protected components leads to arbitrary code execution](https://hackerone.com/reports/1095633) to VK.com - 42 upvotes, $0
+14. [[VK Android] Access to app protected components leads to arbitrary code execution](https://hackerone.com/reports/1095633) to VK.com - 43 upvotes, $0
 15. [Bypass User Interaction to initiate a VoIP call to Another User](https://hackerone.com/reports/386144) to VK.com - 41 upvotes, $500
 16. [Мини-уязвимость в обработке ссылок](https://hackerone.com/reports/726063) to VK.com - 41 upvotes, $0
 17. [XSS в upload.php](https://hackerone.com/reports/142135) to VK.com - 38 upvotes, $1500
@@ -33,7 +33,7 @@ Top reports from VK.com program at HackerOne:
 31. [Уязвимость в методе auth.restore](https://hackerone.com/reports/366153) to VK.com - 27 upvotes, $0
 32. [Reflected XSS в /al_audio.php](https://hackerone.com/reports/334691) to VK.com - 25 upvotes, $700
 33. [Просмотр закрытых фотографий](https://hackerone.com/reports/584582) to VK.com - 24 upvotes, $500
-34. [Уязвимый класс WebView](https://hackerone.com/reports/452835) to VK.com - 23 upvotes, $200
+34. [Уязвимый класс WebView](https://hackerone.com/reports/452835) to VK.com - 24 upvotes, $200
 35. [XSS в личных сообщениях](https://hackerone.com/reports/281851) to VK.com - 23 upvotes, $0
 36. [CSRF на установку своей почты к аккаунту.](https://hackerone.com/reports/301586) to VK.com - 23 upvotes, $0
 37. [Обход 2ух-шаговой авторизации / 2FA Bypass](https://hackerone.com/reports/163834) to VK.com - 21 upvotes, $1000

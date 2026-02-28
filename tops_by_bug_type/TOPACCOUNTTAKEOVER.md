@@ -1,12 +1,12 @@
 Top Account Takeover reports from HackerOne:
 
-1. [Account takeover via leaked session cookie](https://hackerone.com/reports/745324) to HackerOne - 1615 upvotes, $20000
-2. [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) to Slack - 859 upvotes, $0
-3. [Account Takeover via Password Reset without user interactions](https://hackerone.com/reports/2293343) to GitLab - 847 upvotes, $35000
+1. [Account takeover via leaked session cookie](https://hackerone.com/reports/745324) to HackerOne - 1616 upvotes, $20000
+2. [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) to Slack - 861 upvotes, $0
+3. [Account Takeover via Password Reset without user interactions](https://hackerone.com/reports/2293343) to GitLab - 859 upvotes, $35000
 4. [Bypassing Digits origin validation which leads to account takeover](https://hackerone.com/reports/129873) to X / xAI - 612 upvotes, $0
 5. [Request smuggling on admin-official.line.me could lead to account takeover](https://hackerone.com/reports/740037) to LY Corporation - 563 upvotes, $0
-6. [Flickr Account Takeover using AWS Cognito API](https://hackerone.com/reports/1342088) to Flickr - 434 upvotes, $0
-7. [Full account takeover](https://hackerone.com/reports/314808) to Reverb.com - 403 upvotes, $0
+6. [Flickr Account Takeover using AWS Cognito API](https://hackerone.com/reports/1342088) to Flickr - 435 upvotes, $0
+7. [Full account takeover](https://hackerone.com/reports/314808) to Reverb.com - 405 upvotes, $0
 8. [Account Takeover worki.ru](https://hackerone.com/reports/744662) to Mail.ru - 391 upvotes, $1700
 9. [CVE-2019-5765: 1-click HackerOne account takeover on all Android devices](https://hackerone.com/reports/563870) to Chrome - 375 upvotes, $0
 10. [[CSRF] TikTok Careers Portal Account Takeover](https://hackerone.com/reports/1010522) to TikTok - 364 upvotes, $0
@@ -15,35 +15,35 @@ Top Account Takeover reports from HackerOne:
 13. [yelp.com XSS ATO (via login keylogger, link Google account)](https://hackerone.com/reports/2010530) to Yelp - 319 upvotes, $0
 14. [Change any Uber user's password through /rt/users/passwordless-signup - Account Takeover (critical)](https://hackerone.com/reports/143717) to Uber - 307 upvotes, $0
 15. [Reflected XSS at https://pay.gold.razer.com escalated to account takeover](https://hackerone.com/reports/723060) to Razer - 287 upvotes, $750
-16. [Account takeover through the combination of cookie manipulation and XSS](https://hackerone.com/reports/534450) to Superhuman (formerly Grammarly) - 285 upvotes, $0
-17. [Insufficient OAuth callback validation which leads to Periscope account takeover](https://hackerone.com/reports/110293) to X / xAI - 272 upvotes, $0
-18. [[CRITICAL] 0-Click Account Takeover via Password Reset [AUTH-3243] /orchestrator/v1/password_reset/start](https://hackerone.com/reports/2831902) to Remitly - 260 upvotes, $0
-19. [Singapore - Account Takeover via IDOR](https://hackerone.com/reports/876300) to Starbucks - 254 upvotes, $0
+16. [Account takeover through the combination of cookie manipulation and XSS](https://hackerone.com/reports/534450) to Superhuman (formerly Grammarly) - 286 upvotes, $0
+17. [Insufficient OAuth callback validation which leads to Periscope account takeover](https://hackerone.com/reports/110293) to X / xAI - 273 upvotes, $0
+18. [[CRITICAL] 0-Click Account Takeover via Password Reset [AUTH-3243] /orchestrator/v1/password_reset/start](https://hackerone.com/reports/2831902) to Remitly - 265 upvotes, $0
+19. [Singapore - Account Takeover via IDOR](https://hackerone.com/reports/876300) to Starbucks - 255 upvotes, $0
 20. [Mass Account Takeover at https://app.taxjar.com/ - No user Interaction](https://hackerone.com/reports/1581240) to Stripe - 249 upvotes, $0
 21. [Ability to DOS any organization's SSO and open up the door to account takeovers](https://hackerone.com/reports/976603) to Superhuman (formerly Grammarly) - 248 upvotes, $10500
 22. [Account Takeover using Linked Accounts due to lack of CSRF protection](https://hackerone.com/reports/463330) to Rockstar Games - 235 upvotes, $0
-23. [Account takeover of existing HackerOne accounts through SCIM provisioning](https://hackerone.com/reports/3178999) to HackerOne - 221 upvotes, $0
+23. [Account takeover of existing HackerOne accounts through SCIM provisioning](https://hackerone.com/reports/3178999) to HackerOne - 222 upvotes, $0
 24. [Account Takeover via Email ID Change and Forgot Password Functionality](https://hackerone.com/reports/1089467) to New Relic - 214 upvotes, $2048
 25. [Account Takeover in Periscope TV](https://hackerone.com/reports/317476) to X / xAI - 209 upvotes, $0
-26. [1 Click Account Takeover via Auth Token Theft on marketing.hostinger.com](https://hackerone.com/reports/3081691) to hostinger  - 201 upvotes, $0
+26. [1 Click Account Takeover via Auth Token Theft on marketing.hostinger.com](https://hackerone.com/reports/3081691) to hostinger  - 202 upvotes, $0
 27. [IDOR when editing users leads to Account Takeover without User Interaction at CrowdSignal](https://hackerone.com/reports/915114) to Automattic - 198 upvotes, $0
 28. [Chaining Bugs: Leakage of CSRF token which leads to Stored XSS and Account Takeover (xs1.tribalwars.cash)](https://hackerone.com/reports/604120) to InnoGames - 186 upvotes, $1100
-29. [1 click Account takeover via deeplink in [com.kayak.android]](https://hackerone.com/reports/1667998) to KAYAK - 161 upvotes, $0
-30. [Account Takeover via Authentication Bypass in TikTok Account Recovery](https://hackerone.com/reports/2443228) to TikTok - 159 upvotes, $12000
-31. [Cache Deception Allows Account Takeover](https://hackerone.com/reports/1698316) to Expedia Group Bug Bounty - 155 upvotes, $750
-32. [SSRF in Autodesk Rendering leading to account takeover](https://hackerone.com/reports/3024673) to Autodesk - 153 upvotes, $0
+29. [1 click Account takeover via deeplink in [com.kayak.android]](https://hackerone.com/reports/1667998) to KAYAK - 162 upvotes, $0
+30. [Account Takeover via Authentication Bypass in TikTok Account Recovery](https://hackerone.com/reports/2443228) to TikTok - 160 upvotes, $12000
+31. [Cache Deception Allows Account Takeover](https://hackerone.com/reports/1698316) to Expedia Group Bug Bounty - 156 upvotes, $0
+32. [SSRF in Autodesk Rendering leading to account takeover](https://hackerone.com/reports/3024673) to Autodesk - 154 upvotes, $0
 33. [Account Takeover at worki.ru](https://hackerone.com/reports/725707) to Mail.ru - 143 upvotes, $1500
-34. [Account Takeover at vseapteki.ru](https://hackerone.com/reports/707231) to Mail.ru - 142 upvotes, $2000
-35. [Spring Actuator endpoints publicly available, leading to account takeover](https://hackerone.com/reports/862589) to LY Corporation - 141 upvotes, $5000
+34. [Spring Actuator endpoints publicly available, leading to account takeover](https://hackerone.com/reports/862589) to LY Corporation - 142 upvotes, $5000
+35. [Account Takeover at vseapteki.ru](https://hackerone.com/reports/707231) to Mail.ru - 142 upvotes, $2000
 36. [Account takeover - improper validation of jwt signature (with regards  to experiation date claim)](https://hackerone.com/reports/1760403) to Linktree - 141 upvotes, $0
 37. [Open Redirect on central.uber.com allows for account takeover](https://hackerone.com/reports/206591) to Uber - 140 upvotes, $0
 38. [Account TakeOver through password recovery at am.ru](https://hackerone.com/reports/730067) to Mail.ru - 139 upvotes, $3000
 39. [Account takeover via insecure intent handling  ](https://hackerone.com/reports/2516732) to Basecamp - 133 upvotes, $0
-40. [Account takeover due to misconfiguration](https://hackerone.com/reports/1114347) to Mattermost - 130 upvotes, $0
+40. [Account takeover due to misconfiguration](https://hackerone.com/reports/1114347) to Mattermost - 131 upvotes, $0
 41. [FULL ACCOUNT TAKEOVER](https://hackerone.com/reports/2542372) to MTN Group - 122 upvotes, $0
 42. [SMS Brute Force Possibility via https://youdrive.today/login/web/code can lead to Account Takeover](https://hackerone.com/reports/922418) to Mail.ru - 121 upvotes, $0
 43. [[CRITICAL] Full account takeover without user interaction on sign with Apple flow](https://hackerone.com/reports/1639802) to Glassdoor - 118 upvotes, $0
-44. [Cache Poisoning Allows Stored XSS Via hav Cookie Parameter (To Account Takeover)](https://hackerone.com/reports/1760213) to Expedia Group Bug Bounty - 114 upvotes, $750
+44. [Cache Poisoning Allows Stored XSS Via hav Cookie Parameter (To Account Takeover)](https://hackerone.com/reports/1760213) to Expedia Group Bug Bounty - 115 upvotes, $0
 45. [[www.32red.com] Reverse proxy misconfiguration leads to 1-click account takeover](https://hackerone.com/reports/1632973) to Kindred Group - 112 upvotes, $0
 46. [[help.steampowered.com] Account takeover bruteforcing SteamGuard](https://hackerone.com/reports/407971) to Valve - 109 upvotes, $2500
 47. [Account Takeover Vulnerability in Shopify Collabs Platform Due to Missing Email Verification](https://hackerone.com/reports/1679734) to Shopify - 107 upvotes, $800
@@ -60,60 +60,60 @@ Top Account Takeover reports from HackerOne:
 58. [Account takeover due to insufficient URL validation on RelayState parameter](https://hackerone.com/reports/1923672) to GitLab - 93 upvotes, $2450
 59. [CSRF Account Takeover](https://hackerone.com/reports/1253462) to TikTok - 92 upvotes, $0
 60. [Account Takeover via SMS Authentication Flow ](https://hackerone.com/reports/1245762) to Zenly - 91 upvotes, $0
-61. [Account takeover w/o interaction for a user that doesn't have 2fa enabled via 2fa linking and improper auth at /api/2fa/verify](https://hackerone.com/reports/810880) to Helium - 88 upvotes, $100
-62. [account takeover https://idea.qiwi.com/ ](https://hackerone.com/reports/464426) to QIWI - 87 upvotes, $0
-63. [Complete Admin account takeover due to PhpDebugBar turned on in Uber's production server](https://hackerone.com/reports/1883806) to Uber - 87 upvotes, $0
-64. [Account Takeover in Password Reset Function](https://hackerone.com/reports/3228888) to Mars - 87 upvotes, $0
+61. [Account Takeover in Password Reset Function](https://hackerone.com/reports/3228888) to Mars - 91 upvotes, $0
+62. [Account takeover w/o interaction for a user that doesn't have 2fa enabled via 2fa linking and improper auth at /api/2fa/verify](https://hackerone.com/reports/810880) to Helium - 88 upvotes, $100
+63. [account takeover https://idea.qiwi.com/ ](https://hackerone.com/reports/464426) to QIWI - 87 upvotes, $0
+64. [Complete Admin account takeover due to PhpDebugBar turned on in Uber's production server](https://hackerone.com/reports/1883806) to Uber - 87 upvotes, $0
 65. [[CRITICAL] -- Complete Account Takeover](https://hackerone.com/reports/136885) to Uber - 86 upvotes, $8000
-66. [Account takeover at https://try.discourse.org due to no CSRF protection in connecting Yahoo account](https://hackerone.com/reports/423022) to Discourse - 86 upvotes, $0
-67. [Multiple vulnerability leading to account takeover in TikTok SMB subdomain.](https://hackerone.com/reports/1404612) to TikTok - 86 upvotes, $0
-68. [Ability to Add and Verify Uncontrolled Mobile Numbers Leading to Account Takeover (ATO)](https://hackerone.com/reports/2762462) to MTN Group - 85 upvotes, $0
-69. [[CRITICAL] Full account takeover using CSRF](https://hackerone.com/reports/235642) to X / xAI - 84 upvotes, $0
-70. [Misconfigured oauth leads to Pre account takeover ](https://hackerone.com/reports/1074047) to Bumble - 83 upvotes, $0
+66. [Account takeover at https://try.discourse.org due to no CSRF protection in connecting Yahoo account](https://hackerone.com/reports/423022) to Discourse - 86 upvotes, $512
+67. [Misconfigured oauth leads to Pre account takeover ](https://hackerone.com/reports/1074047) to Bumble - 86 upvotes, $0
+68. [Multiple vulnerability leading to account takeover in TikTok SMB subdomain.](https://hackerone.com/reports/1404612) to TikTok - 86 upvotes, $0
+69. [Ability to Add and Verify Uncontrolled Mobile Numbers Leading to Account Takeover (ATO)](https://hackerone.com/reports/2762462) to MTN Group - 86 upvotes, $0
+70. [[CRITICAL] Full account takeover using CSRF](https://hackerone.com/reports/235642) to X / xAI - 84 upvotes, $0
 71. [Full Account Takeover on *.unibet.com due to crossdomain.xml and AkamaiPlayer loaderContext](https://hackerone.com/reports/302581) to Kindred Group - 83 upvotes, $0
 72. [CSRF leads to Account takeover](https://hackerone.com/reports/2699029) to U.S. Dept Of Defense - 82 upvotes, $0
 73. [Password Reset Link not expiring after changing the email Leads To Account Takeover](https://hackerone.com/reports/685007) to Imgur - 81 upvotes, $0
 74. [Urgent! Stored XSS at plugin's violations leading to account takeover](https://hackerone.com/reports/602527) to New Relic - 79 upvotes, $0
 75. [Account takeover by changing email](https://hackerone.com/reports/538800) to Khan Academy - 77 upvotes, $0
 76. [Account takeover via Google OneTap](https://hackerone.com/reports/671406) to Priceline - 77 upvotes, $0
-77. [Unauthorized access to PII leads to Administrator account Takeover](https://hackerone.com/reports/2450685) to MTN Group - 76 upvotes, $0
+77. [Unauthorized access to PII leads to Administrator account Takeover](https://hackerone.com/reports/2450685) to MTN Group - 77 upvotes, $0
 78. [Grammarly Keyboard for Android "Authorization Code with PKCE" flow implementation vulnerability that allows account takeover](https://hackerone.com/reports/824931) to Superhuman (formerly Grammarly) - 74 upvotes, $0
-79. [Account takeover through password reset in cups.mail.ru](https://hackerone.com/reports/843160) to Mail.ru - 68 upvotes, $0
-80. [Full account takeover of any user through reset password](https://hackerone.com/reports/2194928) to U.S. Dept Of Defense - 68 upvotes, $0
-81. [CSRF leads to Account takeover](https://hackerone.com/reports/2712857) to U.S. Dept Of Defense - 63 upvotes, $0
-82. [Two click Account Takeover ](https://hackerone.com/reports/3079738) to Basecamp - 63 upvotes, $0
+79. [Two click Account Takeover ](https://hackerone.com/reports/3079738) to Basecamp - 70 upvotes, $0
+80. [Account takeover through password reset in cups.mail.ru](https://hackerone.com/reports/843160) to Mail.ru - 68 upvotes, $0
+81. [Full account takeover of any user through reset password](https://hackerone.com/reports/2194928) to U.S. Dept Of Defense - 68 upvotes, $0
+82. [CSRF leads to Account takeover](https://hackerone.com/reports/2712857) to U.S. Dept Of Defense - 63 upvotes, $0
 83. [account takeover on 3.0.1 version](https://hackerone.com/reports/842625) to Rocket.Chat - 62 upvotes, $0
 84. [No Email Checking at Invitation Confirmation Link leads to Account Takeover without User Interaction at CrowdSignal](https://hackerone.com/reports/915110) to Automattic - 62 upvotes, $0
 85. [Account Takeover / Arbitrary File read and deletion / Partial code execution (intent redirection)](https://hackerone.com/reports/2289836) to MercadoLibre - 62 upvotes, $0
 86. [Unauthorized Password Reset Allows Account Takeover Across Tenant Boundaries](https://hackerone.com/reports/3378635) to lemlist - 62 upvotes, $0
-87. [[CRITICAL] Full account takeover using CSRF](https://hackerone.com/reports/127703) to Bumble - 58 upvotes, $0
-88. [Big Picture web browser leaks login cookies and discloses sensitive information (may lead to account takeover)](https://hackerone.com/reports/1079561) to Valve - 58 upvotes, $0
-89. [account takeover through password reset in url https://reklama.tochka.com/](https://hackerone.com/reports/1379842) to QIWI - 57 upvotes, $0
-90. [CSRF-tokens on pages without no-cache headers, resulting in ATO when using CloudFlare proxy (Web Cache Deception)](https://hackerone.com/reports/260697) to Discourse - 56 upvotes, $0
-91. [0 Click account takeover via timed requests to ███████forgot-password (single-packet attack)](https://hackerone.com/reports/2142109) to Mars - 56 upvotes, $0
-92. [Account Takeover via billing](https://hackerone.com/reports/394329) to Chaturbate - 54 upvotes, $8000
-93. [Social Club Account Takeover Via RGL And Steam/Epic Linked Account](https://hackerone.com/reports/1235008) to Rockstar Games - 52 upvotes, $1000
-94. [IDOR in API applications (able to see any API token, leads to account takeover)](https://hackerone.com/reports/1695454) to Automattic - 52 upvotes, $0
-95. [Stored XSS on auth.uber.com/oauth/v2/authorize via redirect_uri parameter leads to Account Takeover](https://hackerone.com/reports/397497) to Uber - 49 upvotes, $3000
-96. [Improper Authentication inside the Rockstar Games Launcher which leads to Account takeover to some extend](https://hackerone.com/reports/1442783) to Rockstar Games - 49 upvotes, $750
-97. [Full account takeover of any user through reset password](https://hackerone.com/reports/1175081) to UPchieve - 48 upvotes, $0
-98. [Mystery with a leaked token and Reusability of email confirmation link leading to Account Takeover](https://hackerone.com/reports/1817214) to Sorare - 47 upvotes, $300
-99. [IDOR when editing email leads to Account Takeover on Atavist](https://hackerone.com/reports/950881) to Automattic - 46 upvotes, $0
-100. [Second-Order XSS via javascript protocol in MCP Server Portal Apps leads to ATO](https://hackerone.com/reports/3316910) to Cloudflare Public Bug Bounty - 45 upvotes, $0
-101. [through %09 Character the attacker is able to steal Github Token [ Account Takeover ]](https://hackerone.com/reports/763058) to Vercel - 44 upvotes, $0
-102. [Host header injection leads to account takeover](https://hackerone.com/reports/1623672) to Enjin - 43 upvotes, $0
-103. [CSRF Attack on changing security questions leads to full Account TakeOver](https://hackerone.com/reports/2652603) to U.S. Dept Of Defense - 43 upvotes, $0
-104. [Missing rate limit for current password field (Password Change) Account Takeover](https://hackerone.com/reports/827484) to Acronis - 41 upvotes, $0
-105. [Forgot Password Page SMS Brute Force could lead to Account Takeover using Android/IOS app "About the house" via api.prodom.smart.space](https://hackerone.com/reports/944392) to Mail.ru - 41 upvotes, $0
-106. [clickjacing can lead to account takeover](https://hackerone.com/reports/2119892) to pixiv - 40 upvotes, $200
+87. [clickjacing can lead to account takeover](https://hackerone.com/reports/2119892) to pixiv - 61 upvotes, $200
+88. [[CRITICAL] Full account takeover using CSRF](https://hackerone.com/reports/127703) to Bumble - 58 upvotes, $0
+89. [Big Picture web browser leaks login cookies and discloses sensitive information (may lead to account takeover)](https://hackerone.com/reports/1079561) to Valve - 58 upvotes, $0
+90. [account takeover through password reset in url https://reklama.tochka.com/](https://hackerone.com/reports/1379842) to QIWI - 57 upvotes, $0
+91. [CSRF-tokens on pages without no-cache headers, resulting in ATO when using CloudFlare proxy (Web Cache Deception)](https://hackerone.com/reports/260697) to Discourse - 56 upvotes, $0
+92. [0 Click account takeover via timed requests to ███████forgot-password (single-packet attack)](https://hackerone.com/reports/2142109) to Mars - 56 upvotes, $0
+93. [Account Takeover via billing](https://hackerone.com/reports/394329) to Chaturbate - 54 upvotes, $8000
+94. [Social Club Account Takeover Via RGL And Steam/Epic Linked Account](https://hackerone.com/reports/1235008) to Rockstar Games - 53 upvotes, $1000
+95. [IDOR in API applications (able to see any API token, leads to account takeover)](https://hackerone.com/reports/1695454) to Automattic - 52 upvotes, $0
+96. [Stored XSS on auth.uber.com/oauth/v2/authorize via redirect_uri parameter leads to Account Takeover](https://hackerone.com/reports/397497) to Uber - 50 upvotes, $3000
+97. [Improper Authentication inside the Rockstar Games Launcher which leads to Account takeover to some extend](https://hackerone.com/reports/1442783) to Rockstar Games - 49 upvotes, $750
+98. [Full account takeover of any user through reset password](https://hackerone.com/reports/1175081) to UPchieve - 49 upvotes, $0
+99. [Mystery with a leaked token and Reusability of email confirmation link leading to Account Takeover](https://hackerone.com/reports/1817214) to Sorare - 47 upvotes, $300
+100. [IDOR when editing email leads to Account Takeover on Atavist](https://hackerone.com/reports/950881) to Automattic - 46 upvotes, $0
+101. [Second-Order XSS via javascript protocol in MCP Server Portal Apps leads to ATO](https://hackerone.com/reports/3316910) to Cloudflare Public Bug Bounty - 45 upvotes, $0
+102. [through %09 Character the attacker is able to steal Github Token [ Account Takeover ]](https://hackerone.com/reports/763058) to Vercel - 44 upvotes, $0
+103. [Host header injection leads to account takeover](https://hackerone.com/reports/1623672) to Enjin - 43 upvotes, $0
+104. [CSRF Attack on changing security questions leads to full Account TakeOver](https://hackerone.com/reports/2652603) to U.S. Dept Of Defense - 43 upvotes, $0
+105. [Missing rate limit for current password field (Password Change) Account Takeover](https://hackerone.com/reports/827484) to Acronis - 42 upvotes, $0
+106. [Forgot Password Page SMS Brute Force could lead to Account Takeover using Android/IOS app "About the house" via api.prodom.smart.space](https://hackerone.com/reports/944392) to Mail.ru - 41 upvotes, $0
 107. [account takeover https://teamplay.qiwi.com](https://hackerone.com/reports/439207) to QIWI - 40 upvotes, $0
 108. [Account takeover through CSRF in http://███████/██████████/default.asp](https://hackerone.com/reports/670924) to U.S. Dept Of Defense - 40 upvotes, $0
-109. [Weak rate limit could lead to ATO due to weak password protection mechanisms](https://hackerone.com/reports/1065186) to Reddit - 39 upvotes, $100
-110. [Gitlab Oauth Misconfiguration Lead To Account Takeover ](https://hackerone.com/reports/541701) to Vercel - 39 upvotes, $0
+109. [Gitlab Oauth Misconfiguration Lead To Account Takeover ](https://hackerone.com/reports/541701) to Vercel - 39 upvotes, $0
+110. [Weak rate limit could lead to ATO due to weak password protection mechanisms](https://hackerone.com/reports/1065186) to Reddit - 39 upvotes, $0
 111. [IDOR to account takeover on POST to █████████ by changing member_id parameter](https://hackerone.com/reports/2132183) to Mars - 39 upvotes, $0
 112. [Account takeover by using  abandoned email id of victim which has already been changed to new  by victim himself on one.newrelic.com](https://hackerone.com/reports/1021232) to New Relic - 38 upvotes, $300
-113. [Account takeover via XSS](https://hackerone.com/reports/735638) to Rocket.Chat - 38 upvotes, $0
-114. [Authentication Bypass - Chaining two vulnerabilities leads to account takeover at en.instagram-brand.com](https://hackerone.com/reports/209008) to Automattic - 37 upvotes, $0
+113. [Authentication Bypass - Chaining two vulnerabilities leads to account takeover at en.instagram-brand.com](https://hackerone.com/reports/209008) to Automattic - 38 upvotes, $0
+114. [Account takeover via XSS](https://hackerone.com/reports/735638) to Rocket.Chat - 38 upvotes, $0
 115. [Reset password cookie leads to account takeover](https://hackerone.com/reports/1004536) to Weblate - 37 upvotes, $0
 116. [html injection via invite members can be leads account takeover ](https://hackerone.com/reports/1443567) to Mattermost - 37 upvotes, $0
 117. [Account takeover using reset password link](https://hackerone.com/reports/2341038) to Mars - 37 upvotes, $0
@@ -146,13 +146,13 @@ Top Account Takeover reports from HackerOne:
 144. [weak password poilicy in signup password leak to account takeover](https://hackerone.com/reports/985367) to Stripo Inc - 22 upvotes, $0
 145. [Git Reference Ambiguity in GitHub - Commit Smuggling, Account Takeover, and Remote Code Execution](https://hackerone.com/reports/2017600) to GitHub - 22 upvotes, $0
 146. [Password Reset link hijacking via Host Header Poisoning leads to account takeover](https://hackerone.com/reports/1108874) to U.S. Dept Of Defense - 21 upvotes, $0
-147. [[REMOTE] Full Account Takeover At https://██████████████/CAS/](https://hackerone.com/reports/215859) to U.S. Dept Of Defense - 19 upvotes, $0
-148. [CORS Misconfiguration on nordvpn.com leading to Private Information Disclosure,Account takeover](https://hackerone.com/reports/758785) to Nord Security - 19 upvotes, $0
-149. [ Account Takeover on unverified emails in File Sync & Share ](https://hackerone.com/reports/906790) to Acronis - 19 upvotes, $0
-150. [Github Account Takeover which is used as gradle vcs in "github.com/palantir/gradle-launch-config-plugin"](https://hackerone.com/reports/1525578) to Palantir Public - 19 upvotes, $0
-151. [[hta3] Chain of ESI Injection & Reflected XSS leading to Account Takeover on [███]](https://hackerone.com/reports/1073780) to U.S. Dept Of Defense - 19 upvotes, $0
-152. [Account TakeOver at kvartira.city-mobil.ru](https://hackerone.com/reports/1004360) to Mail.ru - 18 upvotes, $150
-153. [No Password Verification on  Changing Email Address Cause Account takeover   ](https://hackerone.com/reports/292673) to Coursera - 18 upvotes, $0
+147. [No Password Verification on  Changing Email Address Cause Account takeover   ](https://hackerone.com/reports/292673) to Coursera - 19 upvotes, $0
+148. [[REMOTE] Full Account Takeover At https://██████████████/CAS/](https://hackerone.com/reports/215859) to U.S. Dept Of Defense - 19 upvotes, $0
+149. [CORS Misconfiguration on nordvpn.com leading to Private Information Disclosure,Account takeover](https://hackerone.com/reports/758785) to Nord Security - 19 upvotes, $0
+150. [ Account Takeover on unverified emails in File Sync & Share ](https://hackerone.com/reports/906790) to Acronis - 19 upvotes, $0
+151. [Github Account Takeover which is used as gradle vcs in "github.com/palantir/gradle-launch-config-plugin"](https://hackerone.com/reports/1525578) to Palantir Public - 19 upvotes, $0
+152. [[hta3] Chain of ESI Injection & Reflected XSS leading to Account Takeover on [███]](https://hackerone.com/reports/1073780) to U.S. Dept Of Defense - 19 upvotes, $0
+153. [Account TakeOver at kvartira.city-mobil.ru](https://hackerone.com/reports/1004360) to Mail.ru - 18 upvotes, $150
 154. [Cross Domain leakage of sensitive information - Leading to Account Takeover at Instagram Brand](https://hackerone.com/reports/209352) to Automattic - 18 upvotes, $0
 155. [Account takeover via CORS misconfigutation on https://beta.delivery-club.ru](https://hackerone.com/reports/685032) to Mail.ru - 18 upvotes, $0
 156. [Account takeover via Pornhub Oauth](https://hackerone.com/reports/192648) to Pornhub - 17 upvotes, $1000
@@ -173,60 +173,61 @@ Top Account Takeover reports from HackerOne:
 171. [IDOR + Account Takeover  [UNAUTHENTICATED]](https://hackerone.com/reports/1004750) to U.S. Dept Of Defense - 14 upvotes, $0
 172. [Account Takeover via Forgot Password Page at https://3k.mail.ru/send_password.php?](https://hackerone.com/reports/915331) to Mail.ru - 14 upvotes, $0
 173. [Account takeover on ███████ [HtUS]](https://hackerone.com/reports/1627961) to U.S. Dept Of Defense - 14 upvotes, $0
-174. [Bruteforcing password reset tokens, could lead to account takeover](https://hackerone.com/reports/271533) to Instacart - 13 upvotes, $50
-175. [Full account takeover in ███████ due lack of rate limiting in forgot password](https://hackerone.com/reports/1059758) to U.S. Dept Of Defense - 13 upvotes, $0
-176. [Session mismatch leading to potential account takeover (local access required)](https://hackerone.com/reports/1825227) to Cloudflare Public Bug Bounty - 13 upvotes, $0
-177. [Account takeover](https://hackerone.com/reports/17512) to HackerOne - 12 upvotes, $0
-178. [Missing rate limit in current password change settings leads to Account takeover](https://hackerone.com/reports/1170522) to Reddit - 12 upvotes, $0
-179. [Account takeover leading to PII chained with stored XSS](https://hackerone.com/reports/1483201) to U.S. General Services Administration - 12 upvotes, $0
-180. [Full Account Takeover ](https://hackerone.com/reports/159202) to OLX - 11 upvotes, $0
-181. [[flintcms] Account takeover due to blind MongoDB injection in password reset](https://hackerone.com/reports/386807) to Node.js third-party modules - 11 upvotes, $0
-182. [Leaking Username and Password in the URLs via Virustotal, can leads to account takeover](https://hackerone.com/reports/411920) to Chaturbate - 11 upvotes, $0
-183. [hard-use account takeover qiwi.com](https://hackerone.com/reports/691698) to QIWI - 11 upvotes, $0
-184. [Improper Implementation of SDK Allows Universal XSS in Webview Leading to Account Takeover](https://hackerone.com/reports/1455987) to EXNESS - 11 upvotes, $0
-185. [CSRF in login form would led to account takeover](https://hackerone.com/reports/50703) to Ubiquiti Inc. - 10 upvotes, $0
-186. [CSRF Full Account Takeover](https://hackerone.com/reports/152052) to Concrete CMS - 10 upvotes, $0
-187. [[h1-415 2020] Chain of vulnerabilities leading to account takeover and unauthorized access of sensitive internal resources](https://hackerone.com/reports/781281) to h1-ctf - 10 upvotes, $0
-188. [registering with the same email address multiple times leads to account takeover ](https://hackerone.com/reports/785833) to Reddit - 10 upvotes, $0
-189. [Account Takeover and Information update due to cross site request forgery via POST █████████/registration/my-account.cfm](https://hackerone.com/reports/1626356) to U.S. Dept Of Defense - 10 upvotes, $0
-190. [Full Account Takeover Student Account In https://********.ru/signin/main/student/email](https://hackerone.com/reports/1079275) to Mail.ru - 9 upvotes, $500
-191. [Password Reset emails missing TLS leads account takeover](https://hackerone.com/reports/173251) to RubyGems - 9 upvotes, $0
-192. [Account Takeover using Third party Auth CSRF](https://hackerone.com/reports/225653) to Weblate - 9 upvotes, $0
-193. [CSRF Full Account Takeover - https://redtube.com/settings](https://hackerone.com/reports/388531) to Pornhub - 9 upvotes, $0
-194. [[H1-2006 2020] From multiple vulnerabilities to complete ATO on any customer account and staff admin](https://hackerone.com/reports/894863) to h1-ctf - 9 upvotes, $0
-195. [Stored XSS via 64(?) vulnerable fields in ███ leads to credential theft/account takeover](https://hackerone.com/reports/847176) to U.S. Dept Of Defense - 9 upvotes, $0
-196. [oauth misconfigration lead to account takeover](https://hackerone.com/reports/1815463) to Reddit - 9 upvotes, $0
-197. [Broken authentication and invalidated email address leads to account takeover](https://hackerone.com/reports/22203) to X / xAI - 8 upvotes, $0
-198. [CSRF token fixation and potential account takeover](https://hackerone.com/reports/308394) to Khan Academy - 8 upvotes, $0
-199. [Liberapay Non Verified Account Takeover with signup feature](https://hackerone.com/reports/361194) to Liberapay - 8 upvotes, $0
-200. [Full account takeover am.ru](https://hackerone.com/reports/329263) to Mail.ru - 8 upvotes, $0
-201. [[H1-2006 2020]  Multiple vulnerabilities leading account takeover](https://hackerone.com/reports/887700) to h1-ctf - 8 upvotes, $0
-202. [Password Reset Link not expiring after changing the email Leads To Account Takeover](https://hackerone.com/reports/792737) to Nord Security - 8 upvotes, $0
-203. [Non-changing "_idnonce" value leads to CSRF on accounts at https://intensedebate.com for account takeover](https://hackerone.com/reports/1090982) to Automattic - 8 upvotes, $0
-204. [No Rate limit on change password leads to account takeover](https://hackerone.com/reports/1165285) to Reddit - 8 upvotes, $0
-205. [Unauthorized access to PII leads to MASS account Takeover](https://hackerone.com/reports/1061736) to U.S. Dept Of Defense - 8 upvotes, $0
-206. [Regex account takeover](https://hackerone.com/reports/1581059) to Rocket.Chat - 8 upvotes, $0
-207. [Weak e-mail change functionality could lead to account takeover](https://hackerone.com/reports/223461) to Weblate - 7 upvotes, $0
-208. [Account takeover vulnerability by editor role privileged users/attackers via clickjacking](https://hackerone.com/reports/388254) to WordPress - 7 upvotes, $0
-209. [Account takeover due to CSRF in "Account details" option on █████████](https://hackerone.com/reports/410099) to U.S. Dept Of Defense - 7 upvotes, $0
-210. [CSRF to account takeover in https://█████/](https://hackerone.com/reports/1018270) to U.S. Dept Of Defense - 7 upvotes, $0
-211. [Account Takeover via Unverified Email Change and Improper Session Handling](https://hackerone.com/reports/3324823) to U.S. Dept Of Defense - 7 upvotes, $0
-212. [[hosted.weblate.org]Account Takeover](https://hackerone.com/reports/223637) to Weblate - 6 upvotes, $0
-213. [[city-mobil.ru/taxiserv/] IDOR leads to driver account takeover](https://hackerone.com/reports/751281) to Mail.ru - 6 upvotes, $0
-214. [CSRF - Modify User Settings with one click - Account TakeOver](https://hackerone.com/reports/799895) to U.S. Dept Of Defense - 6 upvotes, $0
-215. [No Security check at changing password and at adding mobile number which leads to account takeover and spam](https://hackerone.com/reports/207552) to Khan Academy - 5 upvotes, $0
-216. [Account Takeover with old password and login QR](https://hackerone.com/reports/764558) to BCM Messenger - 5 upvotes, $0
-217. [mrgs.my.games account takeover](https://hackerone.com/reports/999314) to Mail.ru - 4 upvotes, $500
-218. [Session Token is not Verified while changing Account Setting's which Result In account Takeover](https://hackerone.com/reports/6907) to IRCCloud - 4 upvotes, $0
-219. [Clickjacking Full account takeover and editing the personal information at [account.my.com]](https://hackerone.com/reports/261652) to Mail.ru - 4 upvotes, $0
-220. [[h1-2006 2020]  Chained vulnerabilities lead to account takeover](https://hackerone.com/reports/895650) to h1-ctf - 4 upvotes, $0
-221. [[H1-2006 2020]  Multiple vulnerabilities lead to CEO account takeover and paid bounties](https://hackerone.com/reports/890196) to h1-ctf - 4 upvotes, $0
-222. [[h1-2006 CTF] Multiple vulnerabilities leading to account takeover and two-factor authentication bypass allows to send pending bounty payments](https://hackerone.com/reports/895722) to h1-ctf - 4 upvotes, $0
-223. [Keychain data persistence may lead to account takeover](https://hackerone.com/reports/761975) to QIWI - 4 upvotes, $0
-224. [Session Token is not Verified while changing Account Setting's which Result In account Takeover](https://hackerone.com/reports/15476) to FanFootage - 3 upvotes, $0
-225. [Full account takeover via Add a New Email to account without email verified and without password confirmation.](https://hackerone.com/reports/45084) to Vimeo - 3 upvotes, $0
-226. [Adding Used Primary Email Address to attacker account and Account takeover](https://hackerone.com/reports/273647) to Gratipay - 3 upvotes, $0
-227. [Limited Account Takeover via Backup codes ](https://hackerone.com/reports/281449) to Inflection - 3 upvotes, $0
-228. [No Confirmation or Notification During Email Change which can leads to account takeover](https://hackerone.com/reports/282572) to Infogram - 3 upvotes, $0
-229. [Stored admin-to-owner XSS at infrastructure alerts runbook URL leading to account takeover by malicious admin](https://hackerone.com/reports/605845) to New Relic - 3 upvotes, $0
-230. [Verification Link not expiring leading to Account Takeover.](https://hackerone.com/reports/1250631) to New Relic - 3 upvotes, $0
+174. [ No Rate Limiting on Password Attempts After Insecure Registration Flow cause ATO](https://hackerone.com/reports/3174778) to Mars - 14 upvotes, $0
+175. [Bruteforcing password reset tokens, could lead to account takeover](https://hackerone.com/reports/271533) to Instacart - 13 upvotes, $50
+176. [Full account takeover in ███████ due lack of rate limiting in forgot password](https://hackerone.com/reports/1059758) to U.S. Dept Of Defense - 13 upvotes, $0
+177. [Session mismatch leading to potential account takeover (local access required)](https://hackerone.com/reports/1825227) to Cloudflare Public Bug Bounty - 13 upvotes, $0
+178. [Account takeover](https://hackerone.com/reports/17512) to HackerOne - 12 upvotes, $0
+179. [Missing rate limit in current password change settings leads to Account takeover](https://hackerone.com/reports/1170522) to Reddit - 12 upvotes, $0
+180. [Account takeover leading to PII chained with stored XSS](https://hackerone.com/reports/1483201) to U.S. General Services Administration - 12 upvotes, $0
+181. [Full Account Takeover ](https://hackerone.com/reports/159202) to OLX - 11 upvotes, $0
+182. [[flintcms] Account takeover due to blind MongoDB injection in password reset](https://hackerone.com/reports/386807) to Node.js third-party modules - 11 upvotes, $0
+183. [Leaking Username and Password in the URLs via Virustotal, can leads to account takeover](https://hackerone.com/reports/411920) to Chaturbate - 11 upvotes, $0
+184. [hard-use account takeover qiwi.com](https://hackerone.com/reports/691698) to QIWI - 11 upvotes, $0
+185. [Improper Implementation of SDK Allows Universal XSS in Webview Leading to Account Takeover](https://hackerone.com/reports/1455987) to EXNESS - 11 upvotes, $0
+186. [CSRF in login form would led to account takeover](https://hackerone.com/reports/50703) to Ubiquiti Inc. - 10 upvotes, $0
+187. [CSRF Full Account Takeover](https://hackerone.com/reports/152052) to Concrete CMS - 10 upvotes, $0
+188. [[h1-415 2020] Chain of vulnerabilities leading to account takeover and unauthorized access of sensitive internal resources](https://hackerone.com/reports/781281) to h1-ctf - 10 upvotes, $0
+189. [registering with the same email address multiple times leads to account takeover ](https://hackerone.com/reports/785833) to Reddit - 10 upvotes, $0
+190. [Account Takeover and Information update due to cross site request forgery via POST █████████/registration/my-account.cfm](https://hackerone.com/reports/1626356) to U.S. Dept Of Defense - 10 upvotes, $0
+191. [Full Account Takeover Student Account In https://********.ru/signin/main/student/email](https://hackerone.com/reports/1079275) to Mail.ru - 9 upvotes, $500
+192. [Password Reset emails missing TLS leads account takeover](https://hackerone.com/reports/173251) to RubyGems - 9 upvotes, $0
+193. [Account Takeover using Third party Auth CSRF](https://hackerone.com/reports/225653) to Weblate - 9 upvotes, $0
+194. [CSRF Full Account Takeover - https://redtube.com/settings](https://hackerone.com/reports/388531) to Pornhub - 9 upvotes, $0
+195. [[H1-2006 2020] From multiple vulnerabilities to complete ATO on any customer account and staff admin](https://hackerone.com/reports/894863) to h1-ctf - 9 upvotes, $0
+196. [Stored XSS via 64(?) vulnerable fields in ███ leads to credential theft/account takeover](https://hackerone.com/reports/847176) to U.S. Dept Of Defense - 9 upvotes, $0
+197. [oauth misconfigration lead to account takeover](https://hackerone.com/reports/1815463) to Reddit - 9 upvotes, $0
+198. [Account Takeover via Unverified Email Change and Improper Session Handling](https://hackerone.com/reports/3324823) to U.S. Dept Of Defense - 9 upvotes, $0
+199. [Broken authentication and invalidated email address leads to account takeover](https://hackerone.com/reports/22203) to X / xAI - 8 upvotes, $0
+200. [CSRF token fixation and potential account takeover](https://hackerone.com/reports/308394) to Khan Academy - 8 upvotes, $0
+201. [Liberapay Non Verified Account Takeover with signup feature](https://hackerone.com/reports/361194) to Liberapay - 8 upvotes, $0
+202. [Full account takeover am.ru](https://hackerone.com/reports/329263) to Mail.ru - 8 upvotes, $0
+203. [[H1-2006 2020]  Multiple vulnerabilities leading account takeover](https://hackerone.com/reports/887700) to h1-ctf - 8 upvotes, $0
+204. [Password Reset Link not expiring after changing the email Leads To Account Takeover](https://hackerone.com/reports/792737) to Nord Security - 8 upvotes, $0
+205. [Non-changing "_idnonce" value leads to CSRF on accounts at https://intensedebate.com for account takeover](https://hackerone.com/reports/1090982) to Automattic - 8 upvotes, $0
+206. [No Rate limit on change password leads to account takeover](https://hackerone.com/reports/1165285) to Reddit - 8 upvotes, $0
+207. [Unauthorized access to PII leads to MASS account Takeover](https://hackerone.com/reports/1061736) to U.S. Dept Of Defense - 8 upvotes, $0
+208. [Regex account takeover](https://hackerone.com/reports/1581059) to Rocket.Chat - 8 upvotes, $0
+209. [Weak e-mail change functionality could lead to account takeover](https://hackerone.com/reports/223461) to Weblate - 7 upvotes, $0
+210. [Account takeover vulnerability by editor role privileged users/attackers via clickjacking](https://hackerone.com/reports/388254) to WordPress - 7 upvotes, $0
+211. [Account takeover due to CSRF in "Account details" option on █████████](https://hackerone.com/reports/410099) to U.S. Dept Of Defense - 7 upvotes, $0
+212. [CSRF to account takeover in https://█████/](https://hackerone.com/reports/1018270) to U.S. Dept Of Defense - 7 upvotes, $0
+213. [[hosted.weblate.org]Account Takeover](https://hackerone.com/reports/223637) to Weblate - 6 upvotes, $0
+214. [[city-mobil.ru/taxiserv/] IDOR leads to driver account takeover](https://hackerone.com/reports/751281) to Mail.ru - 6 upvotes, $0
+215. [CSRF - Modify User Settings with one click - Account TakeOver](https://hackerone.com/reports/799895) to U.S. Dept Of Defense - 6 upvotes, $0
+216. [No Security check at changing password and at adding mobile number which leads to account takeover and spam](https://hackerone.com/reports/207552) to Khan Academy - 5 upvotes, $0
+217. [Account Takeover with old password and login QR](https://hackerone.com/reports/764558) to BCM Messenger - 5 upvotes, $0
+218. [mrgs.my.games account takeover](https://hackerone.com/reports/999314) to Mail.ru - 4 upvotes, $500
+219. [Session Token is not Verified while changing Account Setting's which Result In account Takeover](https://hackerone.com/reports/6907) to IRCCloud - 4 upvotes, $0
+220. [Clickjacking Full account takeover and editing the personal information at [account.my.com]](https://hackerone.com/reports/261652) to Mail.ru - 4 upvotes, $0
+221. [[h1-2006 2020]  Chained vulnerabilities lead to account takeover](https://hackerone.com/reports/895650) to h1-ctf - 4 upvotes, $0
+222. [[H1-2006 2020]  Multiple vulnerabilities lead to CEO account takeover and paid bounties](https://hackerone.com/reports/890196) to h1-ctf - 4 upvotes, $0
+223. [[h1-2006 CTF] Multiple vulnerabilities leading to account takeover and two-factor authentication bypass allows to send pending bounty payments](https://hackerone.com/reports/895722) to h1-ctf - 4 upvotes, $0
+224. [Keychain data persistence may lead to account takeover](https://hackerone.com/reports/761975) to QIWI - 4 upvotes, $0
+225. [Session Token is not Verified while changing Account Setting's which Result In account Takeover](https://hackerone.com/reports/15476) to FanFootage - 3 upvotes, $0
+226. [Full account takeover via Add a New Email to account without email verified and without password confirmation.](https://hackerone.com/reports/45084) to Vimeo - 3 upvotes, $0
+227. [Adding Used Primary Email Address to attacker account and Account takeover](https://hackerone.com/reports/273647) to Gratipay - 3 upvotes, $0
+228. [Limited Account Takeover via Backup codes ](https://hackerone.com/reports/281449) to Inflection - 3 upvotes, $0
+229. [No Confirmation or Notification During Email Change which can leads to account takeover](https://hackerone.com/reports/282572) to Infogram - 3 upvotes, $0
+230. [Stored admin-to-owner XSS at infrastructure alerts runbook URL leading to account takeover by malicious admin](https://hackerone.com/reports/605845) to New Relic - 3 upvotes, $0
+231. [Verification Link not expiring leading to Account Takeover.](https://hackerone.com/reports/1250631) to New Relic - 3 upvotes, $0
