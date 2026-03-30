@@ -22,12 +22,12 @@ Top reports from Node.js third-party modules program at HackerOne:
 20. [[bower] Arbitrary File Write through improper validation of symlinks while package extraction](https://hackerone.com/reports/473811) to Node.js third-party modules - 15 upvotes, $0
 21. [[typeorm] SQL Injection](https://hackerone.com/reports/506654) to Node.js third-party modules - 15 upvotes, $0
 22. [[tree-kill] RCE via insecure command concatenation (only Windows)](https://hackerone.com/reports/701183) to Node.js third-party modules - 15 upvotes, $0
-23. [Several simple remote code execution in pdf-image](https://hackerone.com/reports/781664) to Node.js third-party modules - 15 upvotes, $0
-24. [[logkitty] RCE via insecure command formatting](https://hackerone.com/reports/825729) to Node.js third-party modules - 15 upvotes, $0
-25. [[query-mysql] SQL Injection due to lack of user input sanitization allows to run arbitrary SQL queries when fetching data from database](https://hackerone.com/reports/311244) to Node.js third-party modules - 14 upvotes, $0
-26. [[ascii-art] Command injection](https://hackerone.com/reports/390631) to Node.js third-party modules - 14 upvotes, $0
-27. [[untitled-model] sql injection](https://hackerone.com/reports/507222) to Node.js third-party modules - 14 upvotes, $0
-28. [Prototype pollution attack (lodash / constructor.prototype)](https://hackerone.com/reports/380873) to Node.js third-party modules - 14 upvotes, $0
+23. [Prototype pollution attack (lodash / constructor.prototype)](https://hackerone.com/reports/380873) to Node.js third-party modules - 15 upvotes, $0
+24. [Several simple remote code execution in pdf-image](https://hackerone.com/reports/781664) to Node.js third-party modules - 15 upvotes, $0
+25. [[logkitty] RCE via insecure command formatting](https://hackerone.com/reports/825729) to Node.js third-party modules - 15 upvotes, $0
+26. [[query-mysql] SQL Injection due to lack of user input sanitization allows to run arbitrary SQL queries when fetching data from database](https://hackerone.com/reports/311244) to Node.js third-party modules - 14 upvotes, $0
+27. [[ascii-art] Command injection](https://hackerone.com/reports/390631) to Node.js third-party modules - 14 upvotes, $0
+28. [[untitled-model] sql injection](https://hackerone.com/reports/507222) to Node.js third-party modules - 14 upvotes, $0
 29. [OS Command Injection on Jison [all-parser-ports]](https://hackerone.com/reports/690010) to Node.js third-party modules - 14 upvotes, $0
 30. [[nested-property] Prototype Pollution](https://hackerone.com/reports/788883) to Node.js third-party modules - 14 upvotes, $0
 31. [[html-pages] Path Traversal in html-pages module allows to read any file from the server with curl](https://hackerone.com/reports/306607) to Node.js third-party modules - 13 upvotes, $0

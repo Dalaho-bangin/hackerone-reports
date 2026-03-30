@@ -8,14 +8,14 @@ Top reports from Internet Bug Bounty program at HackerOne:
 6. [Ubuntu Linux privilege escalation (dirty_sock)](https://hackerone.com/reports/496285) to Internet Bug Bounty - 102 upvotes, $0
 7. [Path traversal and file disclosure vulnerability in Apache HTTP Server 2.4.49](https://hackerone.com/reports/1394916) to Internet Bug Bounty - 95 upvotes, $4000
 8. [JWT audience claim is not verified](https://hackerone.com/reports/1889161) to Internet Bug Bounty - 94 upvotes, $0
-9. [Possibility of Request smuggling attack](https://hackerone.com/reports/2280391) to Internet Bug Bounty - 91 upvotes, $4660
+9. [Possibility of Request smuggling attack](https://hackerone.com/reports/2280391) to Internet Bug Bounty - 92 upvotes, $4660
 10. [CVE-2024-27281: RCE vulnerability with .rdoc_options in RDoc](https://hackerone.com/reports/2438265) to Internet Bug Bounty - 87 upvotes, $4860
 11. [CVE-2022-40604: Apache Airflow: Format String Vulnerability](https://hackerone.com/reports/1707287) to Internet Bug Bounty - 86 upvotes, $8000
 12. [moderate: Apache HTTP Server: mod_rewrite proxy handler substitution (CVE-2024-39573) CWE-20 Improper Input Validation](https://hackerone.com/reports/2585374) to Internet Bug Bounty - 86 upvotes, $2600
 13. [Deadlock in x86 HVM standard VGA handling](https://hackerone.com/reports/2921724) to Internet Bug Bounty - 86 upvotes, $2162
-14. [CVE-2024-41990: Potential denial-of-service in django.utils.html.urlize()](https://hackerone.com/reports/2795558) to Internet Bug Bounty - 82 upvotes, $2162
-15. [Integrity checks according to policies can be circumvented in Node.js 20 and Node.js 18](https://hackerone.com/reports/2208860) to Internet Bug Bounty - 82 upvotes, $1270
-16. [Possible Sensitive Session Information Leak in Active Storage](https://hackerone.com/reports/3082917) to Internet Bug Bounty - 81 upvotes, $4323
+14. [Possible Sensitive Session Information Leak in Active Storage](https://hackerone.com/reports/3082917) to Internet Bug Bounty - 82 upvotes, $4323
+15. [CVE-2024-41990: Potential denial-of-service in django.utils.html.urlize()](https://hackerone.com/reports/2795558) to Internet Bug Bounty - 82 upvotes, $2162
+16. [Integrity checks according to policies can be circumvented in Node.js 20 and Node.js 18](https://hackerone.com/reports/2208860) to Internet Bug Bounty - 82 upvotes, $1270
 17. [In correct casting from size_t to int lead to heap overflow in mcrypt_generic](https://hackerone.com/reports/152398) to Internet Bug Bounty - 81 upvotes, $1000
 18. [Secrets not masked in UI when sensitive variables are set via Airflow cli](https://hackerone.com/reports/2828263) to Internet Bug Bounty - 78 upvotes, $0
 19. [Libuv: Improper Domain Lookup that potentially leads to SSRF attacks](https://hackerone.com/reports/2429894) to Internet Bug Bounty - 74 upvotes, $4860
@@ -64,14 +64,14 @@ Top reports from Internet Bug Bounty program at HackerOne:
 62. [Improper handling of wildcards in --allow-fs-read and --allow-fs-write](https://hackerone.com/reports/2434819) to Internet Bug Bounty - 44 upvotes, $1290
 63. [DOS in stream filters](https://hackerone.com/reports/505278) to Internet Bug Bounty - 44 upvotes, $0
 64. [Possible ReDoS vulnerability in query parameter filtering in Action Dispatch](https://hackerone.com/reports/2872502) to Internet Bug Bounty - 44 upvotes, $0
-65. [CVE-2024-7347: Buffer overread in the ngx_http_mp4_module](https://hackerone.com/reports/2658447) to Internet Bug Bounty - 43 upvotes, $2142
-66. [Integer overflow in CipherUpdate](https://hackerone.com/reports/1113025) to Internet Bug Bounty - 43 upvotes, $0
-67. [Denial of Service caused by HTTP/2 CONTINUATION Flood](https://hackerone.com/reports/2334401) to Internet Bug Bounty - 42 upvotes, $4860
-68. [CVE-2024-2398: HTTP/2 push headers memory-leak](https://hackerone.com/reports/2442613) to Internet Bug Bounty - 42 upvotes, $2580
-69. [Open Redirect Vulnerability in Action Pack](https://hackerone.com/reports/1865991) to Internet Bug Bounty - 42 upvotes, $2400
-70. [Permission model improperly protects against path traversal in Node.js 20](https://hackerone.com/reports/2225660) to Internet Bug Bounty - 42 upvotes, $2330
-71. [CVE-2019-11043: a buffer underflow in fpm_main.c can lead to RCE in php-fpm](https://hackerone.com/reports/722327) to Internet Bug Bounty - 42 upvotes, $1500
-72. [Int Overflow lead to Heap OverFlow in exif_thumbnail_extract of exif.c](https://hackerone.com/reports/384477) to Internet Bug Bounty - 42 upvotes, $0
+65. [Open Redirect Vulnerability in Action Pack](https://hackerone.com/reports/1865991) to Internet Bug Bounty - 43 upvotes, $2400
+66. [CVE-2024-7347: Buffer overread in the ngx_http_mp4_module](https://hackerone.com/reports/2658447) to Internet Bug Bounty - 43 upvotes, $2142
+67. [Integer overflow in CipherUpdate](https://hackerone.com/reports/1113025) to Internet Bug Bounty - 43 upvotes, $0
+68. [Denial of Service caused by HTTP/2 CONTINUATION Flood](https://hackerone.com/reports/2334401) to Internet Bug Bounty - 42 upvotes, $4860
+69. [Permission model improperly protects against path traversal in Node.js 20](https://hackerone.com/reports/2225660) to Internet Bug Bounty - 42 upvotes, $2330
+70. [CVE-2019-11043: a buffer underflow in fpm_main.c can lead to RCE in php-fpm](https://hackerone.com/reports/722327) to Internet Bug Bounty - 42 upvotes, $1500
+71. [Int Overflow lead to Heap OverFlow in exif_thumbnail_extract of exif.c](https://hackerone.com/reports/384477) to Internet Bug Bounty - 42 upvotes, $0
+72. [CVE-2024-2398: HTTP/2 push headers memory-leak](https://hackerone.com/reports/2442613) to Internet Bug Bounty - 42 upvotes, $0
 73. [http: Reading unprocessed HTTP request with unbounded chunk extension allows DoS attacks](https://hackerone.com/reports/2375446) to Internet Bug Bounty - 40 upvotes, $3495
 74. [Apache HTTP Server: HTTP/2 DoS by memory exhaustion on endless continuation frames](https://hackerone.com/reports/2453322) to Internet Bug Bounty - 40 upvotes, $2580
 75. [OpenSSL vulnerable to the Marvin Attack (CVE-2022-4304)](https://hackerone.com/reports/2270225) to Internet Bug Bounty - 40 upvotes, $2540
@@ -90,18 +90,18 @@ Top reports from Internet Bug Bounty program at HackerOne:
 88. [Unbounded memory growth with session handling in TLSv1.3](https://hackerone.com/reports/2622671) to Internet Bug Bounty - 35 upvotes, $497
 89. [ACME TLS-SNI-01/02 challenge vulnerable when combined with shared hosting providers](https://hackerone.com/reports/304378) to Internet Bug Bounty - 35 upvotes, $0
 90. [Argo CD CSRF leads to Kubernetes cluster compromise](https://hackerone.com/reports/2326194) to Internet Bug Bounty - 34 upvotes, $4660
-91. [[CVE-2023-38546]  cookie injection with none file](https://hackerone.com/reports/2215578) to Internet Bug Bounty - 34 upvotes, $540
-92. [Apache Airflow Sql injection by authenticated user](https://hackerone.com/reports/3078856) to Internet Bug Bounty - 34 upvotes, $505
-93. [1-byte heap buffer overflow in DNS resolver](https://hackerone.com/reports/1210450) to Internet Bug Bounty - 34 upvotes, $0
+91. [Apache Airflow Sql injection by authenticated user](https://hackerone.com/reports/3078856) to Internet Bug Bounty - 34 upvotes, $505
+92. [1-byte heap buffer overflow in DNS resolver](https://hackerone.com/reports/1210450) to Internet Bug Bounty - 34 upvotes, $0
+93. [[CVE-2023-38546]  cookie injection with none file](https://hackerone.com/reports/2215578) to Internet Bug Bounty - 34 upvotes, $0
 94. [DiffieHellman doesn't generate keys after setting a key](https://hackerone.com/reports/2038484) to Internet Bug Bounty - 33 upvotes, $1800
-95. [CVE-2024-49761: ReDoS vulnerability in REXML](https://hackerone.com/reports/2807139) to Internet Bug Bounty - 33 upvotes, $0
-96. [[CVE-2024-32464] ActionText ContentAttachment’s can Contain Unsanitized HTML](https://hackerone.com/reports/2542806) to Internet Bug Bounty - 32 upvotes, $2600
-97. [CVE-2024-31079 in nginx](https://hackerone.com/reports/2526051) to Internet Bug Bounty - 32 upvotes, $2600
-98. [fs.fchown/fchmod bypasses permission model](https://hackerone.com/reports/2590608) to Internet Bug Bounty - 32 upvotes, $249
-99. [CVE-2023-40611: Apache Airflow Dag Runs Broken Access Control Vulnerability](https://hackerone.com/reports/2144868) to Internet Bug Bounty - 32 upvotes, $0
-100. [important: Apache HTTP Server may use exploitable/malicious backend application output to run local handlers via internal redirect (CVE-2024-38476)](https://hackerone.com/reports/2585376) to Internet Bug Bounty - 31 upvotes, $4920
-101. [Ruby CVE-2021-41819: Cookie Prefix Spoofing in CGI::Cookie.parse](https://hackerone.com/reports/1464396) to Internet Bug Bounty - 31 upvotes, $2000
-102. [Possible XSS Vulnerability in Action Controller](https://hackerone.com/reports/2520694) to Internet Bug Bounty - 31 upvotes, $1068
+95. [fs.fchown/fchmod bypasses permission model](https://hackerone.com/reports/2590608) to Internet Bug Bounty - 33 upvotes, $249
+96. [CVE-2024-49761: ReDoS vulnerability in REXML](https://hackerone.com/reports/2807139) to Internet Bug Bounty - 33 upvotes, $0
+97. [[CVE-2024-32464] ActionText ContentAttachment’s can Contain Unsanitized HTML](https://hackerone.com/reports/2542806) to Internet Bug Bounty - 32 upvotes, $2600
+98. [CVE-2024-31079 in nginx](https://hackerone.com/reports/2526051) to Internet Bug Bounty - 32 upvotes, $2600
+99. [Possible XSS Vulnerability in Action Controller](https://hackerone.com/reports/2520694) to Internet Bug Bounty - 32 upvotes, $1068
+100. [CVE-2023-40611: Apache Airflow Dag Runs Broken Access Control Vulnerability](https://hackerone.com/reports/2144868) to Internet Bug Bounty - 32 upvotes, $0
+101. [important: Apache HTTP Server may use exploitable/malicious backend application output to run local handlers via internal redirect (CVE-2024-38476)](https://hackerone.com/reports/2585376) to Internet Bug Bounty - 31 upvotes, $4920
+102. [Ruby CVE-2021-41819: Cookie Prefix Spoofing in CGI::Cookie.parse](https://hackerone.com/reports/1464396) to Internet Bug Bounty - 31 upvotes, $2000
 103. [Information disclosure in mmap module - python 2.7.12](https://hackerone.com/reports/174632) to Internet Bug Bounty - 31 upvotes, $0
 104. [Windows only: arbitrary file read vulnerability in openssl s_server](https://hackerone.com/reports/850775) to Internet Bug Bounty - 31 upvotes, $0
 105. [CVE-2024-25128: Apache Airflow: Authentication Bypass when Legacy OpenID(2.0) is in use as AUTH_TYPE](https://hackerone.com/reports/2401359) to Internet Bug Bounty - 31 upvotes, $0
@@ -138,10 +138,10 @@ Top reports from Internet Bug Bounty program at HackerOne:
 136. [CVE-2024-0853: OCSP verification bypass with TLS session reuse](https://hackerone.com/reports/2341063) to Internet Bug Bounty - 24 upvotes, $0
 137. [CVE-2025-0725: Heap overflow in curl with Content-Encoding gzip and old libz versions](https://hackerone.com/reports/2974850) to Internet Bug Bounty - 24 upvotes, $0
 138. [[SECURITY] CVE-2024-50379 Apache Tomcat - RCE via write-enabled default servlet](https://hackerone.com/reports/2905013) to Internet Bug Bounty - 24 upvotes, $0
-139. [CVE-2018-6797:  A crafted regular expression can cause a heap buffer write overflow in Perl 5 giving a remote attacker control over bytes written](https://hackerone.com/reports/337986) to Internet Bug Bounty - 23 upvotes, $1000
-140. [select_colors write out-of-bounds](https://hackerone.com/reports/161189) to Internet Bug Bounty - 23 upvotes, $1000
-141. [CVE-2022-27776: Auth/cookie leak on redirect](https://hackerone.com/reports/1551591) to Internet Bug Bounty - 23 upvotes, $480
-142. [TLS Virtual Host Confusion](https://hackerone.com/reports/501) to Internet Bug Bounty - 23 upvotes, $0
+139. [select_colors write out-of-bounds](https://hackerone.com/reports/161189) to Internet Bug Bounty - 23 upvotes, $1000
+140. [CVE-2022-27776: Auth/cookie leak on redirect](https://hackerone.com/reports/1551591) to Internet Bug Bounty - 23 upvotes, $480
+141. [TLS Virtual Host Confusion](https://hackerone.com/reports/501) to Internet Bug Bounty - 23 upvotes, $0
+142. [CVE-2018-6797:  A crafted regular expression can cause a heap buffer write overflow in Perl 5 giving a remote attacker control over bytes written](https://hackerone.com/reports/337986) to Internet Bug Bounty - 23 upvotes, $0
 143. [URN Request bypass ACL Checks](https://hackerone.com/reports/824802) to Internet Bug Bounty - 23 upvotes, $0
 144. [CVE-2023-47037: Airflow Broken Access Control Vulnerability](https://hackerone.com/reports/2249299) to Internet Bug Bounty - 23 upvotes, $0
 145. [[CVE-2024-26142] ReDoS vulnerability in Accept header parsing in Action Dispatch ](https://hackerone.com/reports/2446427) to Internet Bug Bounty - 23 upvotes, $0
@@ -214,26 +214,26 @@ Top reports from Internet Bug Bounty program at HackerOne:
 212. [chain.__setstate__ Type Confusion](https://hackerone.com/reports/175091) to Internet Bug Bounty - 14 upvotes, $1000
 213. [[CVE-2018-6913] heap-buffer-overflow in S_pack_rec](https://hackerone.com/reports/354650) to Internet Bug Bounty - 14 upvotes, $1000
 214. [php curl ext size_t overflow lead to heap corruption](https://hackerone.com/reports/152399) to Internet Bug Bounty - 14 upvotes, $1000
-215. [Unsafe arithmetic in PyString_DecodeEscape](https://hackerone.com/reports/241202) to Internet Bug Bounty - 14 upvotes, $500
-216. [Use-After-Free / Double-Free in WDDX Deserialize](https://hackerone.com/reports/116372) to Internet Bug Bounty - 14 upvotes, $500
-217. [wddx_deserialize use-after-free](https://hackerone.com/reports/170144) to Internet Bug Bounty - 14 upvotes, $500
-218. [SPDY heap buffer overflow](https://hackerone.com/reports/4690) to Internet Bug Bounty - 14 upvotes, $0
-219. [TLS Triple Handshake Attack](https://hackerone.com/reports/7277) to Internet Bug Bounty - 14 upvotes, $0
-220. [urllib HTTP header injection CVE-2016-5699](https://hackerone.com/reports/165102) to Internet Bug Bounty - 14 upvotes, $0
-221. [CVE-2019-5736: Escape from Docker and Kubernetes containers to root on host](https://hackerone.com/reports/495495) to Internet Bug Bounty - 14 upvotes, $0
-222. [Race condition in Flash workers may cause an exploitabl​e double free](https://hackerone.com/reports/37240) to Internet Bug Bounty - 14 upvotes, $0
-223. [Fragmentation and Aggregation Flaws in Wi-Fi](https://hackerone.com/reports/1238470) to Internet Bug Bounty - 14 upvotes, $0
-224. [Cache Poisoning](https://hackerone.com/reports/824753) to Internet Bug Bounty - 14 upvotes, $0
-225. [Basic Authentication Heap Overflow](https://hackerone.com/reports/641240) to Internet Bug Bounty - 14 upvotes, $0
-226. [OAUTH2 bearer not-checked for connection re-use](https://hackerone.com/reports/1552110) to Internet Bug Bounty - 14 upvotes, $0
-227. [ CVE-2022-32213 - HTTP Request Smuggling Due to Flawed Parsing of Transfer-Encoding](https://hackerone.com/reports/1630668) to Internet Bug Bounty - 13 upvotes, $1800
-228. [Type confusion in partial.setstate, partial_repr, partial_call leads to memory corruption, reliable control flow hijack](https://hackerone.com/reports/116286) to Internet Bug Bounty - 13 upvotes, $1000
-229. [Critical vulnerability in JSON Web Encryption (JWE) - RFC 7516 Invalid Curve attack](https://hackerone.com/reports/213437) to Internet Bug Bounty - 13 upvotes, $1000
+215. [Critical vulnerability in JSON Web Encryption (JWE) - RFC 7516 Invalid Curve attack](https://hackerone.com/reports/213437) to Internet Bug Bounty - 14 upvotes, $1000
+216. [Unsafe arithmetic in PyString_DecodeEscape](https://hackerone.com/reports/241202) to Internet Bug Bounty - 14 upvotes, $500
+217. [Use-After-Free / Double-Free in WDDX Deserialize](https://hackerone.com/reports/116372) to Internet Bug Bounty - 14 upvotes, $500
+218. [wddx_deserialize use-after-free](https://hackerone.com/reports/170144) to Internet Bug Bounty - 14 upvotes, $500
+219. [SPDY heap buffer overflow](https://hackerone.com/reports/4690) to Internet Bug Bounty - 14 upvotes, $0
+220. [TLS Triple Handshake Attack](https://hackerone.com/reports/7277) to Internet Bug Bounty - 14 upvotes, $0
+221. [urllib HTTP header injection CVE-2016-5699](https://hackerone.com/reports/165102) to Internet Bug Bounty - 14 upvotes, $0
+222. [CVE-2019-5736: Escape from Docker and Kubernetes containers to root on host](https://hackerone.com/reports/495495) to Internet Bug Bounty - 14 upvotes, $0
+223. [Race condition in Flash workers may cause an exploitabl​e double free](https://hackerone.com/reports/37240) to Internet Bug Bounty - 14 upvotes, $0
+224. [Fragmentation and Aggregation Flaws in Wi-Fi](https://hackerone.com/reports/1238470) to Internet Bug Bounty - 14 upvotes, $0
+225. [Cache Poisoning](https://hackerone.com/reports/824753) to Internet Bug Bounty - 14 upvotes, $0
+226. [Basic Authentication Heap Overflow](https://hackerone.com/reports/641240) to Internet Bug Bounty - 14 upvotes, $0
+227. [OAUTH2 bearer not-checked for connection re-use](https://hackerone.com/reports/1552110) to Internet Bug Bounty - 14 upvotes, $0
+228. [ CVE-2022-32213 - HTTP Request Smuggling Due to Flawed Parsing of Transfer-Encoding](https://hackerone.com/reports/1630668) to Internet Bug Bounty - 13 upvotes, $1800
+229. [Type confusion in partial.setstate, partial_repr, partial_call leads to memory corruption, reliable control flow hijack](https://hackerone.com/reports/116286) to Internet Bug Bounty - 13 upvotes, $1000
 230. [IP-in-IP protocol routes arbitrary traffic by default - CVE-2020-10136](https://hackerone.com/reports/893922) to Internet Bug Bounty - 13 upvotes, $750
-231. [heap-buffer-overflow (READ of size 48) in exif_read_data()](https://hackerone.com/reports/384214) to Internet Bug Bounty - 13 upvotes, $500
-232. [CVE-2018-12882: heap-use-after-free in PHP 7.2 through 7.2.6, possible 7.2.7](https://hackerone.com/reports/371135) to Internet Bug Bounty - 13 upvotes, $500
-233. [Windows builds with insecure path defaults (CVE-2019-1552)](https://hackerone.com/reports/683318) to Internet Bug Bounty - 13 upvotes, $500
-234. [Cross-protocol attack on TLS using SSLv2 (DROWN) (CVE-2016-0800)](https://hackerone.com/reports/166629) to Internet Bug Bounty - 13 upvotes, $0
+231. [Windows builds with insecure path defaults (CVE-2019-1552)](https://hackerone.com/reports/683318) to Internet Bug Bounty - 13 upvotes, $500
+232. [Cross-protocol attack on TLS using SSLv2 (DROWN) (CVE-2016-0800)](https://hackerone.com/reports/166629) to Internet Bug Bounty - 13 upvotes, $0
+233. [heap-buffer-overflow (READ of size 48) in exif_read_data()](https://hackerone.com/reports/384214) to Internet Bug Bounty - 13 upvotes, $0
+234. [CVE-2018-12882: heap-use-after-free in PHP 7.2 through 7.2.6, possible 7.2.7](https://hackerone.com/reports/371135) to Internet Bug Bounty - 13 upvotes, $0
 235. [Cross-site information assertion leak via Content Security Policy](https://hackerone.com/reports/16910) to Internet Bug Bounty - 13 upvotes, $0
 236. [null pointer dereference in imap_mail](https://hackerone.com/reports/456727) to Internet Bug Bounty - 13 upvotes, $0
 237. [Uncovering file quarantine and UX security issues in macOS apps ( .terminal, .fileloc and .url) ](https://hackerone.com/reports/944025) to Internet Bug Bounty - 13 upvotes, $0
@@ -253,18 +253,18 @@ Top reports from Internet Bug Bounty program at HackerOne:
 251. [Authenticated but unauthorized users may enumerate Application names via the API](https://hackerone.com/reports/1916583) to Internet Bug Bounty - 11 upvotes, $2400
 252. [Internet-based attacker can run Flash apps in local sandboxes by using  special URL schemes (PSIRT-3299, CVE-2015-3079)](https://hackerone.com/reports/73276) to Internet Bug Bounty - 11 upvotes, $2000
 253. [CVE-2022-32214 - HTTP Request Smuggling Due To Improper Delimiting of Header Fields](https://hackerone.com/reports/1630669) to Internet Bug Bounty - 11 upvotes, $1800
-254. [CVE-2017-13008 The IEEE 802.11 parser in tcpdump before 4.9.2 has a buffer over-read in print-802_11.c:parse_elements().](https://hackerone.com/reports/268805) to Internet Bug Bounty - 11 upvotes, $500
-255. [CVE-2022-32208: FTP-KRB bad message verification](https://hackerone.com/reports/1614332) to Internet Bug Bounty - 11 upvotes, $480
-256. [rubygems.org Batching attack to `confirmation_token` by bypass rate limit](https://hackerone.com/reports/1559262) to Internet Bug Bounty - 11 upvotes, $480
-257. [CVE-2023-27533: TELNET option IAC injection](https://hackerone.com/reports/1912770) to Internet Bug Bounty - 11 upvotes, $480
-258. [Use After Free Vulnerability in PHP's GC algorithm and unserialize](https://hackerone.com/reports/146233) to Internet Bug Bounty - 11 upvotes, $0
-259. [ZipArchive class Use After Free Vulnerability in PHP's GC algorithm and unserialize](https://hackerone.com/reports/146235) to Internet Bug Bounty - 11 upvotes, $0
-260. [Apache HTTP Request Parsing Whitespace Defects](https://hackerone.com/reports/244459) to Internet Bug Bounty - 11 upvotes, $0
-261. [Heap Buffer Overflow (READ: 1786) in exif_iif_add_value](https://hackerone.com/reports/344035) to Internet Bug Bounty - 11 upvotes, $0
-262. [Heap Use After Free Read in unserialize()](https://hackerone.com/reports/261335) to Internet Bug Bounty - 11 upvotes, $0
-263. [HTTP MitM on Flash Player settings manager allows attacker to set sandbox settings](https://hackerone.com/reports/54094) to Internet Bug Bounty - 11 upvotes, $0
-264. [Industry-Wide MITM Vulnerability Impacting the JVM Ecosystem](https://hackerone.com/reports/608620) to Internet Bug Bounty - 11 upvotes, $0
-265. [Exim off-by-one RCE vulnerability](https://hackerone.com/reports/322935) to Internet Bug Bounty - 11 upvotes, $0
+254. [CVE-2022-32208: FTP-KRB bad message verification](https://hackerone.com/reports/1614332) to Internet Bug Bounty - 11 upvotes, $480
+255. [rubygems.org Batching attack to `confirmation_token` by bypass rate limit](https://hackerone.com/reports/1559262) to Internet Bug Bounty - 11 upvotes, $480
+256. [CVE-2023-27533: TELNET option IAC injection](https://hackerone.com/reports/1912770) to Internet Bug Bounty - 11 upvotes, $480
+257. [Use After Free Vulnerability in PHP's GC algorithm and unserialize](https://hackerone.com/reports/146233) to Internet Bug Bounty - 11 upvotes, $0
+258. [ZipArchive class Use After Free Vulnerability in PHP's GC algorithm and unserialize](https://hackerone.com/reports/146235) to Internet Bug Bounty - 11 upvotes, $0
+259. [Apache HTTP Request Parsing Whitespace Defects](https://hackerone.com/reports/244459) to Internet Bug Bounty - 11 upvotes, $0
+260. [Heap Buffer Overflow (READ: 1786) in exif_iif_add_value](https://hackerone.com/reports/344035) to Internet Bug Bounty - 11 upvotes, $0
+261. [Heap Use After Free Read in unserialize()](https://hackerone.com/reports/261335) to Internet Bug Bounty - 11 upvotes, $0
+262. [HTTP MitM on Flash Player settings manager allows attacker to set sandbox settings](https://hackerone.com/reports/54094) to Internet Bug Bounty - 11 upvotes, $0
+263. [Industry-Wide MITM Vulnerability Impacting the JVM Ecosystem](https://hackerone.com/reports/608620) to Internet Bug Bounty - 11 upvotes, $0
+264. [Exim off-by-one RCE vulnerability](https://hackerone.com/reports/322935) to Internet Bug Bounty - 11 upvotes, $0
+265. [CVE-2017-13008 The IEEE 802.11 parser in tcpdump before 4.9.2 has a buffer over-read in print-802_11.c:parse_elements().](https://hackerone.com/reports/268805) to Internet Bug Bounty - 11 upvotes, $0
 266. [CVE-2022-35260: .netrc parser out-of-bounds access](https://hackerone.com/reports/1753224) to Internet Bug Bounty - 11 upvotes, $0
 267. [[CVE-2020-27194] Linux kernel: eBPF verifier bug in `or` binary operation tracking function leads to LPE](https://hackerone.com/reports/1010340) to Internet Bug Bounty - 10 upvotes, $750
 268. [CRLF Injection in Nodejs ‘undici’ via host](https://hackerone.com/reports/1878489) to Internet Bug Bounty - 10 upvotes, $600
@@ -276,17 +276,17 @@ Top reports from Internet Bug Bounty program at HackerOne:
 274. [rpcbind "rpcbomb" CVE-2017-8779, CVE-2017-8804](https://hackerone.com/reports/235016) to Internet Bug Bounty - 10 upvotes, $0
 275. [[CVE-2020-10543] Buffer overflow caused by a crafted regular expression](https://hackerone.com/reports/888986) to Internet Bug Bounty - 10 upvotes, $0
 276. [Buffer Overflow in smblib.c](https://hackerone.com/reports/721333) to Internet Bug Bounty - 10 upvotes, $0
-277. [CVE-2022-30115: HSTS bypass via trailing dot](https://hackerone.com/reports/1565622) to Internet Bug Bounty - 10 upvotes, $0
-278. [CVE-2022-43551: Another HSTS bypass via IDN](https://hackerone.com/reports/1813831) to Internet Bug Bounty - 10 upvotes, $0
-279. [CVE-2023-28322: more POST-after-PUT confusion](https://hackerone.com/reports/1991428) to Internet Bug Bounty - 10 upvotes, $0
-280. [Time-of-check to time-of-use vulnerability in the std::fs::remove_dir_all() function of the Rust standard library](https://hackerone.com/reports/1520931) to Internet Bug Bounty - 9 upvotes, $4000
-281. [Rack CVE-2022-30122: Denial of Service Vulnerability in Rack Multipart Parsing](https://hackerone.com/reports/1627159) to Internet Bug Bounty - 9 upvotes, $2400
-282. [potential denial of service attack via the locale parameter](https://hackerone.com/reports/1746098) to Internet Bug Bounty - 9 upvotes, $2400
-283. ["urllib" will result to deny of service](https://hackerone.com/reports/1188128) to Internet Bug Bounty - 9 upvotes, $240
-284. [XML hash collision DoS vulnerability in Python's xml.etree module](https://hackerone.com/reports/412673) to Internet Bug Bounty - 9 upvotes, $0
-285. [Linux kernel: CVE-2017-1000112: a memory corruption due to UFO to non-UFO path switch](https://hackerone.com/reports/684573) to Internet Bug Bounty - 9 upvotes, $0
-286. [Mercurial git subrepo lead to arbritary command injection](https://hackerone.com/reports/294147) to Internet Bug Bounty - 9 upvotes, $0
-287. [The Host Authorization middleware in Action Pack is vulnerable to crafted X-Forwarded-Host values](https://hackerone.com/reports/1374512) to Internet Bug Bounty - 9 upvotes, $0
+277. [The Host Authorization middleware in Action Pack is vulnerable to crafted X-Forwarded-Host values](https://hackerone.com/reports/1374512) to Internet Bug Bounty - 10 upvotes, $0
+278. [CVE-2022-30115: HSTS bypass via trailing dot](https://hackerone.com/reports/1565622) to Internet Bug Bounty - 10 upvotes, $0
+279. [CVE-2022-43551: Another HSTS bypass via IDN](https://hackerone.com/reports/1813831) to Internet Bug Bounty - 10 upvotes, $0
+280. [CVE-2023-28322: more POST-after-PUT confusion](https://hackerone.com/reports/1991428) to Internet Bug Bounty - 10 upvotes, $0
+281. [Time-of-check to time-of-use vulnerability in the std::fs::remove_dir_all() function of the Rust standard library](https://hackerone.com/reports/1520931) to Internet Bug Bounty - 9 upvotes, $4000
+282. [Rack CVE-2022-30122: Denial of Service Vulnerability in Rack Multipart Parsing](https://hackerone.com/reports/1627159) to Internet Bug Bounty - 9 upvotes, $2400
+283. [potential denial of service attack via the locale parameter](https://hackerone.com/reports/1746098) to Internet Bug Bounty - 9 upvotes, $2400
+284. ["urllib" will result to deny of service](https://hackerone.com/reports/1188128) to Internet Bug Bounty - 9 upvotes, $240
+285. [XML hash collision DoS vulnerability in Python's xml.etree module](https://hackerone.com/reports/412673) to Internet Bug Bounty - 9 upvotes, $0
+286. [Linux kernel: CVE-2017-1000112: a memory corruption due to UFO to non-UFO path switch](https://hackerone.com/reports/684573) to Internet Bug Bounty - 9 upvotes, $0
+287. [Mercurial git subrepo lead to arbritary command injection](https://hackerone.com/reports/294147) to Internet Bug Bounty - 9 upvotes, $0
 288. [Read beyond bounds via ap_rwrite() [zhbug_httpd_47.2]](https://hackerone.com/reports/1595299) to Internet Bug Bounty - 9 upvotes, $0
 289. [CVE-2022-32206: HTTP compression denial of service](https://hackerone.com/reports/1614330) to Internet Bug Bounty - 8 upvotes, $2400
 290. [Airflow Daemon Mode Insecure Umask Privilege Escalation](https://hackerone.com/reports/1690093) to Internet Bug Bounty - 8 upvotes, $2400
@@ -309,28 +309,28 @@ Top reports from Internet Bug Bounty program at HackerOne:
 307. [CVE-2022-32207: Unpreserved file permissions](https://hackerone.com/reports/1614331) to Internet Bug Bounty - 7 upvotes, $2400
 308. [Inadequate Encryption Strength in nodejs-current reads openssl.cnf from /home/iojs/build/... upon startup on MacOS](https://hackerone.com/reports/1888758) to Internet Bug Bounty - 7 upvotes, $2400
 309. [Apache Airflow Google Cloud Sql Provider Remote Command Execution](https://hackerone.com/reports/1895277) to Internet Bug Bounty - 7 upvotes, $2400
-310. [read outside of buffer (heap buffer overflow) in S_regmatch - regexec.c:6057](https://hackerone.com/reports/207983) to Internet Bug Bounty - 7 upvotes, $1000
-311. [linkinfo - openbasedir bypass on Windows PHP](https://hackerone.com/reports/384719) to Internet Bug Bounty - 7 upvotes, $500
-312. [[bower] Arbitrary File Write through improper validation of symlinks while package extraction](https://hackerone.com/reports/492512) to Internet Bug Bounty - 7 upvotes, $500
-313. [libtiff 4.0.6 heap bufer overflow / out of bounds read (CVE-2016-9273)](https://hackerone.com/reports/181642) to Internet Bug Bounty - 7 upvotes, $500
-314. [CVE-2017-12986 The IPv6 routing header parser in tcpdump before 4.9.2 has a buffer over-read in print-rt6.c:rt6_print().](https://hackerone.com/reports/268804) to Internet Bug Bounty - 7 upvotes, $500
-315. [	Out-of-Bound Read in phar_parse_zipfile()](https://hackerone.com/reports/114172) to Internet Bug Bounty - 7 upvotes, $500
-316. [Illegal write/read access caused by gdImageAALine overflow](https://hackerone.com/reports/182420) to Internet Bug Bounty - 7 upvotes, $500
-317. [memory corruption in wordwrap function](https://hackerone.com/reports/167910) to Internet Bug Bounty - 7 upvotes, $500
-318. [integer overflow in imap_binary caused heap corruption](https://hackerone.com/reports/167906) to Internet Bug Bounty - 7 upvotes, $500
-319. [heap overflow in substr_replace](https://hackerone.com/reports/167904) to Internet Bug Bounty - 7 upvotes, $500
-320. [tcpdump: CVE-2018-14879 - buffer overflow in tcpdump.c:get_next_file()](https://hackerone.com/reports/724217) to Internet Bug Bounty - 7 upvotes, $500
-321. [ CVE-2023-28320 - siglongjmp race condition](https://hackerone.com/reports/1990421) to Internet Bug Bounty - 7 upvotes, $480
-322. [Out of bound read in exif_process_IFD_in_MAKERNOTE](https://hackerone.com/reports/152231) to Internet Bug Bounty - 7 upvotes, $0
-323. [SSLv2 doesn't block disabled ciphers (CVE-2015-3197)](https://hackerone.com/reports/166634) to Internet Bug Bounty - 7 upvotes, $0
-324. [Malformed SHA512 ticket DoS (CVE-2016-6302)](https://hackerone.com/reports/221787) to Internet Bug Bounty - 7 upvotes, $0
-325. [ntpd: read_mru_list() does inadequate incoming packet checks](https://hackerone.com/reports/147310) to Internet Bug Bounty - 7 upvotes, $0
-326. [heap-buffer-overflow (WRITE of size 8) in Perl_pp_reverse()](https://hackerone.com/reports/259555) to Internet Bug Bounty - 7 upvotes, $0
-327. [Client DoS due to large DH parameter (CVE-2018-0732)](https://hackerone.com/reports/364964) to Internet Bug Bounty - 7 upvotes, $0
-328. [Heap Use After Free in unserialize()](https://hackerone.com/reports/261338) to Internet Bug Bounty - 7 upvotes, $0
-329. [Out of Bounds Memory Read in unserialize()](https://hackerone.com/reports/261336) to Internet Bug Bounty - 7 upvotes, $0
-330. [[CVE-2018-18313] regcomp: heap-buffer-overflow read in S_grok_bslash_N](https://hackerone.com/reports/510888) to Internet Bug Bounty - 7 upvotes, $0
-331. [Format string implementation vulnerability, resulting in code execution](https://hackerone.com/reports/271330) to Internet Bug Bounty - 7 upvotes, $0
+310. [linkinfo - openbasedir bypass on Windows PHP](https://hackerone.com/reports/384719) to Internet Bug Bounty - 7 upvotes, $500
+311. [[bower] Arbitrary File Write through improper validation of symlinks while package extraction](https://hackerone.com/reports/492512) to Internet Bug Bounty - 7 upvotes, $500
+312. [	Out-of-Bound Read in phar_parse_zipfile()](https://hackerone.com/reports/114172) to Internet Bug Bounty - 7 upvotes, $500
+313. [Illegal write/read access caused by gdImageAALine overflow](https://hackerone.com/reports/182420) to Internet Bug Bounty - 7 upvotes, $500
+314. [memory corruption in wordwrap function](https://hackerone.com/reports/167910) to Internet Bug Bounty - 7 upvotes, $500
+315. [integer overflow in imap_binary caused heap corruption](https://hackerone.com/reports/167906) to Internet Bug Bounty - 7 upvotes, $500
+316. [heap overflow in substr_replace](https://hackerone.com/reports/167904) to Internet Bug Bounty - 7 upvotes, $500
+317. [ CVE-2023-28320 - siglongjmp race condition](https://hackerone.com/reports/1990421) to Internet Bug Bounty - 7 upvotes, $480
+318. [Out of bound read in exif_process_IFD_in_MAKERNOTE](https://hackerone.com/reports/152231) to Internet Bug Bounty - 7 upvotes, $0
+319. [SSLv2 doesn't block disabled ciphers (CVE-2015-3197)](https://hackerone.com/reports/166634) to Internet Bug Bounty - 7 upvotes, $0
+320. [Malformed SHA512 ticket DoS (CVE-2016-6302)](https://hackerone.com/reports/221787) to Internet Bug Bounty - 7 upvotes, $0
+321. [read outside of buffer (heap buffer overflow) in S_regmatch - regexec.c:6057](https://hackerone.com/reports/207983) to Internet Bug Bounty - 7 upvotes, $0
+322. [ntpd: read_mru_list() does inadequate incoming packet checks](https://hackerone.com/reports/147310) to Internet Bug Bounty - 7 upvotes, $0
+323. [heap-buffer-overflow (WRITE of size 8) in Perl_pp_reverse()](https://hackerone.com/reports/259555) to Internet Bug Bounty - 7 upvotes, $0
+324. [Client DoS due to large DH parameter (CVE-2018-0732)](https://hackerone.com/reports/364964) to Internet Bug Bounty - 7 upvotes, $0
+325. [Heap Use After Free in unserialize()](https://hackerone.com/reports/261338) to Internet Bug Bounty - 7 upvotes, $0
+326. [Out of Bounds Memory Read in unserialize()](https://hackerone.com/reports/261336) to Internet Bug Bounty - 7 upvotes, $0
+327. [[CVE-2018-18313] regcomp: heap-buffer-overflow read in S_grok_bslash_N](https://hackerone.com/reports/510888) to Internet Bug Bounty - 7 upvotes, $0
+328. [libtiff 4.0.6 heap bufer overflow / out of bounds read (CVE-2016-9273)](https://hackerone.com/reports/181642) to Internet Bug Bounty - 7 upvotes, $0
+329. [CVE-2017-12986 The IPv6 routing header parser in tcpdump before 4.9.2 has a buffer over-read in print-rt6.c:rt6_print().](https://hackerone.com/reports/268804) to Internet Bug Bounty - 7 upvotes, $0
+330. [Format string implementation vulnerability, resulting in code execution](https://hackerone.com/reports/271330) to Internet Bug Bounty - 7 upvotes, $0
+331. [tcpdump: CVE-2018-14879 - buffer overflow in tcpdump.c:get_next_file()](https://hackerone.com/reports/724217) to Internet Bug Bounty - 7 upvotes, $0
 332. [Dragonblood: Design and Implementation Flaws in WPA3 and EAP-pwd](https://hackerone.com/reports/745276) to Internet Bug Bounty - 7 upvotes, $0
 333. [heap buffer overflow in phar_detect_phar_fname_ext](https://hackerone.com/reports/475499) to Internet Bug Bounty - 7 upvotes, $0
 334. [Several protocol parsers in before 4.9.2 could cause a buffer overflow in util-print.c:bittok2str_internal()](https://hackerone.com/reports/800324) to Internet Bug Bounty - 7 upvotes, $0
@@ -339,15 +339,15 @@ Top reports from Internet Bug Bounty program at HackerOne:
 337. [Handling of jar: URIs bypasses AllowScriptAccess=never](https://hackerone.com/reports/2107) to Internet Bug Bounty - 6 upvotes, $2000
 338. [ CVE-2022-32215 - HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Transfer-Encoding](https://hackerone.com/reports/1630667) to Internet Bug Bounty - 6 upvotes, $1800
 339. [Out of bounds memory read in unserialize()](https://hackerone.com/reports/200909) to Internet Bug Bounty - 6 upvotes, $500
-340. [heap-buffer-overflow (READ of size 61) in Perl_re_intuit_start()](https://hackerone.com/reports/233440) to Internet Bug Bounty - 6 upvotes, $500
-341. [libtiff 4.0.6 segfault / read outside of buffer (CVE-2016-9297)](https://hackerone.com/reports/182140) to Internet Bug Bounty - 6 upvotes, $500
-342. [Urllib connects to a wrong host](https://hackerone.com/reports/305978) to Internet Bug Bounty - 6 upvotes, $500
-343. [Inappropriately parsing HTTP response leads to PHP segment fault!](https://hackerone.com/reports/305973) to Internet Bug Bounty - 6 upvotes, $500
-344. [integer overflow in fgetcsv caused heap corruption](https://hackerone.com/reports/167911) to Internet Bug Bounty - 6 upvotes, $500
-345. [CVE-2022-32205: Set-Cookie denial of service](https://hackerone.com/reports/1614328) to Internet Bug Bounty - 6 upvotes, $480
-346. [Double-free in X509 parsing](https://hackerone.com/reports/175230) to Internet Bug Bounty - 6 upvotes, $0
-347. [Remote client memory corruption in ssl_add_clienthello_tlsext()](https://hackerone.com/reports/175766) to Internet Bug Bounty - 6 upvotes, $0
-348. [ DoS vulnerability in mod_auth_digest CVE-2016-2161](https://hackerone.com/reports/194065) to Internet Bug Bounty - 6 upvotes, $0
+340. [Urllib connects to a wrong host](https://hackerone.com/reports/305978) to Internet Bug Bounty - 6 upvotes, $500
+341. [Inappropriately parsing HTTP response leads to PHP segment fault!](https://hackerone.com/reports/305973) to Internet Bug Bounty - 6 upvotes, $500
+342. [integer overflow in fgetcsv caused heap corruption](https://hackerone.com/reports/167911) to Internet Bug Bounty - 6 upvotes, $500
+343. [CVE-2022-32205: Set-Cookie denial of service](https://hackerone.com/reports/1614328) to Internet Bug Bounty - 6 upvotes, $480
+344. [Double-free in X509 parsing](https://hackerone.com/reports/175230) to Internet Bug Bounty - 6 upvotes, $0
+345. [Remote client memory corruption in ssl_add_clienthello_tlsext()](https://hackerone.com/reports/175766) to Internet Bug Bounty - 6 upvotes, $0
+346. [ DoS vulnerability in mod_auth_digest CVE-2016-2161](https://hackerone.com/reports/194065) to Internet Bug Bounty - 6 upvotes, $0
+347. [heap-buffer-overflow (READ of size 61) in Perl_re_intuit_start()](https://hackerone.com/reports/233440) to Internet Bug Bounty - 6 upvotes, $0
+348. [libtiff 4.0.6 segfault / read outside of buffer (CVE-2016-9297)](https://hackerone.com/reports/182140) to Internet Bug Bounty - 6 upvotes, $0
 349. [Type Confusion in WDDX Packet Deserialization](https://hackerone.com/reports/114339) to Internet Bug Bounty - 6 upvotes, $0
 350. [Integer Overflow in php_html_entities()](https://hackerone.com/reports/140865) to Internet Bug Bounty - 6 upvotes, $0
 351. [Integer Overflow in Length of String-typed ZVAL](https://hackerone.com/reports/146185) to Internet Bug Bounty - 6 upvotes, $0
@@ -362,34 +362,34 @@ Top reports from Internet Bug Bounty program at HackerOne:
 360. [CVE-2022-35948: CRLF Injection in Nodejs ‘undici’ via Content-Type](https://hackerone.com/reports/1664019) to Internet Bug Bounty - 6 upvotes, $0
 361. [open redirect in rfc6749](https://hackerone.com/reports/26962) to Internet Bug Bounty - 5 upvotes, $3000
 362. [Undici ProxyAgent vulnerable to MITM ](https://hackerone.com/reports/1599063) to Internet Bug Bounty - 5 upvotes, $1000
-363. [heap-buffer-overflow (READ of size 11) in Perl 5.25.x](https://hackerone.com/reports/232150) to Internet Bug Bounty - 5 upvotes, $500
-364. [CVE-2017-5341 The OTV parser in tcpdump before 4.9.0 has a buffer overflow in print-otv.c:otv_print()](https://hackerone.com/reports/202965) to Internet Bug Bounty - 5 upvotes, $500
-365. [CVE-2017-5484 The ATM parser in tcpdump before 4.9.0 has a buffer overflow in print-atm.c:sig_print()](https://hackerone.com/reports/202967) to Internet Bug Bounty - 5 upvotes, $500
-366. [pass2_no_dither out-of-bounds access](https://hackerone.com/reports/146940) to Internet Bug Bounty - 5 upvotes, $500
-367. [integer overflow in curl_escape caused heap corruption](https://hackerone.com/reports/159953) to Internet Bug Bounty - 5 upvotes, $500
-368. [integer overflow in pg_escape_bytea caused heap corruption](https://hackerone.com/reports/167905) to Internet Bug Bounty - 5 upvotes, $500
-369. [integer overflow in pg_escape_string caused heap corruption](https://hackerone.com/reports/167901) to Internet Bug Bounty - 5 upvotes, $500
-370. [integer overflow in php_uuencode caused heap corruption](https://hackerone.com/reports/159961) to Internet Bug Bounty - 5 upvotes, $500
-371. [Integer overflow lead to heap corruption in sql_regcase](https://hackerone.com/reports/159958) to Internet Bug Bounty - 5 upvotes, $500
-372. [integer overflow in bzdecompress caused heap corruption](https://hackerone.com/reports/159955) to Internet Bug Bounty - 5 upvotes, $500
-373. [Flash double free vulnerability leads to code execution](https://hackerone.com/reports/2170) to Internet Bug Bounty - 5 upvotes, $0
-374. [Flash local-with-fileaccess Sandbox Bypass](https://hackerone.com/reports/2140) to Internet Bug Bounty - 5 upvotes, $0
-375. [Bypassing Same Origin Policy With JSONP APIs and Flash](https://hackerone.com/reports/10373) to Internet Bug Bounty - 5 upvotes, $0
-376. [Race condition in workers may cause an exploitable double free by abusing bytearray.compress()  ](https://hackerone.com/reports/47227) to Internet Bug Bounty - 5 upvotes, $0
-377. [FREAK: Factoring RSA_EXPORT Keys to Impersonate TLS Servers](https://hackerone.com/reports/50170) to Internet Bug Bounty - 5 upvotes, $0
-378. [Type Confusion Vulnerability in SoapClient](https://hackerone.com/reports/73245) to Internet Bug Bounty - 5 upvotes, $0
-379. [CVE-2016-2177 Undefined pointer arithmetic in SSL code](https://hackerone.com/reports/142472) to Internet Bug Bounty - 5 upvotes, $0
-380. [CVE-2017-3730: Bad (EC)DHE parameters cause a client crash](https://hackerone.com/reports/201346) to Internet Bug Bounty - 5 upvotes, $0
-381. [OCSP Status Request extension unbounded memory growth (CVE-2016-6304)](https://hackerone.com/reports/216840) to Internet Bug Bounty - 5 upvotes, $0
-382. [OOB write in BN_bn2dec() (CVE-2016-2182)](https://hackerone.com/reports/221788) to Internet Bug Bounty - 5 upvotes, $0
-383. [OOB write in MDC2_Update() (CVE-2016-6303)](https://hackerone.com/reports/221785) to Internet Bug Bounty - 5 upvotes, $0
-384. [Excessive allocation of memory in dtls1_preprocess_fragment() (CVE-2016-6308)](https://hackerone.com/reports/221792) to Internet Bug Bounty - 5 upvotes, $0
-385. [Excessive allocation of memory in tls_get_message_header() (CVE-2016-6307)](https://hackerone.com/reports/221791) to Internet Bug Bounty - 5 upvotes, $0
-386. [Certificate message OOB reads (CVE-2016-6306)](https://hackerone.com/reports/221790) to Internet Bug Bounty - 5 upvotes, $0
-387. [OOB read in TS_OBJ_print_bio() (CVE-2016-2180)](https://hackerone.com/reports/221789) to Internet Bug Bounty - 5 upvotes, $0
-388. [Unsecure: Bypass alerts of Little Flocker / Little Snitch / HandsOff! / BlockBlock (same concept can be applied to other security tools)](https://hackerone.com/reports/265232) to Internet Bug Bounty - 5 upvotes, $0
-389. [heap-buffer-overflow (buffer read overrun) in curl: ourWriteOut() src/tool_writeout.c:115](https://hackerone.com/reports/212931) to Internet Bug Bounty - 5 upvotes, $0
-390. [ CVE-2017-1000101: cURL: URL globbing out of bounds read](https://hackerone.com/reports/255587) to Internet Bug Bounty - 5 upvotes, $0
+363. [pass2_no_dither out-of-bounds access](https://hackerone.com/reports/146940) to Internet Bug Bounty - 5 upvotes, $500
+364. [integer overflow in curl_escape caused heap corruption](https://hackerone.com/reports/159953) to Internet Bug Bounty - 5 upvotes, $500
+365. [integer overflow in pg_escape_bytea caused heap corruption](https://hackerone.com/reports/167905) to Internet Bug Bounty - 5 upvotes, $500
+366. [integer overflow in pg_escape_string caused heap corruption](https://hackerone.com/reports/167901) to Internet Bug Bounty - 5 upvotes, $500
+367. [integer overflow in php_uuencode caused heap corruption](https://hackerone.com/reports/159961) to Internet Bug Bounty - 5 upvotes, $500
+368. [Integer overflow lead to heap corruption in sql_regcase](https://hackerone.com/reports/159958) to Internet Bug Bounty - 5 upvotes, $500
+369. [integer overflow in bzdecompress caused heap corruption](https://hackerone.com/reports/159955) to Internet Bug Bounty - 5 upvotes, $500
+370. [Flash double free vulnerability leads to code execution](https://hackerone.com/reports/2170) to Internet Bug Bounty - 5 upvotes, $0
+371. [Flash local-with-fileaccess Sandbox Bypass](https://hackerone.com/reports/2140) to Internet Bug Bounty - 5 upvotes, $0
+372. [Bypassing Same Origin Policy With JSONP APIs and Flash](https://hackerone.com/reports/10373) to Internet Bug Bounty - 5 upvotes, $0
+373. [Race condition in workers may cause an exploitable double free by abusing bytearray.compress()  ](https://hackerone.com/reports/47227) to Internet Bug Bounty - 5 upvotes, $0
+374. [FREAK: Factoring RSA_EXPORT Keys to Impersonate TLS Servers](https://hackerone.com/reports/50170) to Internet Bug Bounty - 5 upvotes, $0
+375. [Type Confusion Vulnerability in SoapClient](https://hackerone.com/reports/73245) to Internet Bug Bounty - 5 upvotes, $0
+376. [CVE-2016-2177 Undefined pointer arithmetic in SSL code](https://hackerone.com/reports/142472) to Internet Bug Bounty - 5 upvotes, $0
+377. [CVE-2017-3730: Bad (EC)DHE parameters cause a client crash](https://hackerone.com/reports/201346) to Internet Bug Bounty - 5 upvotes, $0
+378. [OCSP Status Request extension unbounded memory growth (CVE-2016-6304)](https://hackerone.com/reports/216840) to Internet Bug Bounty - 5 upvotes, $0
+379. [OOB write in BN_bn2dec() (CVE-2016-2182)](https://hackerone.com/reports/221788) to Internet Bug Bounty - 5 upvotes, $0
+380. [OOB write in MDC2_Update() (CVE-2016-6303)](https://hackerone.com/reports/221785) to Internet Bug Bounty - 5 upvotes, $0
+381. [Excessive allocation of memory in dtls1_preprocess_fragment() (CVE-2016-6308)](https://hackerone.com/reports/221792) to Internet Bug Bounty - 5 upvotes, $0
+382. [Excessive allocation of memory in tls_get_message_header() (CVE-2016-6307)](https://hackerone.com/reports/221791) to Internet Bug Bounty - 5 upvotes, $0
+383. [Certificate message OOB reads (CVE-2016-6306)](https://hackerone.com/reports/221790) to Internet Bug Bounty - 5 upvotes, $0
+384. [OOB read in TS_OBJ_print_bio() (CVE-2016-2180)](https://hackerone.com/reports/221789) to Internet Bug Bounty - 5 upvotes, $0
+385. [heap-buffer-overflow (READ of size 11) in Perl 5.25.x](https://hackerone.com/reports/232150) to Internet Bug Bounty - 5 upvotes, $0
+386. [Unsecure: Bypass alerts of Little Flocker / Little Snitch / HandsOff! / BlockBlock (same concept can be applied to other security tools)](https://hackerone.com/reports/265232) to Internet Bug Bounty - 5 upvotes, $0
+387. [heap-buffer-overflow (buffer read overrun) in curl: ourWriteOut() src/tool_writeout.c:115](https://hackerone.com/reports/212931) to Internet Bug Bounty - 5 upvotes, $0
+388. [ CVE-2017-1000101: cURL: URL globbing out of bounds read](https://hackerone.com/reports/255587) to Internet Bug Bounty - 5 upvotes, $0
+389. [CVE-2017-5341 The OTV parser in tcpdump before 4.9.0 has a buffer overflow in print-otv.c:otv_print()](https://hackerone.com/reports/202965) to Internet Bug Bounty - 5 upvotes, $0
+390. [CVE-2017-5484 The ATM parser in tcpdump before 4.9.0 has a buffer overflow in print-atm.c:sig_print()](https://hackerone.com/reports/202967) to Internet Bug Bounty - 5 upvotes, $0
 391. [Integer Overflow in addcslashes()/addslashes()](https://hackerone.com/reports/146184) to Internet Bug Bounty - 5 upvotes, $0
 392. [Integer Overflow/Heap Overflow in json_encode()/json_decode()](https://hackerone.com/reports/146182) to Internet Bug Bounty - 5 upvotes, $0
 393. [Use After Free Vulnerability in array_walk()/array_walk_recursive()](https://hackerone.com/reports/155223) to Internet Bug Bounty - 5 upvotes, $0
@@ -421,32 +421,32 @@ Top reports from Internet Bug Bounty program at HackerOne:
 419. [SSL_peek() hang on empty record (CVE-2016-6305)](https://hackerone.com/reports/288993) to Internet Bug Bounty - 4 upvotes, $1000
 420. [Type confusion in FutureIter_throw() which may potentially lead to an arbitrary code execution](https://hackerone.com/reports/182169) to Internet Bug Bounty - 4 upvotes, $500
 421. [Invalid parameter in memcpy function trough openssl_pbkdf2](https://hackerone.com/reports/190933) to Internet Bug Bounty - 4 upvotes, $500
-422. [Use after free with assign by ref to overloaded objects](https://hackerone.com/reports/123119) to Internet Bug Bounty - 4 upvotes, $500
-423. [CVE-2017-13009 The IPv6 mobility parser in tcpdump before 4.9.2 has a buffer over-read in print-mobility.c:mobility_print().](https://hackerone.com/reports/268806) to Internet Bug Bounty - 4 upvotes, $500
-424. [CVE-2017-13010 The BEEP parser in tcpdump before 4.9.2 has a buffer over-read in print-beep.c:l_strnstart().](https://hackerone.com/reports/268807) to Internet Bug Bounty - 4 upvotes, $500
-425. [integer overflow in fgets cause heap corruption](https://hackerone.com/reports/167908) to Internet Bug Bounty - 4 upvotes, $500
-426. [ integer overflow in str_pad caused heap corruption](https://hackerone.com/reports/167903) to Internet Bug Bounty - 4 upvotes, $500
-427. [integer overflow in php_ldap_do_escape caused heap corruption](https://hackerone.com/reports/167902) to Internet Bug Bounty - 4 upvotes, $500
-428. [integer overflow in urlencode caused heap corruption](https://hackerone.com/reports/159960) to Internet Bug Bounty - 4 upvotes, $500
-429. [integer overflow in quoted_printable_encode caused heap corruption](https://hackerone.com/reports/159959) to Internet Bug Bounty - 4 upvotes, $500
-430. [integer overflow in base64_decode caused heap corruption](https://hackerone.com/reports/159954) to Internet Bug Bounty - 4 upvotes, $500
-431. [CVE-2017-13041 The ICMPv6 parser in tcpdump before 4.9.2 has a buffer over-read in print-icmp6.c:icmp6_nodeinfo_print().](https://hackerone.com/reports/964583) to Internet Bug Bounty - 4 upvotes, $500
-432. [[CVE-2023-22799] Possible ReDoS based DoS vulnerability in GlobalID](https://hackerone.com/reports/2012135) to Internet Bug Bounty - 4 upvotes, $480
-433. [Integer overflow in strop.expandtabs](https://hackerone.com/reports/6389) to Internet Bug Bounty - 4 upvotes, $0
-434. [Flash Sandbox Bypass](https://hackerone.com/reports/15362) to Internet Bug Bounty - 4 upvotes, $0
-435. [Flash Local Sandbox Bypass](https://hackerone.com/reports/27651) to Internet Bug Bounty - 4 upvotes, $0
-436. [chrome allows POST requests with custom headers using flash + 307 redirect](https://hackerone.com/reports/42240) to Internet Bug Bounty - 4 upvotes, $0
-437. [Use after free vulnerability in unserialize() with DateTimeZone](https://hackerone.com/reports/55029) to Internet Bug Bounty - 4 upvotes, $0
-438. [Use-after-free in php_curl related to CURLOPT_FILE/_INFILE/_WRITEHEADER](https://hackerone.com/reports/73246) to Internet Bug Bounty - 4 upvotes, $0
-439. [Module ngx_http_auth_basic_module is broken and allowing all password after specific length](https://hackerone.com/reports/141239) to Internet Bug Bounty - 4 upvotes, $0
-440. [Divide-and-conquer session key recovery in SSLv2 (CVE-2016-0703)](https://hackerone.com/reports/138179) to Internet Bug Bounty - 4 upvotes, $0
-441. [Heap overflow caused by type confusion vulnerability in merge_param()](https://hackerone.com/reports/172411) to Internet Bug Bounty - 4 upvotes, $0
-442. [Out of bounds read in libcurl's IMAP FETCH response parser](https://hackerone.com/reports/278231) to Internet Bug Bounty - 4 upvotes, $0
-443. [CVE-2019-0196: mod_http2 with scoreboard Use-After-Free (Read)](https://hackerone.com/reports/527042) to Internet Bug Bounty - 4 upvotes, $0
-444. [Silent omission of certificate hostname verification in LibreSSL and BoringSSL](https://hackerone.com/reports/329645) to Internet Bug Bounty - 4 upvotes, $0
-445. [pngcrush double-free/segfault could result in DoS (CVE-2015-7700)](https://hackerone.com/reports/93546) to Internet Bug Bounty - 4 upvotes, $0
-446. [Denial of service in libxml2, using malicious lzma file to consume available system memory](https://hackerone.com/reports/270059) to Internet Bug Bounty - 4 upvotes, $0
-447. [CVE-2017-11367: Global buffer overflow (READ of size 4) in shoco C library ](https://hackerone.com/reports/250581) to Internet Bug Bounty - 4 upvotes, $0
+422. [integer overflow in fgets cause heap corruption](https://hackerone.com/reports/167908) to Internet Bug Bounty - 4 upvotes, $500
+423. [ integer overflow in str_pad caused heap corruption](https://hackerone.com/reports/167903) to Internet Bug Bounty - 4 upvotes, $500
+424. [integer overflow in php_ldap_do_escape caused heap corruption](https://hackerone.com/reports/167902) to Internet Bug Bounty - 4 upvotes, $500
+425. [integer overflow in urlencode caused heap corruption](https://hackerone.com/reports/159960) to Internet Bug Bounty - 4 upvotes, $500
+426. [integer overflow in quoted_printable_encode caused heap corruption](https://hackerone.com/reports/159959) to Internet Bug Bounty - 4 upvotes, $500
+427. [integer overflow in base64_decode caused heap corruption](https://hackerone.com/reports/159954) to Internet Bug Bounty - 4 upvotes, $500
+428. [CVE-2017-13041 The ICMPv6 parser in tcpdump before 4.9.2 has a buffer over-read in print-icmp6.c:icmp6_nodeinfo_print().](https://hackerone.com/reports/964583) to Internet Bug Bounty - 4 upvotes, $500
+429. [[CVE-2023-22799] Possible ReDoS based DoS vulnerability in GlobalID](https://hackerone.com/reports/2012135) to Internet Bug Bounty - 4 upvotes, $480
+430. [Integer overflow in strop.expandtabs](https://hackerone.com/reports/6389) to Internet Bug Bounty - 4 upvotes, $0
+431. [Flash Sandbox Bypass](https://hackerone.com/reports/15362) to Internet Bug Bounty - 4 upvotes, $0
+432. [Flash Local Sandbox Bypass](https://hackerone.com/reports/27651) to Internet Bug Bounty - 4 upvotes, $0
+433. [chrome allows POST requests with custom headers using flash + 307 redirect](https://hackerone.com/reports/42240) to Internet Bug Bounty - 4 upvotes, $0
+434. [Use after free vulnerability in unserialize() with DateTimeZone](https://hackerone.com/reports/55029) to Internet Bug Bounty - 4 upvotes, $0
+435. [Use-after-free in php_curl related to CURLOPT_FILE/_INFILE/_WRITEHEADER](https://hackerone.com/reports/73246) to Internet Bug Bounty - 4 upvotes, $0
+436. [Module ngx_http_auth_basic_module is broken and allowing all password after specific length](https://hackerone.com/reports/141239) to Internet Bug Bounty - 4 upvotes, $0
+437. [Divide-and-conquer session key recovery in SSLv2 (CVE-2016-0703)](https://hackerone.com/reports/138179) to Internet Bug Bounty - 4 upvotes, $0
+438. [Heap overflow caused by type confusion vulnerability in merge_param()](https://hackerone.com/reports/172411) to Internet Bug Bounty - 4 upvotes, $0
+439. [Out of bounds read in libcurl's IMAP FETCH response parser](https://hackerone.com/reports/278231) to Internet Bug Bounty - 4 upvotes, $0
+440. [CVE-2019-0196: mod_http2 with scoreboard Use-After-Free (Read)](https://hackerone.com/reports/527042) to Internet Bug Bounty - 4 upvotes, $0
+441. [Silent omission of certificate hostname verification in LibreSSL and BoringSSL](https://hackerone.com/reports/329645) to Internet Bug Bounty - 4 upvotes, $0
+442. [pngcrush double-free/segfault could result in DoS (CVE-2015-7700)](https://hackerone.com/reports/93546) to Internet Bug Bounty - 4 upvotes, $0
+443. [Use after free with assign by ref to overloaded objects](https://hackerone.com/reports/123119) to Internet Bug Bounty - 4 upvotes, $0
+444. [Denial of service in libxml2, using malicious lzma file to consume available system memory](https://hackerone.com/reports/270059) to Internet Bug Bounty - 4 upvotes, $0
+445. [CVE-2017-11367: Global buffer overflow (READ of size 4) in shoco C library ](https://hackerone.com/reports/250581) to Internet Bug Bounty - 4 upvotes, $0
+446. [CVE-2017-13009 The IPv6 mobility parser in tcpdump before 4.9.2 has a buffer over-read in print-mobility.c:mobility_print().](https://hackerone.com/reports/268806) to Internet Bug Bounty - 4 upvotes, $0
+447. [CVE-2017-13010 The BEEP parser in tcpdump before 4.9.2 has a buffer over-read in print-beep.c:l_strnstart().](https://hackerone.com/reports/268807) to Internet Bug Bounty - 4 upvotes, $0
 448. [Integer Overflow in php_raw_url_encode](https://hackerone.com/reports/126416) to Internet Bug Bounty - 4 upvotes, $0
 449. [Multiple Heap Overflows in php_raw_url_encode/php_url_encode](https://hackerone.com/reports/124737) to Internet Bug Bounty - 4 upvotes, $0
 450. [Integer Overflow in SplFileObject::fread](https://hackerone.com/reports/146180) to Internet Bug Bounty - 4 upvotes, $0
@@ -487,30 +487,30 @@ Top reports from Internet Bug Bounty program at HackerOne:
 485. [CVE-2020-9383 Floppy OOB read](https://hackerone.com/reports/891846) to Internet Bug Bounty - 3 upvotes, $750
 486. [Uncontrolled Resource Consumption with XMPP-Layer Compression](https://hackerone.com/reports/5928) to Internet Bug Bounty - 3 upvotes, $500
 487. [moderate: mod_deflate denial of service](https://hackerone.com/reports/20861) to Internet Bug Bounty - 3 upvotes, $500
-488. [CVE-2017-5204: The IPv6 parser in tcpdump before 4.9.0 has a buffer overflow in print-ip6.c:ip6_print()](https://hackerone.com/reports/202960) to Internet Bug Bounty - 3 upvotes, $500
-489. [CVE-2017-13038 The PPP parser in tcpdump before 4.9.2 has a buffer over-read in print-ppp.c:handle_mlppp().](https://hackerone.com/reports/268808) to Internet Bug Bounty - 3 upvotes, $500
-490. [null pointer dereference in set_conversion_mode due uncheck _ctypes_conversion_errors](https://hackerone.com/reports/166080) to Internet Bug Bounty - 3 upvotes, $500
-491. [crash in locale_compose() function](https://hackerone.com/reports/180814) to Internet Bug Bounty - 3 upvotes, $500
-492. [integer overflow in preg_quote caused heap corruption](https://hackerone.com/reports/167907) to Internet Bug Bounty - 3 upvotes, $500
-493. [Tcpdump before 4.9.3 has a buffer over-read in print-802_11.c (CVE-2018-16227)](https://hackerone.com/reports/724243) to Internet Bug Bounty - 3 upvotes, $500
-494. [Tcpdump before 4.9.3 has a buffer over-read in print-dccp.c:dccp_print_option() (CVE-2018-16229)](https://hackerone.com/reports/724253) to Internet Bug Bounty - 3 upvotes, $500
-495. [CVE-2017-13040 The MPTCP parser in tcpdump before 4.9.2 has a buffer over-read in print-mptcp.c, several functions.](https://hackerone.com/reports/964582) to Internet Bug Bounty - 3 upvotes, $500
-496. [Possible DoS Vulnerability in Multipart MIME parsing in rack](https://hackerone.com/reports/1954937) to Internet Bug Bounty - 3 upvotes, $480
-497. [Multiple Python integer overflows](https://hackerone.com/reports/55017) to Internet Bug Bounty - 3 upvotes, $0
-498. [Flash Cross Domain Policy Bypass by Using File Upload and Redirection - only in Chrome](https://hackerone.com/reports/51265) to Internet Bug Bounty - 3 upvotes, $0
-499. [Use After Free Vulnerability in unserialize()](https://hackerone.com/reports/73235) to Internet Bug Bounty - 3 upvotes, $0
-500. [Use after free vulnerability in unserialize() with DateInterval](https://hackerone.com/reports/73244) to Internet Bug Bounty - 3 upvotes, $0
-501. [php_stream_url_wrap_http_ex() type-confusion vulnerability](https://hackerone.com/reports/73247) to Internet Bug Bounty - 3 upvotes, $0
-502. [Use after free vulnerability in unserialize() with GMP](https://hackerone.com/reports/103999) to Internet Bug Bounty - 3 upvotes, $0
-503. [Padding oracle in AES-NI CBC MAC check (CVE-2016-2107)](https://hackerone.com/reports/136986) to Internet Bug Bounty - 3 upvotes, $0
-504. [Heap corruption via Python 2.7.11 IOBase readline()](https://hackerone.com/reports/143022) to Internet Bug Bounty - 3 upvotes, $0
-505. [Buffer overflow in HTTP url parsing functions](https://hackerone.com/reports/121863) to Internet Bug Bounty - 3 upvotes, $0
-506. [Buffer overflow in HTTP parse_hostinfo(), parse_userinfo() and parse_scheme()](https://hackerone.com/reports/174069) to Internet Bug Bounty - 3 upvotes, $0
-507. [Use of uninitialized memory in unserialize()](https://hackerone.com/reports/195950) to Internet Bug Bounty - 3 upvotes, $0
-508. [Mercurial can be tricked into granting authorized users access to the Python debugger](https://hackerone.com/reports/222020) to Internet Bug Bounty - 3 upvotes, $0
-509. [pngcrush_measure_idat() off-by-one error (CVE-2015-2158)](https://hackerone.com/reports/73429) to Internet Bug Bounty - 3 upvotes, $0
-510. [CVE-2017-5969: libxml2 when used in recover mode, allows remote attackers to cause a denial of service (NULL pointer dereference)](https://hackerone.com/reports/262665) to Internet Bug Bounty - 3 upvotes, $0
-511. [CVE-2017-10965: Null pointer dereference in Irssi \<1.0.4 ](https://hackerone.com/reports/247027) to Internet Bug Bounty - 3 upvotes, $0
+488. [null pointer dereference in set_conversion_mode due uncheck _ctypes_conversion_errors](https://hackerone.com/reports/166080) to Internet Bug Bounty - 3 upvotes, $500
+489. [crash in locale_compose() function](https://hackerone.com/reports/180814) to Internet Bug Bounty - 3 upvotes, $500
+490. [integer overflow in preg_quote caused heap corruption](https://hackerone.com/reports/167907) to Internet Bug Bounty - 3 upvotes, $500
+491. [Tcpdump before 4.9.3 has a buffer over-read in print-802_11.c (CVE-2018-16227)](https://hackerone.com/reports/724243) to Internet Bug Bounty - 3 upvotes, $500
+492. [Tcpdump before 4.9.3 has a buffer over-read in print-dccp.c:dccp_print_option() (CVE-2018-16229)](https://hackerone.com/reports/724253) to Internet Bug Bounty - 3 upvotes, $500
+493. [CVE-2017-13040 The MPTCP parser in tcpdump before 4.9.2 has a buffer over-read in print-mptcp.c, several functions.](https://hackerone.com/reports/964582) to Internet Bug Bounty - 3 upvotes, $500
+494. [Possible DoS Vulnerability in Multipart MIME parsing in rack](https://hackerone.com/reports/1954937) to Internet Bug Bounty - 3 upvotes, $480
+495. [Multiple Python integer overflows](https://hackerone.com/reports/55017) to Internet Bug Bounty - 3 upvotes, $0
+496. [Flash Cross Domain Policy Bypass by Using File Upload and Redirection - only in Chrome](https://hackerone.com/reports/51265) to Internet Bug Bounty - 3 upvotes, $0
+497. [Use After Free Vulnerability in unserialize()](https://hackerone.com/reports/73235) to Internet Bug Bounty - 3 upvotes, $0
+498. [Use after free vulnerability in unserialize() with DateInterval](https://hackerone.com/reports/73244) to Internet Bug Bounty - 3 upvotes, $0
+499. [php_stream_url_wrap_http_ex() type-confusion vulnerability](https://hackerone.com/reports/73247) to Internet Bug Bounty - 3 upvotes, $0
+500. [Use after free vulnerability in unserialize() with GMP](https://hackerone.com/reports/103999) to Internet Bug Bounty - 3 upvotes, $0
+501. [Padding oracle in AES-NI CBC MAC check (CVE-2016-2107)](https://hackerone.com/reports/136986) to Internet Bug Bounty - 3 upvotes, $0
+502. [Heap corruption via Python 2.7.11 IOBase readline()](https://hackerone.com/reports/143022) to Internet Bug Bounty - 3 upvotes, $0
+503. [Buffer overflow in HTTP url parsing functions](https://hackerone.com/reports/121863) to Internet Bug Bounty - 3 upvotes, $0
+504. [Buffer overflow in HTTP parse_hostinfo(), parse_userinfo() and parse_scheme()](https://hackerone.com/reports/174069) to Internet Bug Bounty - 3 upvotes, $0
+505. [Use of uninitialized memory in unserialize()](https://hackerone.com/reports/195950) to Internet Bug Bounty - 3 upvotes, $0
+506. [Mercurial can be tricked into granting authorized users access to the Python debugger](https://hackerone.com/reports/222020) to Internet Bug Bounty - 3 upvotes, $0
+507. [pngcrush_measure_idat() off-by-one error (CVE-2015-2158)](https://hackerone.com/reports/73429) to Internet Bug Bounty - 3 upvotes, $0
+508. [CVE-2017-5969: libxml2 when used in recover mode, allows remote attackers to cause a denial of service (NULL pointer dereference)](https://hackerone.com/reports/262665) to Internet Bug Bounty - 3 upvotes, $0
+509. [CVE-2017-10965: Null pointer dereference in Irssi \<1.0.4 ](https://hackerone.com/reports/247027) to Internet Bug Bounty - 3 upvotes, $0
+510. [CVE-2017-5204: The IPv6 parser in tcpdump before 4.9.0 has a buffer overflow in print-ip6.c:ip6_print()](https://hackerone.com/reports/202960) to Internet Bug Bounty - 3 upvotes, $0
+511. [CVE-2017-13038 The PPP parser in tcpdump before 4.9.2 has a buffer over-read in print-ppp.c:handle_mlppp().](https://hackerone.com/reports/268808) to Internet Bug Bounty - 3 upvotes, $0
 512. [CVE-2017-12858: Heap UAF in _zip_buffer_free() / Double free in _zip_dirent_read()](https://hackerone.com/reports/260414) to Internet Bug Bounty - 3 upvotes, $0
 513. [Crash (DoS) when parsing a hostile TIFF](https://hackerone.com/reports/195580) to Internet Bug Bounty - 3 upvotes, $0
 514. [Type Confusion in Object Deserialization](https://hackerone.com/reports/198733) to Internet Bug Bounty - 3 upvotes, $0
@@ -528,82 +528,82 @@ Top reports from Internet Bug Bounty program at HackerOne:
 526. [Heap buffer overflow vulnerability while processing a malformed TIFF file.](https://hackerone.com/reports/1047086) to Internet Bug Bounty - 3 upvotes, $0
 527. [CVE-2023-27537: HSTS double-free](https://hackerone.com/reports/1913110) to Internet Bug Bounty - 3 upvotes, $0
 528. [Adobe Flash Player Out-of-Bound Read/Write Vulnerability](https://hackerone.com/reports/31408) to Internet Bug Bounty - 2 upvotes, $5000
-529. [Segmentation fault for invalid PSS parameters](https://hackerone.com/reports/55018) to Internet Bug Bounty - 2 upvotes, $3000
-530. [OpenSSL Key Recovery Attack on DH small subgroups (CVE-2016-0701) ](https://hackerone.com/reports/113288) to Internet Bug Bounty - 2 upvotes, $2500
-531. [Adobe Flash Player MP4 Use-After-Free Vulnerability](https://hackerone.com/reports/36279) to Internet Bug Bounty - 2 upvotes, $2000
-532. [Adobe Flash Player Out-of-Bound Access Vulnerability](https://hackerone.com/reports/47012) to Internet Bug Bounty - 2 upvotes, $2000
-533. [Adobe Flash Player ShimAdPolicySelector(adPolicySelectorType=0) class Memory Corruption](https://hackerone.com/reports/151040) to Internet Bug Bounty - 2 upvotes, $2000
-534. [Adobe Flash Player ShimContentResolver(resolverType=1) class Memory Corruption Vulnerability](https://hackerone.com/reports/145272) to Internet Bug Bounty - 2 upvotes, $2000
-535. [Adobe Flash Player ShimContentResolver(resolverType=0) class Memory Corruption Vulnerability](https://hackerone.com/reports/145271) to Internet Bug Bounty - 2 upvotes, $2000
-536. [Adobe Flash Player ShimContentResolver.configure Memory Corruption Vulnerability](https://hackerone.com/reports/145267) to Internet Bug Bounty - 2 upvotes, $2000
-537. [Adobe Flash Player ShimContentFactory.retrieveResolvers Memory Corruption Vulnerability](https://hackerone.com/reports/145266) to Internet Bug Bounty - 2 upvotes, $2000
-538. [Adobe Flash Player ShimContentFactory class Memory Corruption Vulnerability](https://hackerone.com/reports/145265) to Internet Bug Bounty - 2 upvotes, $2000
-539. [Adobe Flash Player Metadata class Memory Corruption Vulnerability](https://hackerone.com/reports/138517) to Internet Bug Bounty - 2 upvotes, $2000
-540. [Adobe Flash Player OpportunityGenerator class Memory Corruption Vulnerability](https://hackerone.com/reports/138518) to Internet Bug Bounty - 2 upvotes, $2000
-541. [Adobe Flash Player ContentFactory class Memory Corruption Vulnerability](https://hackerone.com/reports/138516) to Internet Bug Bounty - 2 upvotes, $2000
-542. [phar_tar_writeheaders_int() buffer overflow](https://hackerone.com/reports/504761) to Internet Bug Bounty - 2 upvotes, $1500
-543. [Buffer over-write in finfo_open with malformed magic file.](https://hackerone.com/reports/476179) to Internet Bug Bounty - 2 upvotes, $1500
-544. [Negative size parameter in mb_split](https://hackerone.com/reports/476178) to Internet Bug Bounty - 2 upvotes, $1500
-545. [BN_mod_exp may produce incorrect results on x86_64 (CVE-2015-3193)](https://hackerone.com/reports/128169) to Internet Bug Bounty - 2 upvotes, $1000
-546. [imagegammacorrect allows arbitrary write access](https://hackerone.com/reports/161193) to Internet Bug Bounty - 2 upvotes, $1000
-547. [out of bounds read crashes php-cgi](https://hackerone.com/reports/73234) to Internet Bug Bounty - 2 upvotes, $500
-548. [X509_to_X509_REQ NULL pointer deref](https://hackerone.com/reports/73236) to Internet Bug Bounty - 2 upvotes, $500
-549. [Python 2.7 strop.replace Integer Overflow](https://hackerone.com/reports/129771) to Internet Bug Bounty - 2 upvotes, $500
-550. [ASN.1 BIO excessive memory allocation (CVE-2016-2109)](https://hackerone.com/reports/134880) to Internet Bug Bounty - 2 upvotes, $500
-551. [imagefilltoborder stackoverflow on truecolor images](https://hackerone.com/reports/190863) to Internet Bug Bounty - 2 upvotes, $500
-552. [Write out-of-bounds at number_format](https://hackerone.com/reports/175310) to Internet Bug Bounty - 2 upvotes, $500
-553. [memcpy negative parameter _bc_new_num_ex](https://hackerone.com/reports/175312) to Internet Bug Bounty - 2 upvotes, $500
-554. [CVE-2017-5342 In tcpdump before 4.9.0 a bug in multiple protocol parsers could cause a buffer overflow in print-ether.c:ether_print()](https://hackerone.com/reports/202968) to Internet Bug Bounty - 2 upvotes, $500
-555. [CVE-2017-5482 The Q.933 parser in tcpdump before 4.9.0 has a buffer overflow in print-fr.c:q933_print().](https://hackerone.com/reports/202969) to Internet Bug Bounty - 2 upvotes, $500
-556. [CVE-2017-12985: The IPv6 parser in tcpdump before 4.9.2 has a buffer over-read in ip6_print()](https://hackerone.com/reports/268803) to Internet Bug Bounty - 2 upvotes, $500
-557. [Out-of-bounds reads in zif_grapheme_stripos with negative offset](https://hackerone.com/reports/135291) to Internet Bug Bounty - 2 upvotes, $500
-558. [imagecropauto out-of-bounds access](https://hackerone.com/reports/178144) to Internet Bug Bounty - 2 upvotes, $500
-559. [wddx_deserialize null dereference in php_wddx_pop_element](https://hackerone.com/reports/161217) to Internet Bug Bounty - 2 upvotes, $500
-560. [wddx_deserialize null dereference with invalid xml](https://hackerone.com/reports/161198) to Internet Bug Bounty - 2 upvotes, $500
-561. [PHP INI Parsing Stack Buffer Overflow Vulnerability](https://hackerone.com/reports/248601) to Internet Bug Bounty - 2 upvotes, $500
-562. [Out-Of-Bounds Read in timelib_meridian()](https://hackerone.com/reports/283644) to Internet Bug Bounty - 2 upvotes, $500
-563. [PHP WDDX Deserialization Heap OOB Read in timelib_meridian()](https://hackerone.com/reports/248659) to Internet Bug Bounty - 2 upvotes, $500
-564. [PHP OpenSSL zif_openssl_seal() heap overflow (wild memcpy)](https://hackerone.com/reports/248609) to Internet Bug Bounty - 2 upvotes, $500
-565. [Multiple Heap Overflow due to integer overflows | xml/filter_url/addcslashes](https://hackerone.com/reports/117651) to Internet Bug Bounty - 2 upvotes, $500
-566. [imap_rfc822_parse_headers GS Violation](https://hackerone.com/reports/170260) to Internet Bug Bounty - 2 upvotes, $500
-567. [wddx_deserialize allows illegal memory access](https://hackerone.com/reports/161200) to Internet Bug Bounty - 2 upvotes, $500
-568. [Use-after-free in _asyncio_Future_remove_done_callback](https://hackerone.com/reports/216151) to Internet Bug Bounty - 2 upvotes, $500
-569. [Incorrect GC behavior in xxlimited could lead to use-after-free](https://hackerone.com/reports/203002) to Internet Bug Bounty - 2 upvotes, $500
-570. [crash in gzcompress and 3 other compress functions](https://hackerone.com/reports/180109) to Internet Bug Bounty - 2 upvotes, $500
-571. [php_snmp_parse_oid integer overflow in memory allocation](https://hackerone.com/reports/178094) to Internet Bug Bounty - 2 upvotes, $500
-572. [ldap_escape could produce string larger than 2Gb](https://hackerone.com/reports/168029) to Internet Bug Bounty - 2 upvotes, $500
-573. [integer overflow in recode_string caused heap corruption](https://hackerone.com/reports/167909) to Internet Bug Bounty - 2 upvotes, $500
-574. [Heap BufferOver Flow in escapeshellargs and escapeshellcmd functions](https://hackerone.com/reports/110722) to Internet Bug Bounty - 2 upvotes, $500
-575. [Arbitary Memory Read via gdImageRotateInterpolated Array Index Out of Bounds](https://hackerone.com/reports/110720) to Internet Bug Bounty - 2 upvotes, $500
-576. [PHP 7.3.3: Heap-use-after-free (READ of size 8) in match_at()](https://hackerone.com/reports/692040) to Internet Bug Bounty - 2 upvotes, $500
-577. [buffer overread in base64 code of the xmlrpc module](https://hackerone.com/reports/477897) to Internet Bug Bounty - 2 upvotes, $500
-578. [OOB read in php_strip_tags_ex](https://hackerone.com/reports/778834) to Internet Bug Bounty - 2 upvotes, $500
-579. [[CVE-2022-44570] Possible Denial of Service Vulnerability in Rack’s Range header parsing](https://hackerone.com/reports/2012121) to Internet Bug Bounty - 2 upvotes, $480
-580. [[CVE-2023-22796] Possible ReDoS based DoS vulnerability in Active Support’s underscore](https://hackerone.com/reports/2012131) to Internet Bug Bounty - 2 upvotes, $480
-581. [[CVE-2022-44572] Possible Denial of Service Vulnerability in Rack’s RFC2183 boundary parsing](https://hackerone.com/reports/2012125) to Internet Bug Bounty - 2 upvotes, $480
-582. [[CVE-2022-44571] Possible Denial of Service Vulnerability in Rack Content-Disposition parsing](https://hackerone.com/reports/2012122) to Internet Bug Bounty - 2 upvotes, $480
-583. [Multiple issues in looking-glass software (aka from web to BGP injections)](https://hackerone.com/reports/16330) to Internet Bug Bounty - 2 upvotes, $0
-584. [mod_proxy_fcgi buffer overflow](https://hackerone.com/reports/36264) to Internet Bug Bounty - 2 upvotes, $0
-585. [Misc Python bugs (Memory Corruption & Use After Free)](https://hackerone.com/reports/38170) to Internet Bug Bounty - 2 upvotes, $0
-586. [Heap overflow in H. Spencer’s regex library on 32 bit systems ](https://hackerone.com/reports/47779) to Internet Bug Bounty - 2 upvotes, $0
-587. [Free called on unitialized pointer in exif.c](https://hackerone.com/reports/55028) to Internet Bug Bounty - 2 upvotes, $0
-588. [Tokenizer crash when processing undecodable source code](https://hackerone.com/reports/73248) to Internet Bug Bounty - 2 upvotes, $0
-589. [Multiple use after free bugs in element module](https://hackerone.com/reports/73249) to Internet Bug Bounty - 2 upvotes, $0
-590. [Multiple use after free bugs in heapq module](https://hackerone.com/reports/73250) to Internet Bug Bounty - 2 upvotes, $0
-591. [Multiple use after free bugs in json encoding](https://hackerone.com/reports/73251) to Internet Bug Bounty - 2 upvotes, $0
-592. [Use after free in get_filter](https://hackerone.com/reports/73252) to Internet Bug Bounty - 2 upvotes, $0
-593. [Multiple type confusions in unicode error handlers](https://hackerone.com/reports/73253) to Internet Bug Bounty - 2 upvotes, $0
-594. [mod_lua: Crash in websockets PING handling](https://hackerone.com/reports/103991) to Internet Bug Bounty - 2 upvotes, $0
-595. [Use After Free Vulnerability in unserialize() with SplDoublyLinkedList](https://hackerone.com/reports/103995) to Internet Bug Bounty - 2 upvotes, $0
-596. [Use After Free Vulnerability in unserialize() with SplObjectStorage](https://hackerone.com/reports/103996) to Internet Bug Bounty - 2 upvotes, $0
-597. [Use After Free Vulnerability in unserialize()](https://hackerone.com/reports/103997) to Internet Bug Bounty - 2 upvotes, $0
-598. [Use After Free Vulnerability in session deserializer](https://hackerone.com/reports/103998) to Internet Bug Bounty - 2 upvotes, $0
-599. [zend_throw_or_error() format string vulnerability](https://hackerone.com/reports/104009) to Internet Bug Bounty - 2 upvotes, $0
-600. [Multiple Use After Free Vulnerabilites in unserialize()](https://hackerone.com/reports/104018) to Internet Bug Bounty - 2 upvotes, $0
-601. [EVP_EncryptUpdate overflow (CVE-2016-2106)](https://hackerone.com/reports/135945) to Internet Bug Bounty - 2 upvotes, $0
-602. [Null pointer deref (segfault) in stream_context_get_default](https://hackerone.com/reports/125397) to Internet Bug Bounty - 2 upvotes, $0
-603. [NULL Pointer Dereference in exif_process_user_comment](https://hackerone.com/reports/152232) to Internet Bug Bounty - 2 upvotes, $0
-604. [Interger overflow in eval trigger write out of bound](https://hackerone.com/reports/272097) to Internet Bug Bounty - 2 upvotes, $0
+529. [OpenSSL Key Recovery Attack on DH small subgroups (CVE-2016-0701) ](https://hackerone.com/reports/113288) to Internet Bug Bounty - 2 upvotes, $2500
+530. [Adobe Flash Player MP4 Use-After-Free Vulnerability](https://hackerone.com/reports/36279) to Internet Bug Bounty - 2 upvotes, $2000
+531. [Adobe Flash Player Out-of-Bound Access Vulnerability](https://hackerone.com/reports/47012) to Internet Bug Bounty - 2 upvotes, $2000
+532. [Adobe Flash Player ShimAdPolicySelector(adPolicySelectorType=0) class Memory Corruption](https://hackerone.com/reports/151040) to Internet Bug Bounty - 2 upvotes, $2000
+533. [Adobe Flash Player ShimContentResolver(resolverType=1) class Memory Corruption Vulnerability](https://hackerone.com/reports/145272) to Internet Bug Bounty - 2 upvotes, $2000
+534. [Adobe Flash Player ShimContentResolver(resolverType=0) class Memory Corruption Vulnerability](https://hackerone.com/reports/145271) to Internet Bug Bounty - 2 upvotes, $2000
+535. [Adobe Flash Player ShimContentResolver.configure Memory Corruption Vulnerability](https://hackerone.com/reports/145267) to Internet Bug Bounty - 2 upvotes, $2000
+536. [Adobe Flash Player ShimContentFactory.retrieveResolvers Memory Corruption Vulnerability](https://hackerone.com/reports/145266) to Internet Bug Bounty - 2 upvotes, $2000
+537. [Adobe Flash Player ShimContentFactory class Memory Corruption Vulnerability](https://hackerone.com/reports/145265) to Internet Bug Bounty - 2 upvotes, $2000
+538. [Adobe Flash Player Metadata class Memory Corruption Vulnerability](https://hackerone.com/reports/138517) to Internet Bug Bounty - 2 upvotes, $2000
+539. [Adobe Flash Player OpportunityGenerator class Memory Corruption Vulnerability](https://hackerone.com/reports/138518) to Internet Bug Bounty - 2 upvotes, $2000
+540. [Adobe Flash Player ContentFactory class Memory Corruption Vulnerability](https://hackerone.com/reports/138516) to Internet Bug Bounty - 2 upvotes, $2000
+541. [phar_tar_writeheaders_int() buffer overflow](https://hackerone.com/reports/504761) to Internet Bug Bounty - 2 upvotes, $1500
+542. [Buffer over-write in finfo_open with malformed magic file.](https://hackerone.com/reports/476179) to Internet Bug Bounty - 2 upvotes, $1500
+543. [Negative size parameter in mb_split](https://hackerone.com/reports/476178) to Internet Bug Bounty - 2 upvotes, $1500
+544. [BN_mod_exp may produce incorrect results on x86_64 (CVE-2015-3193)](https://hackerone.com/reports/128169) to Internet Bug Bounty - 2 upvotes, $1000
+545. [imagegammacorrect allows arbitrary write access](https://hackerone.com/reports/161193) to Internet Bug Bounty - 2 upvotes, $1000
+546. [Python 2.7 strop.replace Integer Overflow](https://hackerone.com/reports/129771) to Internet Bug Bounty - 2 upvotes, $500
+547. [imagefilltoborder stackoverflow on truecolor images](https://hackerone.com/reports/190863) to Internet Bug Bounty - 2 upvotes, $500
+548. [Write out-of-bounds at number_format](https://hackerone.com/reports/175310) to Internet Bug Bounty - 2 upvotes, $500
+549. [memcpy negative parameter _bc_new_num_ex](https://hackerone.com/reports/175312) to Internet Bug Bounty - 2 upvotes, $500
+550. [Out-of-bounds reads in zif_grapheme_stripos with negative offset](https://hackerone.com/reports/135291) to Internet Bug Bounty - 2 upvotes, $500
+551. [imagecropauto out-of-bounds access](https://hackerone.com/reports/178144) to Internet Bug Bounty - 2 upvotes, $500
+552. [wddx_deserialize null dereference in php_wddx_pop_element](https://hackerone.com/reports/161217) to Internet Bug Bounty - 2 upvotes, $500
+553. [wddx_deserialize null dereference with invalid xml](https://hackerone.com/reports/161198) to Internet Bug Bounty - 2 upvotes, $500
+554. [PHP INI Parsing Stack Buffer Overflow Vulnerability](https://hackerone.com/reports/248601) to Internet Bug Bounty - 2 upvotes, $500
+555. [Out-Of-Bounds Read in timelib_meridian()](https://hackerone.com/reports/283644) to Internet Bug Bounty - 2 upvotes, $500
+556. [PHP WDDX Deserialization Heap OOB Read in timelib_meridian()](https://hackerone.com/reports/248659) to Internet Bug Bounty - 2 upvotes, $500
+557. [PHP OpenSSL zif_openssl_seal() heap overflow (wild memcpy)](https://hackerone.com/reports/248609) to Internet Bug Bounty - 2 upvotes, $500
+558. [Multiple Heap Overflow due to integer overflows | xml/filter_url/addcslashes](https://hackerone.com/reports/117651) to Internet Bug Bounty - 2 upvotes, $500
+559. [imap_rfc822_parse_headers GS Violation](https://hackerone.com/reports/170260) to Internet Bug Bounty - 2 upvotes, $500
+560. [wddx_deserialize allows illegal memory access](https://hackerone.com/reports/161200) to Internet Bug Bounty - 2 upvotes, $500
+561. [Use-after-free in _asyncio_Future_remove_done_callback](https://hackerone.com/reports/216151) to Internet Bug Bounty - 2 upvotes, $500
+562. [Incorrect GC behavior in xxlimited could lead to use-after-free](https://hackerone.com/reports/203002) to Internet Bug Bounty - 2 upvotes, $500
+563. [crash in gzcompress and 3 other compress functions](https://hackerone.com/reports/180109) to Internet Bug Bounty - 2 upvotes, $500
+564. [php_snmp_parse_oid integer overflow in memory allocation](https://hackerone.com/reports/178094) to Internet Bug Bounty - 2 upvotes, $500
+565. [ldap_escape could produce string larger than 2Gb](https://hackerone.com/reports/168029) to Internet Bug Bounty - 2 upvotes, $500
+566. [integer overflow in recode_string caused heap corruption](https://hackerone.com/reports/167909) to Internet Bug Bounty - 2 upvotes, $500
+567. [Heap BufferOver Flow in escapeshellargs and escapeshellcmd functions](https://hackerone.com/reports/110722) to Internet Bug Bounty - 2 upvotes, $500
+568. [Arbitary Memory Read via gdImageRotateInterpolated Array Index Out of Bounds](https://hackerone.com/reports/110720) to Internet Bug Bounty - 2 upvotes, $500
+569. [buffer overread in base64 code of the xmlrpc module](https://hackerone.com/reports/477897) to Internet Bug Bounty - 2 upvotes, $500
+570. [OOB read in php_strip_tags_ex](https://hackerone.com/reports/778834) to Internet Bug Bounty - 2 upvotes, $500
+571. [[CVE-2022-44570] Possible Denial of Service Vulnerability in Rack’s Range header parsing](https://hackerone.com/reports/2012121) to Internet Bug Bounty - 2 upvotes, $480
+572. [[CVE-2023-22796] Possible ReDoS based DoS vulnerability in Active Support’s underscore](https://hackerone.com/reports/2012131) to Internet Bug Bounty - 2 upvotes, $480
+573. [[CVE-2022-44572] Possible Denial of Service Vulnerability in Rack’s RFC2183 boundary parsing](https://hackerone.com/reports/2012125) to Internet Bug Bounty - 2 upvotes, $480
+574. [[CVE-2022-44571] Possible Denial of Service Vulnerability in Rack Content-Disposition parsing](https://hackerone.com/reports/2012122) to Internet Bug Bounty - 2 upvotes, $480
+575. [Multiple issues in looking-glass software (aka from web to BGP injections)](https://hackerone.com/reports/16330) to Internet Bug Bounty - 2 upvotes, $0
+576. [mod_proxy_fcgi buffer overflow](https://hackerone.com/reports/36264) to Internet Bug Bounty - 2 upvotes, $0
+577. [Misc Python bugs (Memory Corruption & Use After Free)](https://hackerone.com/reports/38170) to Internet Bug Bounty - 2 upvotes, $0
+578. [Bad Write in TTF font parsing (win32k.sys)](https://hackerone.com/reports/48100) to Internet Bug Bounty - 2 upvotes, $0
+579. [Heap overflow in H. Spencer’s regex library on 32 bit systems ](https://hackerone.com/reports/47779) to Internet Bug Bounty - 2 upvotes, $0
+580. [Segmentation fault for invalid PSS parameters](https://hackerone.com/reports/55018) to Internet Bug Bounty - 2 upvotes, $0
+581. [Free called on unitialized pointer in exif.c](https://hackerone.com/reports/55028) to Internet Bug Bounty - 2 upvotes, $0
+582. [out of bounds read crashes php-cgi](https://hackerone.com/reports/73234) to Internet Bug Bounty - 2 upvotes, $0
+583. [X509_to_X509_REQ NULL pointer deref](https://hackerone.com/reports/73236) to Internet Bug Bounty - 2 upvotes, $0
+584. [Tokenizer crash when processing undecodable source code](https://hackerone.com/reports/73248) to Internet Bug Bounty - 2 upvotes, $0
+585. [Multiple use after free bugs in element module](https://hackerone.com/reports/73249) to Internet Bug Bounty - 2 upvotes, $0
+586. [Multiple use after free bugs in heapq module](https://hackerone.com/reports/73250) to Internet Bug Bounty - 2 upvotes, $0
+587. [Multiple use after free bugs in json encoding](https://hackerone.com/reports/73251) to Internet Bug Bounty - 2 upvotes, $0
+588. [Use after free in get_filter](https://hackerone.com/reports/73252) to Internet Bug Bounty - 2 upvotes, $0
+589. [Multiple type confusions in unicode error handlers](https://hackerone.com/reports/73253) to Internet Bug Bounty - 2 upvotes, $0
+590. [mod_lua: Crash in websockets PING handling](https://hackerone.com/reports/103991) to Internet Bug Bounty - 2 upvotes, $0
+591. [Use After Free Vulnerability in unserialize() with SplDoublyLinkedList](https://hackerone.com/reports/103995) to Internet Bug Bounty - 2 upvotes, $0
+592. [Use After Free Vulnerability in unserialize() with SplObjectStorage](https://hackerone.com/reports/103996) to Internet Bug Bounty - 2 upvotes, $0
+593. [Use After Free Vulnerability in unserialize()](https://hackerone.com/reports/103997) to Internet Bug Bounty - 2 upvotes, $0
+594. [Use After Free Vulnerability in session deserializer](https://hackerone.com/reports/103998) to Internet Bug Bounty - 2 upvotes, $0
+595. [zend_throw_or_error() format string vulnerability](https://hackerone.com/reports/104009) to Internet Bug Bounty - 2 upvotes, $0
+596. [Multiple Use After Free Vulnerabilites in unserialize()](https://hackerone.com/reports/104018) to Internet Bug Bounty - 2 upvotes, $0
+597. [EVP_EncryptUpdate overflow (CVE-2016-2106)](https://hackerone.com/reports/135945) to Internet Bug Bounty - 2 upvotes, $0
+598. [ASN.1 BIO excessive memory allocation (CVE-2016-2109)](https://hackerone.com/reports/134880) to Internet Bug Bounty - 2 upvotes, $0
+599. [Null pointer deref (segfault) in stream_context_get_default](https://hackerone.com/reports/125397) to Internet Bug Bounty - 2 upvotes, $0
+600. [NULL Pointer Dereference in exif_process_user_comment](https://hackerone.com/reports/152232) to Internet Bug Bounty - 2 upvotes, $0
+601. [Interger overflow in eval trigger write out of bound](https://hackerone.com/reports/272097) to Internet Bug Bounty - 2 upvotes, $0
+602. [CVE-2017-5342 In tcpdump before 4.9.0 a bug in multiple protocol parsers could cause a buffer overflow in print-ether.c:ether_print()](https://hackerone.com/reports/202968) to Internet Bug Bounty - 2 upvotes, $0
+603. [CVE-2017-5482 The Q.933 parser in tcpdump before 4.9.0 has a buffer overflow in print-fr.c:q933_print().](https://hackerone.com/reports/202969) to Internet Bug Bounty - 2 upvotes, $0
+604. [CVE-2017-12985: The IPv6 parser in tcpdump before 4.9.2 has a buffer over-read in ip6_print()](https://hackerone.com/reports/268803) to Internet Bug Bounty - 2 upvotes, $0
 605. [Use After Free Vulnerability in WDDX Packet Deserialization](https://hackerone.com/reports/108681) to Internet Bug Bounty - 2 upvotes, $0
 606. [Type Confusion Vulnerability in PHP_to_XMLRPC_worker()](https://hackerone.com/reports/108682) to Internet Bug Bounty - 2 upvotes, $0
 607. [Session WDDX Packet Deserialization Type Confusion Vulnerability](https://hackerone.com/reports/108683) to Internet Bug Bounty - 2 upvotes, $0
@@ -628,79 +628,79 @@ Top reports from Internet Bug Bounty program at HackerOne:
 626. [CVE-2016-3182 OpenJPEG color_esycc_to_rgb Out-of-Bounds Read Vulnerability](https://hackerone.com/reports/167953) to Internet Bug Bounty - 2 upvotes, $0
 627. [CVE-2016-3183 OpenJPEG sycc422_to_rgb Out-of-Bounds Read Vulnerability](https://hackerone.com/reports/167947) to Internet Bug Bounty - 2 upvotes, $0
 628. [putty pscp client-side post-auth stack buffer overwrite when processing remote file size ](https://hackerone.com/reports/120903) to Internet Bug Bounty - 2 upvotes, $0
-629. [Out-of-Bound Read in urldecode() [CVE-2020-7067]](https://hackerone.com/reports/852103) to Internet Bug Bounty - 2 upvotes, $0
-630. [PHP link() silently truncates after a null byte on Windows](https://hackerone.com/reports/805010) to Internet Bug Bounty - 2 upvotes, $0
-631. [CVE-2017-13019:  The PGM parser in tcpdump before 4.9.2 has a buffer over-read in print-pgm.c:pgm_print()](https://hackerone.com/reports/802896) to Internet Bug Bounty - 2 upvotes, $0
-632. [Use of uninitialized value of in req_parsebody method of lua_request.c](https://hackerone.com/reports/1514863) to Internet Bug Bounty - 2 upvotes, $0
-633. [CVE-2023-28319: UAF in SSH sha256 fingerprint check](https://hackerone.com/reports/1997312) to Internet Bug Bounty - 2 upvotes, $0
-634. [Adobe Flash Player Regular Expression UAF Remote Code Execution Vulnerability](https://hackerone.com/reports/139879) to Internet Bug Bounty - 1 upvotes, $5000
-635. [Adobe Flash Player TimedEvent.parent Memory Corruption Vulnerability](https://hackerone.com/reports/151039) to Internet Bug Bounty - 1 upvotes, $5000
-636. [Adobe Flash Player ASnative(101,10) Memory Corruption Vulnerability](https://hackerone.com/reports/119652) to Internet Bug Bounty - 1 upvotes, $5000
-637. [Wrong Handling of Content-Type allows Flash injection and Rosseta flash patch bypass](https://hackerone.com/reports/78158) to Internet Bug Bounty - 1 upvotes, $3000
-638. [Locale::parseLocale Double Free](https://hackerone.com/reports/35102) to Internet Bug Bounty - 1 upvotes, $2500
-639. [Adobe Flash Player ShimOpportunityGenerator class Memory Corruption Vulnerability](https://hackerone.com/reports/145269) to Internet Bug Bounty - 1 upvotes, $2000
-640. [Adobe Flash Player ASnative(900,1).call(TextField) Use-After-Free Vulnerability](https://hackerone.com/reports/119655) to Internet Bug Bounty - 1 upvotes, $2000
-641. [Adobe Flash Player ASnative(900,1).call(MovieClip) Use-After-Free Vulnerability](https://hackerone.com/reports/119653) to Internet Bug Bounty - 1 upvotes, $2000
-642. [Adobe Flash Player TextField Use-After-Free Vulnerability](https://hackerone.com/reports/122254) to Internet Bug Bounty - 1 upvotes, $2000
-643. [ZIP Integer Overflow leads to writing past heap boundary](https://hackerone.com/reports/73239) to Internet Bug Bounty - 1 upvotes, $1500
-644. [PHP yaml_parse/yaml_parse_file/yaml_parse_url Double Free](https://hackerone.com/reports/73256) to Internet Bug Bounty - 1 upvotes, $1500
-645. [3 heap corruptions in PHP](https://hackerone.com/reports/188102) to Internet Bug Bounty - 1 upvotes, $1500
-646. [Stack Buffer Overflow in GD dynamicGetbuf](https://hackerone.com/reports/175587) to Internet Bug Bounty - 1 upvotes, $1500
-647. [Inadequate error handling in bzread()](https://hackerone.com/reports/152772) to Internet Bug Bounty - 1 upvotes, $1500
-648. [Buffer Over flow when parsing tar/zip/phar in phar_set_inode](https://hackerone.com/reports/73237) to Internet Bug Bounty - 1 upvotes, $1000
-649. [Buffer Over-read in unserialize when parsing Phar](https://hackerone.com/reports/73238) to Internet Bug Bounty - 1 upvotes, $1000
-650. [Python: imageop Unsafe Arithmetic](https://hackerone.com/reports/73258) to Internet Bug Bounty - 1 upvotes, $1000
-651. [msilib.OpenDatabase Type Confusion](https://hackerone.com/reports/167688) to Internet Bug Bounty - 1 upvotes, $1000
-652. [Negative size parameter (-1) in memcpy mbfl_strcut ](https://hackerone.com/reports/127242) to Internet Bug Bounty - 1 upvotes, $1000
-653. [Invalid free in phar_extract_file()](https://hackerone.com/reports/146202) to Internet Bug Bounty - 1 upvotes, $1000
-654. [Use-after-free vulnerability in SPL(SplObjectStorage, unserialize)](https://hackerone.com/reports/114079) to Internet Bug Bounty - 1 upvotes, $1000
-655. [Use-after-free vulnerability in SPL(ArrayObject, unserialize)](https://hackerone.com/reports/114078) to Internet Bug Bounty - 1 upvotes, $1000
-656. [PHP yaml_parse/yaml_parse_file/yaml_parse_url Unsafe Deserialization](https://hackerone.com/reports/73257) to Internet Bug Bounty - 1 upvotes, $500
-657. [Integer overflow in _pickle.c](https://hackerone.com/reports/73259) to Internet Bug Bounty - 1 upvotes, $500
-658. [memcpy negative size parameter in php_resolve_path](https://hackerone.com/reports/175311) to Internet Bug Bounty - 1 upvotes, $500
-659. [potential remote code execution with phar archive ](https://hackerone.com/reports/126652) to Internet Bug Bounty - 1 upvotes, $500
-660. [xml_parse_into_struct segmentation fault](https://hackerone.com/reports/135294) to Internet Bug Bounty - 1 upvotes, $500
-661. [stack-buffer-overflow through "ResourceBundle" methods](https://hackerone.com/reports/175316) to Internet Bug Bounty - 1 upvotes, $500
-662. [bcpowmod accepts negative scale and corrupts _one_ definition](https://hackerone.com/reports/135293) to Internet Bug Bounty - 1 upvotes, $500
-663. [get_icu_value_internal out-of-bounds read](https://hackerone.com/reports/141197) to Internet Bug Bounty - 1 upvotes, $500
-664. [locale_accept_from_http out-of-bounds access](https://hackerone.com/reports/152782) to Internet Bug Bounty - 1 upvotes, $500
-665. [Illegal write access through Locale methods](https://hackerone.com/reports/175315) to Internet Bug Bounty - 1 upvotes, $500
-666. [CVE-2015-8874 Stack overflow with imagefilltoborder](https://hackerone.com/reports/146936) to Internet Bug Bounty - 1 upvotes, $500
-667. [imagegif/output out-of-bounds access](https://hackerone.com/reports/152784) to Internet Bug Bounty - 1 upvotes, $500
-668. [Integer underflow / arbitrary null write in fread/gzread](https://hackerone.com/reports/141212) to Internet Bug Bounty - 1 upvotes, $500
-669. [Null pointer deref with ob_start with get_defined_vars](https://hackerone.com/reports/113799) to Internet Bug Bounty - 1 upvotes, $500
-670. [Null pointer deref with ob_start with compact](https://hackerone.com/reports/113798) to Internet Bug Bounty - 1 upvotes, $500
-671. [memory corruption while parsing HTTP response](https://hackerone.com/reports/320222) to Internet Bug Bounty - 1 upvotes, $500
-672. [imagescale out-of-bounds read](https://hackerone.com/reports/141202) to Internet Bug Bounty - 1 upvotes, $500
-673. [gdImageTrueColorToPaletteBody allows arbitrary write/read access](https://hackerone.com/reports/153776) to Internet Bug Bounty - 1 upvotes, $500
-674. [wddx_deserialize null dereference](https://hackerone.com/reports/161216) to Internet Bug Bounty - 1 upvotes, $500
-675. [NULL pointer dereference in SimpleXMLElement::asXML()](https://hackerone.com/reports/175262) to Internet Bug Bounty - 1 upvotes, $500
-676. [crash in openssl_random_pseudo_bytes function](https://hackerone.com/reports/175263) to Internet Bug Bounty - 1 upvotes, $500
-677. [missing NULL check in dom_document_save_html](https://hackerone.com/reports/175260) to Internet Bug Bounty - 1 upvotes, $500
-678. [heap overflow in php_ereg_replace function](https://hackerone.com/reports/175264) to Internet Bug Bounty - 1 upvotes, $500
-679. [crash in implode() function](https://hackerone.com/reports/180110) to Internet Bug Bounty - 1 upvotes, $500
-680. [iconv() function missing string length check](https://hackerone.com/reports/180112) to Internet Bug Bounty - 1 upvotes, $500
-681. [crash in bzcompress function](https://hackerone.com/reports/180111) to Internet Bug Bounty - 1 upvotes, $500
-682. [crash in get_icu_value_internal function](https://hackerone.com/reports/180113) to Internet Bug Bounty - 1 upvotes, $500
-683. [crash in locale_get_keywords() when keyword value in locale string too long](https://hackerone.com/reports/180115) to Internet Bug Bounty - 1 upvotes, $500
-684. [another crash in locale_get_keywords function](https://hackerone.com/reports/180116) to Internet Bug Bounty - 1 upvotes, $500
-685. [Invalid memory access in zend_strtod() function](https://hackerone.com/reports/180588) to Internet Bug Bounty - 1 upvotes, $500
-686. [crash in simplestring_addn function](https://hackerone.com/reports/180589) to Internet Bug Bounty - 1 upvotes, $500
-687. [Invalid memory access in spl_filesystem_dir_open function](https://hackerone.com/reports/180590) to Internet Bug Bounty - 1 upvotes, $500
-688. [Invalid memory access in php_basename function](https://hackerone.com/reports/180591) to Internet Bug Bounty - 1 upvotes, $500
-689. [Invalid memory access in spl_filesystem_info_set_filename function](https://hackerone.com/reports/180592) to Internet Bug Bounty - 1 upvotes, $500
-690. [gzuncompress does NOT check output string size which leads to an overflow](https://hackerone.com/reports/168028) to Internet Bug Bounty - 1 upvotes, $500
-691. [gzdecode does NOT check output string size which leads to an overflow](https://hackerone.com/reports/168027) to Internet Bug Bounty - 1 upvotes, $500
-692. [Integer Overflow in gdImagePaletteToTrueColor() resulting in heap overflow](https://hackerone.com/reports/147125) to Internet Bug Bounty - 1 upvotes, $500
-693. [NULL Pointer Dereference at _gdScaleVert](https://hackerone.com/reports/146944) to Internet Bug Bounty - 1 upvotes, $500
-694. [Integer Overflow in _gd2GetHeader() resulting in heap overflow](https://hackerone.com/reports/143234) to Internet Bug Bounty - 1 upvotes, $500
-695. [Python vulnerability: reading arbitrary process memory](https://hackerone.com/reports/12297) to Internet Bug Bounty - 1 upvotes, $0
-696. [integer overflow in 'buffer' type allows reading memory](https://hackerone.com/reports/20671) to Internet Bug Bounty - 1 upvotes, $0
-697. [LZ4 Core](https://hackerone.com/reports/17688) to Internet Bug Bounty - 1 upvotes, $0
-698. [SPL ArrayObject/SPLObjectStorage Unserialization Type Confusion Vulnerabilities](https://hackerone.com/reports/28445) to Internet Bug Bounty - 1 upvotes, $0
-699. [rsync hash collisions may allow an attacker to corrupt or modify files](https://hackerone.com/reports/20873) to Internet Bug Bounty - 1 upvotes, $0
-700. [PyUnicode_FromFormatV crasher](https://hackerone.com/reports/43443) to Internet Bug Bounty - 1 upvotes, $0
-701. [Bad Write in TTF font parsing (win32k.sys)](https://hackerone.com/reports/48100) to Internet Bug Bounty - 1 upvotes, $0
+629. [PHP 7.3.3: Heap-use-after-free (READ of size 8) in match_at()](https://hackerone.com/reports/692040) to Internet Bug Bounty - 2 upvotes, $0
+630. [Out-of-Bound Read in urldecode() [CVE-2020-7067]](https://hackerone.com/reports/852103) to Internet Bug Bounty - 2 upvotes, $0
+631. [PHP link() silently truncates after a null byte on Windows](https://hackerone.com/reports/805010) to Internet Bug Bounty - 2 upvotes, $0
+632. [CVE-2017-13019:  The PGM parser in tcpdump before 4.9.2 has a buffer over-read in print-pgm.c:pgm_print()](https://hackerone.com/reports/802896) to Internet Bug Bounty - 2 upvotes, $0
+633. [Use of uninitialized value of in req_parsebody method of lua_request.c](https://hackerone.com/reports/1514863) to Internet Bug Bounty - 2 upvotes, $0
+634. [CVE-2023-28319: UAF in SSH sha256 fingerprint check](https://hackerone.com/reports/1997312) to Internet Bug Bounty - 2 upvotes, $0
+635. [Adobe Flash Player Regular Expression UAF Remote Code Execution Vulnerability](https://hackerone.com/reports/139879) to Internet Bug Bounty - 1 upvotes, $5000
+636. [Adobe Flash Player TimedEvent.parent Memory Corruption Vulnerability](https://hackerone.com/reports/151039) to Internet Bug Bounty - 1 upvotes, $5000
+637. [Adobe Flash Player ASnative(101,10) Memory Corruption Vulnerability](https://hackerone.com/reports/119652) to Internet Bug Bounty - 1 upvotes, $5000
+638. [Wrong Handling of Content-Type allows Flash injection and Rosseta flash patch bypass](https://hackerone.com/reports/78158) to Internet Bug Bounty - 1 upvotes, $3000
+639. [Locale::parseLocale Double Free](https://hackerone.com/reports/35102) to Internet Bug Bounty - 1 upvotes, $2500
+640. [Adobe Flash Player ShimOpportunityGenerator class Memory Corruption Vulnerability](https://hackerone.com/reports/145269) to Internet Bug Bounty - 1 upvotes, $2000
+641. [Adobe Flash Player ASnative(900,1).call(TextField) Use-After-Free Vulnerability](https://hackerone.com/reports/119655) to Internet Bug Bounty - 1 upvotes, $2000
+642. [Adobe Flash Player ASnative(900,1).call(MovieClip) Use-After-Free Vulnerability](https://hackerone.com/reports/119653) to Internet Bug Bounty - 1 upvotes, $2000
+643. [Adobe Flash Player TextField Use-After-Free Vulnerability](https://hackerone.com/reports/122254) to Internet Bug Bounty - 1 upvotes, $2000
+644. [ZIP Integer Overflow leads to writing past heap boundary](https://hackerone.com/reports/73239) to Internet Bug Bounty - 1 upvotes, $1500
+645. [PHP yaml_parse/yaml_parse_file/yaml_parse_url Double Free](https://hackerone.com/reports/73256) to Internet Bug Bounty - 1 upvotes, $1500
+646. [3 heap corruptions in PHP](https://hackerone.com/reports/188102) to Internet Bug Bounty - 1 upvotes, $1500
+647. [Stack Buffer Overflow in GD dynamicGetbuf](https://hackerone.com/reports/175587) to Internet Bug Bounty - 1 upvotes, $1500
+648. [Inadequate error handling in bzread()](https://hackerone.com/reports/152772) to Internet Bug Bounty - 1 upvotes, $1500
+649. [Buffer Over flow when parsing tar/zip/phar in phar_set_inode](https://hackerone.com/reports/73237) to Internet Bug Bounty - 1 upvotes, $1000
+650. [Buffer Over-read in unserialize when parsing Phar](https://hackerone.com/reports/73238) to Internet Bug Bounty - 1 upvotes, $1000
+651. [Python: imageop Unsafe Arithmetic](https://hackerone.com/reports/73258) to Internet Bug Bounty - 1 upvotes, $1000
+652. [msilib.OpenDatabase Type Confusion](https://hackerone.com/reports/167688) to Internet Bug Bounty - 1 upvotes, $1000
+653. [Negative size parameter (-1) in memcpy mbfl_strcut ](https://hackerone.com/reports/127242) to Internet Bug Bounty - 1 upvotes, $1000
+654. [Invalid free in phar_extract_file()](https://hackerone.com/reports/146202) to Internet Bug Bounty - 1 upvotes, $1000
+655. [Use-after-free vulnerability in SPL(SplObjectStorage, unserialize)](https://hackerone.com/reports/114079) to Internet Bug Bounty - 1 upvotes, $1000
+656. [Use-after-free vulnerability in SPL(ArrayObject, unserialize)](https://hackerone.com/reports/114078) to Internet Bug Bounty - 1 upvotes, $1000
+657. [PHP yaml_parse/yaml_parse_file/yaml_parse_url Unsafe Deserialization](https://hackerone.com/reports/73257) to Internet Bug Bounty - 1 upvotes, $500
+658. [Integer overflow in _pickle.c](https://hackerone.com/reports/73259) to Internet Bug Bounty - 1 upvotes, $500
+659. [memcpy negative size parameter in php_resolve_path](https://hackerone.com/reports/175311) to Internet Bug Bounty - 1 upvotes, $500
+660. [potential remote code execution with phar archive ](https://hackerone.com/reports/126652) to Internet Bug Bounty - 1 upvotes, $500
+661. [xml_parse_into_struct segmentation fault](https://hackerone.com/reports/135294) to Internet Bug Bounty - 1 upvotes, $500
+662. [stack-buffer-overflow through "ResourceBundle" methods](https://hackerone.com/reports/175316) to Internet Bug Bounty - 1 upvotes, $500
+663. [bcpowmod accepts negative scale and corrupts _one_ definition](https://hackerone.com/reports/135293) to Internet Bug Bounty - 1 upvotes, $500
+664. [get_icu_value_internal out-of-bounds read](https://hackerone.com/reports/141197) to Internet Bug Bounty - 1 upvotes, $500
+665. [locale_accept_from_http out-of-bounds access](https://hackerone.com/reports/152782) to Internet Bug Bounty - 1 upvotes, $500
+666. [Illegal write access through Locale methods](https://hackerone.com/reports/175315) to Internet Bug Bounty - 1 upvotes, $500
+667. [CVE-2015-8874 Stack overflow with imagefilltoborder](https://hackerone.com/reports/146936) to Internet Bug Bounty - 1 upvotes, $500
+668. [imagegif/output out-of-bounds access](https://hackerone.com/reports/152784) to Internet Bug Bounty - 1 upvotes, $500
+669. [Integer underflow / arbitrary null write in fread/gzread](https://hackerone.com/reports/141212) to Internet Bug Bounty - 1 upvotes, $500
+670. [Null pointer deref with ob_start with get_defined_vars](https://hackerone.com/reports/113799) to Internet Bug Bounty - 1 upvotes, $500
+671. [Null pointer deref with ob_start with compact](https://hackerone.com/reports/113798) to Internet Bug Bounty - 1 upvotes, $500
+672. [memory corruption while parsing HTTP response](https://hackerone.com/reports/320222) to Internet Bug Bounty - 1 upvotes, $500
+673. [imagescale out-of-bounds read](https://hackerone.com/reports/141202) to Internet Bug Bounty - 1 upvotes, $500
+674. [gdImageTrueColorToPaletteBody allows arbitrary write/read access](https://hackerone.com/reports/153776) to Internet Bug Bounty - 1 upvotes, $500
+675. [wddx_deserialize null dereference](https://hackerone.com/reports/161216) to Internet Bug Bounty - 1 upvotes, $500
+676. [NULL pointer dereference in SimpleXMLElement::asXML()](https://hackerone.com/reports/175262) to Internet Bug Bounty - 1 upvotes, $500
+677. [crash in openssl_random_pseudo_bytes function](https://hackerone.com/reports/175263) to Internet Bug Bounty - 1 upvotes, $500
+678. [missing NULL check in dom_document_save_html](https://hackerone.com/reports/175260) to Internet Bug Bounty - 1 upvotes, $500
+679. [heap overflow in php_ereg_replace function](https://hackerone.com/reports/175264) to Internet Bug Bounty - 1 upvotes, $500
+680. [crash in implode() function](https://hackerone.com/reports/180110) to Internet Bug Bounty - 1 upvotes, $500
+681. [iconv() function missing string length check](https://hackerone.com/reports/180112) to Internet Bug Bounty - 1 upvotes, $500
+682. [crash in bzcompress function](https://hackerone.com/reports/180111) to Internet Bug Bounty - 1 upvotes, $500
+683. [crash in get_icu_value_internal function](https://hackerone.com/reports/180113) to Internet Bug Bounty - 1 upvotes, $500
+684. [crash in locale_get_keywords() when keyword value in locale string too long](https://hackerone.com/reports/180115) to Internet Bug Bounty - 1 upvotes, $500
+685. [another crash in locale_get_keywords function](https://hackerone.com/reports/180116) to Internet Bug Bounty - 1 upvotes, $500
+686. [Invalid memory access in zend_strtod() function](https://hackerone.com/reports/180588) to Internet Bug Bounty - 1 upvotes, $500
+687. [crash in simplestring_addn function](https://hackerone.com/reports/180589) to Internet Bug Bounty - 1 upvotes, $500
+688. [Invalid memory access in spl_filesystem_dir_open function](https://hackerone.com/reports/180590) to Internet Bug Bounty - 1 upvotes, $500
+689. [Invalid memory access in php_basename function](https://hackerone.com/reports/180591) to Internet Bug Bounty - 1 upvotes, $500
+690. [Invalid memory access in spl_filesystem_info_set_filename function](https://hackerone.com/reports/180592) to Internet Bug Bounty - 1 upvotes, $500
+691. [gzuncompress does NOT check output string size which leads to an overflow](https://hackerone.com/reports/168028) to Internet Bug Bounty - 1 upvotes, $500
+692. [gzdecode does NOT check output string size which leads to an overflow](https://hackerone.com/reports/168027) to Internet Bug Bounty - 1 upvotes, $500
+693. [Integer Overflow in gdImagePaletteToTrueColor() resulting in heap overflow](https://hackerone.com/reports/147125) to Internet Bug Bounty - 1 upvotes, $500
+694. [NULL Pointer Dereference at _gdScaleVert](https://hackerone.com/reports/146944) to Internet Bug Bounty - 1 upvotes, $500
+695. [Integer Overflow in _gd2GetHeader() resulting in heap overflow](https://hackerone.com/reports/143234) to Internet Bug Bounty - 1 upvotes, $500
+696. [Python vulnerability: reading arbitrary process memory](https://hackerone.com/reports/12297) to Internet Bug Bounty - 1 upvotes, $0
+697. [integer overflow in 'buffer' type allows reading memory](https://hackerone.com/reports/20671) to Internet Bug Bounty - 1 upvotes, $0
+698. [LZ4 Core](https://hackerone.com/reports/17688) to Internet Bug Bounty - 1 upvotes, $0
+699. [SPL ArrayObject/SPLObjectStorage Unserialization Type Confusion Vulnerabilities](https://hackerone.com/reports/28445) to Internet Bug Bounty - 1 upvotes, $0
+700. [rsync hash collisions may allow an attacker to corrupt or modify files](https://hackerone.com/reports/20873) to Internet Bug Bounty - 1 upvotes, $0
+701. [PyUnicode_FromFormatV crasher](https://hackerone.com/reports/43443) to Internet Bug Bounty - 1 upvotes, $0
 702. [Use after free during the StageVideoAvailabilityEvent can result in arbitrary code execution](https://hackerone.com/reports/47232) to Internet Bug Bounty - 1 upvotes, $0
 703. [Use After Free in Flash MessageChannel.send can cause arbitrary code execution](https://hackerone.com/reports/47234) to Internet Bug Bounty - 1 upvotes, $0
 704. [SoapClient's __call() type confusion through unserialize()](https://hackerone.com/reports/55030) to Internet Bug Bounty - 1 upvotes, $0

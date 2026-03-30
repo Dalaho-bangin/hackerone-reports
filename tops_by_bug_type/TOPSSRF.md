@@ -1,49 +1,49 @@
 Top SSRF reports from HackerOne:
 
 1. [My Expense Report resulted in a Server-Side Request Forgery (SSRF) on Lyft](https://hackerone.com/reports/885975) to Lyft - 653 upvotes, $0
-2. [SSRF in Exchange leads to ROOT access in all instances](https://hackerone.com/reports/341876) to Shopify - 571 upvotes, $0
-3. [Server Side Request Forgery (SSRF) via Analytics Reports](https://hackerone.com/reports/2262382) to HackerOne - 508 upvotes, $0
+2. [SSRF in Exchange leads to ROOT access in all instances](https://hackerone.com/reports/341876) to Shopify - 572 upvotes, $0
+3. [Server Side Request Forgery (SSRF) via Analytics Reports](https://hackerone.com/reports/2262382) to HackerOne - 509 upvotes, $0
 4. [Server-Side Request Forgery using Javascript allows to exfill data from Google Metadata](https://hackerone.com/reports/530974) to Snapchat - 416 upvotes, $0
 5. [Server Side Request Forgery (SSRF) at app.hellosign.com leads to AWS private keys disclosure](https://hackerone.com/reports/923132) to Dropbox - 360 upvotes, $4913
 6. [SSRF on project import via the remote_attachment_url on a Note](https://hackerone.com/reports/826361) to GitLab - 352 upvotes, $10000
 7. [Server Side Request Forgery mitigation bypass](https://hackerone.com/reports/632101) to GitLab - 344 upvotes, $0
 8. [SSRF & LFR via on city-mobil.ru](https://hackerone.com/reports/748123) to Mail.ru - 343 upvotes, $0
-9. [Blind SSRF to internal services in matrix preview_link API](https://hackerone.com/reports/1960765) to Reddit - 329 upvotes, $6000
+9. [Blind SSRF to internal services in matrix preview_link API](https://hackerone.com/reports/1960765) to Reddit - 331 upvotes, $6000
 10. [Full Response SSRF via Google Drive](https://hackerone.com/reports/1406938) to Dropbox - 302 upvotes, $17576
 11. [SSRF on fleet.city-mobil.ru leads to local file read](https://hackerone.com/reports/748069) to Mail.ru - 272 upvotes, $0
-12. [SSRF  leaking internal google cloud data through upload function [SSH Keys, etc..]](https://hackerone.com/reports/549882) to Vimeo - 266 upvotes, $0
+12. [SSRF  leaking internal google cloud data through upload function [SSH Keys, etc..]](https://hackerone.com/reports/549882) to Vimeo - 269 upvotes, $0
 13. [Full read SSRF in www.evernote.com that can leak aws metadata and local file inclusion](https://hackerone.com/reports/1189367) to Evernote - 256 upvotes, $0
-14. [SSRF in graphQL query (pwapi.ex2b.com)](https://hackerone.com/reports/1864188) to EXNESS - 249 upvotes, $3000
+14. [SSRF in graphQL query (pwapi.ex2b.com)](https://hackerone.com/reports/1864188) to EXNESS - 250 upvotes, $3000
 15. [SSRF & LFR on city-mobil.ru](https://hackerone.com/reports/748128) to Mail.ru - 237 upvotes, $0
 16. [Unauthenticated blind SSRF in OAuth Jira authorization controller](https://hackerone.com/reports/398799) to GitLab - 232 upvotes, $4000
 17. [Unsafe charts embedding implementation leads to cross-account stored XSS and SSRF](https://hackerone.com/reports/708589) to New Relic - 225 upvotes, $0
-18. [Full Read SSRF on Gitlab's Internal Grafana](https://hackerone.com/reports/878779) to GitLab - 223 upvotes, $0
+18. [Full Read SSRF on Gitlab's Internal Grafana](https://hackerone.com/reports/878779) to GitLab - 224 upvotes, $0
 19. [Unauthenticated SSRF in jira.tochka.com leading to RCE in confluence.bank24.int](https://hackerone.com/reports/713900) to QIWI - 221 upvotes, $0
 20. [SSRF in webhooks leads to AWS private keys disclosure](https://hackerone.com/reports/508459) to Omise - 208 upvotes, $0
 21. [Stored XSS & SSRF in Lark Docs](https://hackerone.com/reports/892049) to Lark Technologies - 176 upvotes, $3000
-22. [SSRF on duckduckgo.com/iu/](https://hackerone.com/reports/398641) to DuckDuckGo - 162 upvotes, $0
+22. [SSRF on duckduckgo.com/iu/](https://hackerone.com/reports/398641) to DuckDuckGo - 163 upvotes, $0
 23. [Server Side Request Forgery](https://hackerone.com/reports/644238) to Lark Technologies - 161 upvotes, $0
-24. [External SSRF and Local File Read via video upload due to vulnerable FFmpeg HLS processing](https://hackerone.com/reports/1062888) to TikTok - 154 upvotes, $2727
+24. [External SSRF and Local File Read via video upload due to vulnerable FFmpeg HLS processing](https://hackerone.com/reports/1062888) to TikTok - 155 upvotes, $2727
 25. [SSRF in Autodesk Rendering leading to account takeover](https://hackerone.com/reports/3024673) to Autodesk - 154 upvotes, $0
 26. [SSRF chained to hit internal host leading to another SSRF which allows to read internal images.](https://hackerone.com/reports/826097) to PlayStation - 144 upvotes, $1000
-27. [Blind SSRF on errors.hackerone.net due to Sentry misconfiguration](https://hackerone.com/reports/374737) to HackerOne - 139 upvotes, $3500
-28. [DNS Rebinding SSRF in Burp Suite MCP Server Enables Internal Network Access via send_http1_request Tool](https://hackerone.com/reports/3176157) to PortSwigger Web Security - 135 upvotes, $2000
-29. [SSRF in https://couriers.indrive.com/api/file-storage](https://hackerone.com/reports/2300358) to inDrive - 135 upvotes, $0
+27. [Blind SSRF on errors.hackerone.net due to Sentry misconfiguration](https://hackerone.com/reports/374737) to HackerOne - 140 upvotes, $3500
+28. [SSRF in https://couriers.indrive.com/api/file-storage](https://hackerone.com/reports/2300358) to inDrive - 136 upvotes, $0
+29. [DNS Rebinding SSRF in Burp Suite MCP Server Enables Internal Network Access via send_http1_request Tool](https://hackerone.com/reports/3176157) to PortSwigger Web Security - 135 upvotes, $2000
 30. [SSRF on music.line.me through getXML.php](https://hackerone.com/reports/746024) to LY Corporation - 133 upvotes, $4500
 31. [SSRF in clients.city-mobil.ru](https://hackerone.com/reports/712103) to Mail.ru - 132 upvotes, $1500
 32. [SSRF in filtering on relap.io](https://hackerone.com/reports/739962) to Mail.ru - 130 upvotes, $0
 33. [Server Side Request Forgery (SSRF) in webhook functionality](https://hackerone.com/reports/2301565) to HackerOne - 129 upvotes, $2500
 34. [SSRF In Get Video Contents](https://hackerone.com/reports/643622) to Semrush - 124 upvotes, $0
-35. [Full read SSRF via Lark Docs `import as docs` feature ](https://hackerone.com/reports/1409727) to Lark Technologies - 121 upvotes, $5000
-36. [Blind SSRF on https://my.exnessaffiliates.com/ allows for internal network enumeration](https://hackerone.com/reports/1832494) to EXNESS - 117 upvotes, $0
+35. [Full read SSRF via Lark Docs `import as docs` feature ](https://hackerone.com/reports/1409727) to Lark Technologies - 122 upvotes, $5000
+36. [Blind SSRF on https://my.exnessaffiliates.com/ allows for internal network enumeration](https://hackerone.com/reports/1832494) to EXNESS - 118 upvotes, $0
 37. [XXE Injection through SVG image upload leads to SSRF](https://hackerone.com/reports/897244) to Zivver - 112 upvotes, $0
 38. [Server-Side Request Forgery (SSRF) via Game Export API](https://hackerone.com/reports/3165242) to Lichess - 108 upvotes, $0
-39. [SSRF via Office file thumbnails](https://hackerone.com/reports/671935) to Slack - 102 upvotes, $4000
+39. [SSRF via Office file thumbnails](https://hackerone.com/reports/671935) to Slack - 103 upvotes, $4000
 40. [SSRF on image renderer](https://hackerone.com/reports/811136) to PlayStation - 102 upvotes, $1000
 41. [[city-mobil.ru] SSRF & limited LFR on /taxiserv/photoeditor/save endpoint via base64 POST parameter](https://hackerone.com/reports/853068) to Mail.ru - 95 upvotes, $0
 42. [Blind SSRF in horizon-heat](https://hackerone.com/reports/893856) to Mail.ru - 91 upvotes, $2500
-43. [SSRF and LFI in site-audit tool](https://hackerone.com/reports/794099) to Semrush - 84 upvotes, $0
-44. [[my.stripo.email] Blind SSRF Vulnerability in Stripo App Export via Missing Endpoints Export Email Message to Zapier](https://hackerone.com/reports/2932960) to Stripo Inc - 83 upvotes, $0
+43. [[my.stripo.email] Blind SSRF Vulnerability in Stripo App Export via Missing Endpoints Export Email Message to Zapier](https://hackerone.com/reports/2932960) to Stripo Inc - 85 upvotes, $0
+44. [SSRF and LFI in site-audit tool](https://hackerone.com/reports/794099) to Semrush - 84 upvotes, $0
 45. [SSRF in api.slack.com, using slash commands and bypassing the protections.](https://hackerone.com/reports/381129) to Slack - 82 upvotes, $0
 46. [SVG Server Side Request Forgery (SSRF)](https://hackerone.com/reports/223203) to Shopify - 80 upvotes, $500
 47. [Blind SSRF in emblem editor (2)](https://hackerone.com/reports/265050) to Rockstar Games - 78 upvotes, $1500
@@ -52,8 +52,8 @@ Top SSRF reports from HackerOne:
 50. [Libuv: Improper Domain Lookup that potentially leads to SSRF attacks](https://hackerone.com/reports/2429894) to Internet Bug Bounty - 74 upvotes, $4860
 51. [SSRF via host header let access localhost via https://go.dialexa.com](https://hackerone.com/reports/2696271) to IBM - 74 upvotes, $0
 52. [SSRF in CI after first run](https://hackerone.com/reports/369451) to GitLab - 72 upvotes, $0
-53. [Sending Emails from  DNSDumpster - Server-Side Request Forgery to Internal SMTP Access](https://hackerone.com/reports/392859) to Hacker Target - 69 upvotes, $0
-54. [Blind SSRF on debug.nordvpn.com due to misconfigured sentry instance](https://hackerone.com/reports/756149) to Nord Security - 69 upvotes, $0
+53. [Blind SSRF on debug.nordvpn.com due to misconfigured sentry instance](https://hackerone.com/reports/756149) to Nord Security - 70 upvotes, $0
+54. [Sending Emails from  DNSDumpster - Server-Side Request Forgery to Internal SMTP Access](https://hackerone.com/reports/392859) to Hacker Target - 69 upvotes, $0
 55. [SSRF and secret key disclosure found on Turbonomic endpoint](https://hackerone.com/reports/2697592) to IBM - 69 upvotes, $0
 56. [GitLab::UrlBlocker validation bypass leading to full Server Side Request Forgery](https://hackerone.com/reports/541169) to GitLab - 68 upvotes, $0
 57. [connect.8x8.com: Blind SSRF via /api/v2/chats/image-check allows for Internal Ports scan](https://hackerone.com/reports/1875484) to 8x8 - 63 upvotes, $0
@@ -62,10 +62,10 @@ Top SSRF reports from HackerOne:
 60. [SSRF and local file disclosure by video upload on https://www.redtube.com/upload](https://hackerone.com/reports/570537) to Pornhub - 61 upvotes, $500
 61. [Blind SSRF on https://labs.data.gov/dashboard/Campaign/json_status/ Endpoint](https://hackerone.com/reports/895696) to GSA Bounty - 61 upvotes, $300
 62. [[SSRF] Server-Side Request Forgery at https://sea-web.gold.razer.com/dev/simulator via notify_url Parameter](https://hackerone.com/reports/777664) to Razer - 60 upvotes, $2000
-63. [SSRF Keycloak before 13.0.0 - CVE-2020-10770 on https://sponsoredata.mtn.ci](https://hackerone.com/reports/1379080) to MTN Group - 57 upvotes, $0
-64. [[Kafka Connect] [JdbcSinkConnector][HttpSinkConnector] RCE by leveraging file upload via SQLite JDBC driver and SSRF to internal Jolokia](https://hackerone.com/reports/1547877) to Aiven Ltd - 56 upvotes, $5000
-65. [FogBugz import attachment full SSRF requiring vulnerability in *.fogbugz.com](https://hackerone.com/reports/1092230) to GitLab - 56 upvotes, $0
-66. [Blind SSRF External Interaction on ████████](https://hackerone.com/reports/1220688) to MTN Group - 56 upvotes, $0
+63. [Blind SSRF External Interaction on ████████](https://hackerone.com/reports/1220688) to MTN Group - 58 upvotes, $0
+64. [SSRF Keycloak before 13.0.0 - CVE-2020-10770 on https://sponsoredata.mtn.ci](https://hackerone.com/reports/1379080) to MTN Group - 58 upvotes, $0
+65. [[Kafka Connect] [JdbcSinkConnector][HttpSinkConnector] RCE by leveraging file upload via SQLite JDBC driver and SSRF to internal Jolokia](https://hackerone.com/reports/1547877) to Aiven Ltd - 56 upvotes, $5000
+66. [FogBugz import attachment full SSRF requiring vulnerability in *.fogbugz.com](https://hackerone.com/reports/1092230) to GitLab - 56 upvotes, $0
 67. [[tanks.mail.ru] SSRF + Кража cookie ](https://hackerone.com/reports/1166943) to Mail.ru - 55 upvotes, $750
 68. [SSRF and secret key disclosure found on Turbonomic endpoint](https://hackerone.com/reports/2697601) to IBM - 55 upvotes, $0
 69. [Blind SSRF in magnum upgrade_params](https://hackerone.com/reports/907819) to Mail.ru - 54 upvotes, $2500
@@ -94,11 +94,11 @@ Top SSRF reports from HackerOne:
 92. [SSRF](https://hackerone.com/reports/522203) to Mail.ru - 44 upvotes, $0
 93. [SSRF - Blacklist bypass for mail account addition](https://hackerone.com/reports/303378) to Open-Xchange - 43 upvotes, $500
 94. [SSRF in the application's image export functionality](https://hackerone.com/reports/816848) to Visma Public - 42 upvotes, $250
-95. [Server-Side Request Forgery (SSRF) in Ghost CMS ](https://hackerone.com/reports/793704) to Node.js third-party modules - 42 upvotes, $0
-96. [Blind SSRF Vulnerability in Appstore Release Upload Form](https://hackerone.com/reports/2925666) to Nextcloud - 42 upvotes, $0
-97. [SSRF - Image Sources in HTML Snippets - 727234 bypass](https://hackerone.com/reports/737163) to Open-Xchange - 41 upvotes, $400
-98. [SSRF allows reading AWS EC2 metadata using "readapi" variable in Streamlabs Cloudbot](https://hackerone.com/reports/1108418) to Logitech - 41 upvotes, $200
-99. [SSRF in Search.gov via ?url= parameter](https://hackerone.com/reports/514224) to GSA Bounty - 41 upvotes, $150
+95. [SSRF in Search.gov via ?url= parameter](https://hackerone.com/reports/514224) to GSA Bounty - 42 upvotes, $150
+96. [Server-Side Request Forgery (SSRF) in Ghost CMS ](https://hackerone.com/reports/793704) to Node.js third-party modules - 42 upvotes, $0
+97. [Blind SSRF Vulnerability in Appstore Release Upload Form](https://hackerone.com/reports/2925666) to Nextcloud - 42 upvotes, $0
+98. [SSRF - Image Sources in HTML Snippets - 727234 bypass](https://hackerone.com/reports/737163) to Open-Xchange - 41 upvotes, $400
+99. [SSRF allows reading AWS EC2 metadata using "readapi" variable in Streamlabs Cloudbot](https://hackerone.com/reports/1108418) to Logitech - 41 upvotes, $200
 100. [SSRF on http://www.███████/crossdomain.php via url parameter](https://hackerone.com/reports/971590) to Sony - 41 upvotes, $0
 101. [SSRF in alerts.newrelic.com exposes entire internal network](https://hackerone.com/reports/198690) to New Relic - 39 upvotes, $0
 102. [DNS pin middleware can be tricked into DNS rebinding allowing SSRF](https://hackerone.com/reports/2115212) to Nextcloud - 38 upvotes, $0
@@ -128,9 +128,9 @@ Top SSRF reports from HackerOne:
 126. [Full read SSRF in flyte-poc-us-east4.uberinternal.com](https://hackerone.com/reports/1540906) to Uber - 30 upvotes, $2000
 127. [SSRF when configuring Website Backup on Acronis Cloud](https://hackerone.com/reports/1072873) to Acronis - 30 upvotes, $500
 128. [SSRF via potential filter bypass with too lax local domain checking](https://hackerone.com/reports/1608039) to Nextcloud - 30 upvotes, $250
-129. [SSRF vulnerability on ██████████ leaks internal IP and various sensitive information](https://hackerone.com/reports/310036) to U.S. Dept Of Defense - 30 upvotes, $0
-130. [SSRF to AWS file read](https://hackerone.com/reports/978823) to Lab45 - 30 upvotes, $0
-131. [Blind SSRF in "Integrations" by abusing a bug in Ruby's native resolver.](https://hackerone.com/reports/287245) to HackerOne - 29 upvotes, $0
+129. [Blind SSRF in "Integrations" by abusing a bug in Ruby's native resolver.](https://hackerone.com/reports/287245) to HackerOne - 30 upvotes, $0
+130. [SSRF vulnerability on ██████████ leaks internal IP and various sensitive information](https://hackerone.com/reports/310036) to U.S. Dept Of Defense - 30 upvotes, $0
+131. [SSRF to AWS file read](https://hackerone.com/reports/978823) to Lab45 - 30 upvotes, $0
 132. [SSRF in notifications.server configuration](https://hackerone.com/reports/850114) to Phabricator - 28 upvotes, $300
 133. [Bypass for blind SSRF #281950 and #287496](https://hackerone.com/reports/642675) to Infogram - 28 upvotes, $0
 134. [SSRF in imgur video GIF conversion](https://hackerone.com/reports/247680) to Imgur - 28 upvotes, $0
@@ -140,27 +140,27 @@ Top SSRF reports from HackerOne:
 138. [Non-production Open Database In Combination With XXE Leads To SSRF](https://hackerone.com/reports/742808) to Evernote - 25 upvotes, $0
 139. [SSRF vulnerability on proxy.duckduckgo.com (access to metadata server on AWS)](https://hackerone.com/reports/395521) to DuckDuckGo - 24 upvotes, $0
 140. [SSRF for kube-apiserver cloudprovider scene](https://hackerone.com/reports/941178) to Kubernetes - 24 upvotes, $0
-141. [SSRF & unrestricted file upload on https://my.stripo.email/](https://hackerone.com/reports/771382) to Stripo Inc - 23 upvotes, $0
-142. [[Uppy] Internal Server side request forgery (bypass of #786956)](https://hackerone.com/reports/891270) to Node.js third-party modules - 23 upvotes, $0
-143. [Blind SSRF in ads.tiktok.com](https://hackerone.com/reports/1006599) to TikTok - 23 upvotes, $0
-144. [[Plazius] SSRF через некорректно сконфигурированный Fiddler 46.148.201.206:10121](https://hackerone.com/reports/1125389) to Mail.ru - 23 upvotes, $0
-145. [SSRF ](https://hackerone.com/reports/253558) to Cloudflare Vulnerability Disclosure - 22 upvotes, $0
-146. [SSRF on █████████ Allowing internal server data access](https://hackerone.com/reports/326040) to U.S. Dept Of Defense - 22 upvotes, $0
+141. [SSRF on █████████ Allowing internal server data access](https://hackerone.com/reports/326040) to U.S. Dept Of Defense - 23 upvotes, $0
+142. [SSRF & unrestricted file upload on https://my.stripo.email/](https://hackerone.com/reports/771382) to Stripo Inc - 23 upvotes, $0
+143. [[Uppy] Internal Server side request forgery (bypass of #786956)](https://hackerone.com/reports/891270) to Node.js third-party modules - 23 upvotes, $0
+144. [Blind SSRF in ads.tiktok.com](https://hackerone.com/reports/1006599) to TikTok - 23 upvotes, $0
+145. [[Plazius] SSRF через некорректно сконфигурированный Fiddler 46.148.201.206:10121](https://hackerone.com/reports/1125389) to Mail.ru - 23 upvotes, $0
+146. [SSRF ](https://hackerone.com/reports/253558) to Cloudflare Vulnerability Disclosure - 22 upvotes, $0
 147. [Server Side Request Forgery in Uppy npm module](https://hackerone.com/reports/786956) to Node.js third-party modules - 22 upvotes, $0
 148. [SSRF in img.lemlist.com that leads to Localhost Port Scanning](https://hackerone.com/reports/783392) to lemlist - 22 upvotes, $0
 149. [Inconsistent URL Parsing in curl Leading to Potential SSRF and Access Control Bypass](https://hackerone.com/reports/2814750) to curl - 22 upvotes, $0
 150. [[nextcloud/mail] Blind SSRF to Internal Network via "List-Unsubscribe" SMTP Header when allow_local_remote_servers is allowed](https://hackerone.com/reports/2902856) to Nextcloud - 22 upvotes, $0
-151. [ssrf xspa [https://prt.mail.ru/] 2](https://hackerone.com/reports/216533) to Mail.ru - 21 upvotes, $150
-152. [Server side request forgery on image upload for lists](https://hackerone.com/reports/158016) to Instacart - 21 upvotes, $50
-153. [Infrastructure - Photon - SSRF](https://hackerone.com/reports/204513) to WordPress - 21 upvotes, $0
-154. [SSRF at iris.lystit.com](https://hackerone.com/reports/206894) to Lyst - 21 upvotes, $0
-155. [Wordpress 4.7 - CSRF -\> HTTP SSRF any private ip:port and basic-auth](https://hackerone.com/reports/187520) to WordPress - 21 upvotes, $0
-156. [SSRF on jira.mariadb.org](https://hackerone.com/reports/397402) to MariaDB - 21 upvotes, $0
-157. [Blind HTTP GET SSRF via website icon fetch (bypass of pull#812)](https://hackerone.com/reports/925527) to Bitwarden - 21 upvotes, $0
-158. [CRLF injection & SSRF in git:// protocal lead to arbitrary code execution](https://hackerone.com/reports/441090) to GitLab - 21 upvotes, $0
-159. [SSRF external interaction](https://hackerone.com/reports/1023920) to Stripo Inc - 21 upvotes, $0
-160. [Bypassing Whitelist to perform SSRF for internal host scanning](https://hackerone.com/reports/1747596) to U.S. Department of State - 21 upvotes, $0
-161. [Half-Blind SSRF found in kube/cloud-controller-manager can be upgraded to complete SSRF (fully crafted HTTP requests) in vendor managed k8s service.](https://hackerone.com/reports/776017) to Kubernetes - 20 upvotes, $5000
+151. [Half-Blind SSRF found in kube/cloud-controller-manager can be upgraded to complete SSRF (fully crafted HTTP requests) in vendor managed k8s service.](https://hackerone.com/reports/776017) to Kubernetes - 21 upvotes, $5000
+152. [ssrf xspa [https://prt.mail.ru/] 2](https://hackerone.com/reports/216533) to Mail.ru - 21 upvotes, $150
+153. [Server side request forgery on image upload for lists](https://hackerone.com/reports/158016) to Instacart - 21 upvotes, $50
+154. [Infrastructure - Photon - SSRF](https://hackerone.com/reports/204513) to WordPress - 21 upvotes, $0
+155. [SSRF at iris.lystit.com](https://hackerone.com/reports/206894) to Lyst - 21 upvotes, $0
+156. [Wordpress 4.7 - CSRF -\> HTTP SSRF any private ip:port and basic-auth](https://hackerone.com/reports/187520) to WordPress - 21 upvotes, $0
+157. [SSRF on jira.mariadb.org](https://hackerone.com/reports/397402) to MariaDB - 21 upvotes, $0
+158. [Blind HTTP GET SSRF via website icon fetch (bypass of pull#812)](https://hackerone.com/reports/925527) to Bitwarden - 21 upvotes, $0
+159. [CRLF injection & SSRF in git:// protocal lead to arbitrary code execution](https://hackerone.com/reports/441090) to GitLab - 21 upvotes, $0
+160. [SSRF external interaction](https://hackerone.com/reports/1023920) to Stripo Inc - 21 upvotes, $0
+161. [Bypassing Whitelist to perform SSRF for internal host scanning](https://hackerone.com/reports/1747596) to U.S. Department of State - 21 upvotes, $0
 162. [SSRF in /appsuite/api/autoconfig ](https://hackerone.com/reports/293847) to Open-Xchange - 20 upvotes, $850
 163. [Additional bypass allows SSRF for internal netblocks](https://hackerone.com/reports/288950) to HackerOne - 20 upvotes, $0
 164. [Bypassing HTML filter in "Packing Slip Template" Lead to SSRF to Internal Kubernetes Endpoints](https://hackerone.com/reports/1115139) to Shopify - 20 upvotes, $0

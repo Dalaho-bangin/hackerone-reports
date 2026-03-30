@@ -12,7 +12,7 @@ Top Clickjacking reports from HackerOne:
 10. [Clickjacking vkpay](https://hackerone.com/reports/374817) to VK.com - 44 upvotes, $0
 11. [[api.tumblr.com] Exploiting clickjacking vulnerability to trigger self DOM-based XSS](https://hackerone.com/reports/953579) to Automattic - 30 upvotes, $0
 12. [URL is vulnerable to clickjacking  https://app.passit.io/](https://hackerone.com/reports/530008) to Passit - 28 upvotes, $0
-13. [Clickjacking Vulnerability Can Leads To Delete Developer APP](https://hackerone.com/reports/1416612) to TikTok - 25 upvotes, $500
+13. [Clickjacking Vulnerability Can Leads To Delete Developer APP](https://hackerone.com/reports/1416612) to TikTok - 26 upvotes, $500
 14. [Clickjacking at ylands.com](https://hackerone.com/reports/405342) to BOHEMIA INTERACTIVE a.s. - 22 upvotes, $80
 15. [Clickjacking in the admin page](https://hackerone.com/reports/728004) to Rocket.Chat - 20 upvotes, $0
 16. [Clickjacking on cas.acronis.com login page](https://hackerone.com/reports/971234) to Acronis - 19 upvotes, $0
@@ -28,13 +28,13 @@ Top Clickjacking reports from HackerOne:
 26. [OAuth authorization page vulnerable to clickjacking](https://hackerone.com/reports/65825) to Coinbase - 13 upvotes, $5000
 27. [Modifying application settings via clickjacking on o2.mail.ru](https://hackerone.com/reports/355774) to Mail.ru - 13 upvotes, $150
 28. [Clickjacking Vulnerability found on Yelp](https://hackerone.com/reports/214087) to Yelp - 13 upvotes, $0
-29. [Clickjacking on Mixmax.com](https://hackerone.com/reports/234713) to Mixmax - 12 upvotes, $0
-30. [Clickjacking mercantile.wordpress.org](https://hackerone.com/reports/264125) to WordPress - 12 upvotes, $0
-31. [Following links are vulnerable to clickjacking](https://hackerone.com/reports/289246) to Semrush - 12 upvotes, $0
-32. [Clickjacking on https://www.goodhire.com/api](https://hackerone.com/reports/298028) to Inflection - 12 upvotes, $0
-33. [URL is vulnerable to clickjacking](https://hackerone.com/reports/712376) to MyCrypto - 12 upvotes, $0
-34. [Modify account details by exploiting clickjacking vulnerability on refer.wordpress.com](https://hackerone.com/reports/765355) to Automattic - 12 upvotes, $0
-35. [Clickjacking at  app.lemlist.com](https://hackerone.com/reports/1574017) to lemlist - 12 upvotes, $0
+29. [Clickjacking at  app.lemlist.com](https://hackerone.com/reports/1574017) to lemlist - 13 upvotes, $0
+30. [Clickjacking on Mixmax.com](https://hackerone.com/reports/234713) to Mixmax - 12 upvotes, $0
+31. [Clickjacking mercantile.wordpress.org](https://hackerone.com/reports/264125) to WordPress - 12 upvotes, $0
+32. [Following links are vulnerable to clickjacking](https://hackerone.com/reports/289246) to Semrush - 12 upvotes, $0
+33. [Clickjacking on https://www.goodhire.com/api](https://hackerone.com/reports/298028) to Inflection - 12 upvotes, $0
+34. [URL is vulnerable to clickjacking](https://hackerone.com/reports/712376) to MyCrypto - 12 upvotes, $0
+35. [Modify account details by exploiting clickjacking vulnerability on refer.wordpress.com](https://hackerone.com/reports/765355) to Automattic - 12 upvotes, $0
 36. [Clickjacking Periscope.tv on Chrome](https://hackerone.com/reports/198622) to X / xAI - 11 upvotes, $560
 37. [AWS S3 website can't serve security headers, may allow clickjacking](https://hackerone.com/reports/149572) to Legal Robot - 11 upvotes, $0
 38. [Single Sing On - Clickjacking](https://hackerone.com/reports/299009) to Semrush - 11 upvotes, $0

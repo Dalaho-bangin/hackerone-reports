@@ -22,15 +22,15 @@ Top XXE reports from HackerOne:
 20. [[rev-app.informatica.com] - XXE](https://hackerone.com/reports/105434) to Informatica - 45 upvotes, $0
 21. [XML External Entity (XXE) in qiwi.com + waf bypass](https://hackerone.com/reports/99279) to QIWI - 41 upvotes, $0
 22. [Authenticated XXE](https://hackerone.com/reports/1095645) to WordPress - 41 upvotes, $0
-23. [[HTA2] XXE on https://███ via SpellCheck Endpoint.](https://hackerone.com/reports/715949) to U.S. Dept Of Defense - 36 upvotes, $0
-24. [XML Parser Bug: XXE over which leads to RCE](https://hackerone.com/reports/55431) to drchrono - 35 upvotes, $0
-25. [XXE on DoD web server](https://hackerone.com/reports/188743) to U.S. Dept Of Defense - 34 upvotes, $0
+23. [XXE on DoD web server](https://hackerone.com/reports/188743) to U.S. Dept Of Defense - 36 upvotes, $0
+24. [[HTA2] XXE on https://███ via SpellCheck Endpoint.](https://hackerone.com/reports/715949) to U.S. Dept Of Defense - 36 upvotes, $0
+25. [XML Parser Bug: XXE over which leads to RCE](https://hackerone.com/reports/55431) to drchrono - 35 upvotes, $0
 26. [Singapore - XXE at https://www.starbucks.com.sg/RestApi/soap11](https://hackerone.com/reports/762251) to Starbucks - 32 upvotes, $0
 27. [[app.informaticaondemand.com] XXE](https://hackerone.com/reports/105753) to Informatica - 25 upvotes, $0
 28. [Non-production Open Database In Combination With XXE Leads To SSRF](https://hackerone.com/reports/742808) to Evernote - 25 upvotes, $0
 29. [Blind XXE on my.mail.ru](https://hackerone.com/reports/276276) to Mail.ru - 23 upvotes, $800
 30. [ XXE in upload file feature](https://hackerone.com/reports/105787) to Informatica - 22 upvotes, $0
-31. [XML External Entity (XXE) Injection](https://hackerone.com/reports/2573567) to U.S. Dept Of Defense - 19 upvotes, $0
+31. [XML External Entity (XXE) Injection](https://hackerone.com/reports/2573567) to U.S. Dept Of Defense - 21 upvotes, $0
 32. [Blind XXE on pu.vk.com](https://hackerone.com/reports/296622) to VK.com - 18 upvotes, $500
 33. [[send.qiwi.ru] Soap-based XXE vulnerability /soapserver/ ](https://hackerone.com/reports/36450) to QIWI - 18 upvotes, $0
 34. [AEM forms XXE Vulnerability](https://hackerone.com/reports/1321070) to Adobe - 18 upvotes, $0

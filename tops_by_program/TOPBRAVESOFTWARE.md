@@ -9,7 +9,7 @@ Top reports from Brave Software program at HackerOne:
 7. [Prompt Injection via GitHub Patch in Brave AI Chat (Leo)](https://hackerone.com/reports/3086301) to Brave Software - 75 upvotes, $0
 8. [Local files reading from the web using `brave://`](https://hackerone.com/reports/390013) to Brave Software - 74 upvotes, $0
 9. [New XSS vector in ReaderMode with %READER-TITLE-NONCE%](https://hackerone.com/reports/1436142) to Brave Software - 72 upvotes, $1000
-10. [SameSite restrictions are lifted, and SameSite:Strict cookie are being sent.](https://hackerone.com/reports/3253725) to Brave Software - 69 upvotes, $500
+10. [SameSite restrictions are lifted, and SameSite:Strict cookie are being sent.](https://hackerone.com/reports/3253725) to Brave Software - 70 upvotes, $500
 11. [UXss on brave browser via scan QR Code](https://hackerone.com/reports/1884042) to Brave Software - 68 upvotes, $500
 12. [Sending arbitrary IPC messages via overriding Function.prototype.apply](https://hackerone.com/reports/188086) to Brave Software - 53 upvotes, $5300
 13. [Lack of quarantine meta-attribute for downloaded files leads to GateKeeper bypass](https://hackerone.com/reports/374106) to Brave Software - 52 upvotes, $0
@@ -38,9 +38,9 @@ Top reports from Brave Software program at HackerOne:
 36. [No rate limiting for confirmation email lead to email flooding and leads to enumeration of emails in publishers.basicattentiontoken.org](https://hackerone.com/reports/854793) to Brave Software - 18 upvotes, $0
 37. [https://publishers.basicattentiontoken.org/favicon.ico is Vulnerable to CVE-2017-7529](https://hackerone.com/reports/980856) to Brave Software - 18 upvotes, $0
 38. [S3 Bucket Takeover : brave-apt](https://hackerone.com/reports/1791558) to Brave Software - 18 upvotes, $0
-39. [RCE: DnDing shortcut files to chrome://brave allows loading HTML files in Muon's context](https://hackerone.com/reports/415258) to Brave Software - 16 upvotes, $0
-40. [Username Information Disclosure via Json response - Using parameter number Intruder](https://hackerone.com/reports/812351) to Brave Software - 16 upvotes, $0
-41. [Universal XSS through FIDO U2F register from subframe](https://hackerone.com/reports/993670) to Brave Software - 15 upvotes, $1000
+39. [Universal XSS through FIDO U2F register from subframe](https://hackerone.com/reports/993670) to Brave Software - 16 upvotes, $1000
+40. [RCE: DnDing shortcut files to chrome://brave allows loading HTML files in Muon's context](https://hackerone.com/reports/415258) to Brave Software - 16 upvotes, $0
+41. [Username Information Disclosure via Json response - Using parameter number Intruder](https://hackerone.com/reports/812351) to Brave Software - 16 upvotes, $0
 42. [Homograph Attack Bypass [ Tested on Linux & Windows ]](https://hackerone.com/reports/268984) to Brave Software - 15 upvotes, $0
 43. [Bypassing Homograph Attack Using /@ [ Tested On Windows ]](https://hackerone.com/reports/317931) to Brave Software - 15 upvotes, $0
 44. [Arbitrary file download due to bad handling of Redirects in WebTorrent](https://hackerone.com/reports/975514) to Brave Software - 15 upvotes, $0

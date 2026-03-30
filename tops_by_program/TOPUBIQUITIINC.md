@@ -1,6 +1,6 @@
 Top reports from Ubiquiti Inc. program at HackerOne:
 
-1. [Privilege Escalation From user to SYSTEM via unauthenticated command execution ](https://hackerone.com/reports/544928) to Ubiquiti Inc. - 550 upvotes, $0
+1. [Privilege Escalation From user to SYSTEM via unauthenticated command execution ](https://hackerone.com/reports/544928) to Ubiquiti Inc. - 551 upvotes, $0
 2. [Privilege-0 to Root Privilege Escalation on EdgeSwitch](https://hackerone.com/reports/511025) to Ubiquiti Inc. - 82 upvotes, $0
 3. [Public Jenkins instance with /script enabled](https://hackerone.com/reports/403402) to Ubiquiti Inc. - 74 upvotes, $0
 4. [Remote Code Execution at http://tw.corp.ubnt.com](https://hackerone.com/reports/269066) to Ubiquiti Inc. - 61 upvotes, $0
@@ -9,7 +9,7 @@ Top reports from Ubiquiti Inc. program at HackerOne:
 7. [CORS Misconfiguration leading to Private Information Disclosure](https://hackerone.com/reports/430249) to Ubiquiti Inc. - 55 upvotes, $0
 8. [Ability to log in as any user without authentication if █████████ is empty](https://hackerone.com/reports/215053) to Ubiquiti Inc. - 54 upvotes, $0
 9. [Authentication bypass on sso.ubnt.com via subdomain takeover of ping.ubnt.com](https://hackerone.com/reports/172137) to Ubiquiti Inc. - 52 upvotes, $0
-10. [Unrestricted File System Access via Twig Template Injection on dev-ucrm-billing-demo.ubnt.com](https://hackerone.com/reports/301406) to Ubiquiti Inc. - 45 upvotes, $0
+10. [Unrestricted File System Access via Twig Template Injection on dev-ucrm-billing-demo.ubnt.com](https://hackerone.com/reports/301406) to Ubiquiti Inc. - 47 upvotes, $0
 11. [Read-Only user can execute arbitraty shell commands on AirOS](https://hackerone.com/reports/139398) to Ubiquiti Inc. - 44 upvotes, $0
 12. [View Only to Root Privilege Escalation on UniFi Protect](https://hackerone.com/reports/825764) to Ubiquiti Inc. - 42 upvotes, $0
 13. [Firmware download/install vulnerable to CSRF](https://hackerone.com/reports/323852) to Ubiquiti Inc. - 35 upvotes, $0
