@@ -2,8 +2,8 @@ Top reports from Gratipay program at HackerOne:
 
 1. [Saying goodbye to HackerOne and Gratipay.](https://hackerone.com/reports/286728) to Gratipay - 95 upvotes, $0
 2. [Reflected XSS - gratipay.com](https://hackerone.com/reports/262852) to Gratipay - 36 upvotes, $0
-3. [i am The bug](https://hackerone.com/reports/284807) to Gratipay - 21 upvotes, $0
-4. [configure a redirect URI for Facebook OAuth](https://hackerone.com/reports/140432) to Gratipay - 16 upvotes, $10
+3. [i am The bug](https://hackerone.com/reports/284807) to Gratipay - 22 upvotes, $0
+4. [configure a redirect URI for Facebook OAuth](https://hackerone.com/reports/140432) to Gratipay - 17 upvotes, $10
 5. [Sub Domain Takeover](https://hackerone.com/reports/221133) to Gratipay - 16 upvotes, $0
 6. [fix bug in username restriction](https://hackerone.com/reports/128121) to Gratipay - 15 upvotes, $0
 7. [Application-level DoS on image's "size" parameter.](https://hackerone.com/reports/247700) to Gratipay - 15 upvotes, $0
@@ -17,10 +17,10 @@ Top reports from Gratipay program at HackerOne:
 15. [HTTP trace method is enabled on aspen.io](https://hackerone.com/reports/203409) to Gratipay - 10 upvotes, $0
 16. [Gratipay rails secret token (secret_key_base) publicly exposed in GitHub](https://hackerone.com/reports/262620) to Gratipay - 10 upvotes, $0
 17. [Sub Domain Take over](https://hackerone.com/reports/111078) to Gratipay - 9 upvotes, $0
-18. [upgrade Aspen on inside.gratipay.com to pick up CR injection fix](https://hackerone.com/reports/143139) to Gratipay - 8 upvotes, $40
-19. [Email Forgery through Mandrillapp SPF](https://hackerone.com/reports/117097) to Gratipay - 8 upvotes, $10
-20. [Stored XSS On Statement](https://hackerone.com/reports/84740) to Gratipay - 8 upvotes, $0
-21. [Host Header Injection/Redirection Attack](https://hackerone.com/reports/157465) to Gratipay - 8 upvotes, $0
+18. [Host Header Injection/Redirection Attack](https://hackerone.com/reports/157465) to Gratipay - 9 upvotes, $0
+19. [upgrade Aspen on inside.gratipay.com to pick up CR injection fix](https://hackerone.com/reports/143139) to Gratipay - 8 upvotes, $40
+20. [Email Forgery through Mandrillapp SPF](https://hackerone.com/reports/117097) to Gratipay - 8 upvotes, $10
+21. [Stored XSS On Statement](https://hackerone.com/reports/84740) to Gratipay - 8 upvotes, $0
 22. [Session Fixation At Logout /Session Misconfiguration](https://hackerone.com/reports/193556) to Gratipay - 8 upvotes, $0
 23. [Inadequate/dangerous jQuery behavior](https://hackerone.com/reports/211149) to Gratipay - 8 upvotes, $0
 24. [protect against tabnabbing in statement](https://hackerone.com/reports/109161) to Gratipay - 8 upvotes, $0
@@ -43,7 +43,7 @@ Top reports from Gratipay program at HackerOne:
 41. [Prevent content spoofing on /~username/emails/verify.html](https://hackerone.com/reports/117187) to Gratipay - 5 upvotes, $0
 42. [clickjacking on https://gratipay.com/on/npm/[text]](https://hackerone.com/reports/267189) to Gratipay - 5 upvotes, $0
 43. [Missing Certificate Authority Authorization rule](https://hackerone.com/reports/261706) to Gratipay - 5 upvotes, $0
-44. [HTTP trace method is enabled](https://hackerone.com/reports/109054) to Gratipay - 4 upvotes, $5
+44. [HTTP trace method is enabled](https://hackerone.com/reports/109054) to Gratipay - 4 upvotes, $0
 45. [SPF/DKIM/DMARC for aspen.io](https://hackerone.com/reports/117159) to Gratipay - 4 upvotes, $0
 46. [Hijacking user session by forcing the use of  invalid HTTPs Certificate on images.gratipay.com](https://hackerone.com/reports/124976) to Gratipay - 4 upvotes, $0
 47. [prevent null bytes in email field](https://hackerone.com/reports/150917) to Gratipay - 4 upvotes, $0
