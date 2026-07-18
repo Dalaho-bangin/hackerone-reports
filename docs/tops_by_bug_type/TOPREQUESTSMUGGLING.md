@@ -1,13 +1,13 @@
 Top Request Smuggling reports from HackerOne:
 
-1. [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) to Slack - 864 upvotes, $0
+1. [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) to Slack - 866 upvotes, $0
 2. [Request smuggling on admin-official.line.me could lead to account takeover](https://hackerone.com/reports/740037) to LY Corporation - 563 upvotes, $0
 3. [Stealing Zomato X-Access-Token: in Bulk using HTTP Request Smuggling on api.zomato.com](https://hackerone.com/reports/771666) to Eternal - 559 upvotes, $0
 4. [Password theft login.newrelic.com via Request Smuggling](https://hackerone.com/reports/498052) to New Relic - 490 upvotes, $3000
-5. [HTTP request Smuggling](https://hackerone.com/reports/867952) to Helium - 299 upvotes, $0
+5. [HTTP request Smuggling](https://hackerone.com/reports/867952) to Helium - 300 upvotes, $0
 6. [HTTP Request Smuggling via HTTP/2](https://hackerone.com/reports/1211724) to Basecamp - 298 upvotes, $7500
 7. [HTTP request smuggling (?) canpol.deti.mail.ru](https://hackerone.com/reports/957881) to Mail.ru - 241 upvotes, $5000
-8. [HTTP Request Smuggling on https://labs.data.gov](https://hackerone.com/reports/726773) to GSA Bounty - 159 upvotes, $750
+8. [HTTP Request Smuggling on https://labs.data.gov](https://hackerone.com/reports/726773) to GSA Bounty - 160 upvotes, $750
 9. [HTTP Request Smuggling at app.workbox.dk](https://hackerone.com/reports/919988) to Visma Public - 139 upvotes, $500
 10. [HTTP Request Smuggling due to CR-to-Hyphen conversion](https://hackerone.com/reports/922597) to Node.js - 134 upvotes, $0
 11. [HTTP Request Smuggling on vpn.lob.com](https://hackerone.com/reports/694604) to Lob - 123 upvotes, $500
@@ -43,10 +43,10 @@ Top Request Smuggling reports from HackerOne:
 41. [HTTP Request Smuggling](https://hackerone.com/reports/643225) to JamieWeb - 10 upvotes, $0
 42. [HTTP Request Smuggling Due To Improper Delimiting of Header Fields](https://hackerone.com/reports/1524692) to Node.js - 9 upvotes, $0
 43. [HTTP Request Smuggling and SSRF via CRLF Injection in Curl_add_custom_headers](https://hackerone.com/reports/3484431) to curl - 9 upvotes, $0
-44. [HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Transfer-Encoding](https://hackerone.com/reports/1501679) to Node.js - 7 upvotes, $0
-45. [HTTP Request Smuggling Due to Flawed Parsing of Transfer-Encoding ](https://hackerone.com/reports/1524555) to Node.js - 7 upvotes, $0
-46. [HTTP Request Smuggling via Empty headers separated by CR](https://hackerone.com/reports/2001873) to Node.js - 7 upvotes, $0
-47. [ CVE-2022-32215 - HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Transfer-Encoding](https://hackerone.com/reports/1630667) to Internet Bug Bounty - 6 upvotes, $1800
-48. [HTTP Request Smuggling due to ignoring chunk extensions](https://hackerone.com/reports/1238099) to Node.js - 6 upvotes, $250
+44. [HTTP Request Smuggling due to ignoring chunk extensions](https://hackerone.com/reports/1238099) to Node.js - 7 upvotes, $250
+45. [HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Transfer-Encoding](https://hackerone.com/reports/1501679) to Node.js - 7 upvotes, $0
+46. [HTTP Request Smuggling Due to Flawed Parsing of Transfer-Encoding ](https://hackerone.com/reports/1524555) to Node.js - 7 upvotes, $0
+47. [HTTP Request Smuggling via Empty headers separated by CR](https://hackerone.com/reports/2001873) to Node.js - 7 upvotes, $0
+48. [ CVE-2022-32215 - HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Transfer-Encoding](https://hackerone.com/reports/1630667) to Internet Bug Bounty - 6 upvotes, $1800
 49. [HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Transfer-Encoding (improper fix for CVE-2022-32215)](https://hackerone.com/reports/1665156) to Node.js - 6 upvotes, $0
 50. [HTTP Request Smuggling Due to Incorrect Parsing of Header Fields](https://hackerone.com/reports/1675191) to Node.js - 6 upvotes, $0

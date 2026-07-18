@@ -5,25 +5,25 @@ Top OAuth reports from HackerOne:
 3. [Insufficient OAuth callback validation which leads to Periscope account takeover](https://hackerone.com/reports/110293) to X / xAI - 275 upvotes, $0
 4. [OAuth `redirect_uri` bypass using IDN homograph attack resulting in user's access token leakage](https://hackerone.com/reports/861940) to Semrush - 263 upvotes, $0
 5. [Ability to bypass email verification for OAuth grants results in accounts takeovers on 3rd parties](https://hackerone.com/reports/922456) to GitLab - 257 upvotes, $3000
-6. [Stealing Users OAuth authorization code via redirect_uri](https://hackerone.com/reports/1861974) to pixiv - 248 upvotes, $2000
-7. [Unauthenticated blind SSRF in OAuth Jira authorization controller](https://hackerone.com/reports/398799) to GitLab - 236 upvotes, $4000
+6. [Stealing Users OAuth authorization code via redirect_uri](https://hackerone.com/reports/1861974) to pixiv - 250 upvotes, $2000
+7. [Unauthenticated blind SSRF in OAuth Jira authorization controller](https://hackerone.com/reports/398799) to GitLab - 237 upvotes, $4000
 8. [Stealing Facebook OAuth Code Through Screenshot viewer](https://hackerone.com/reports/488269) to Rockstar Games - 200 upvotes, $0
 9. [Referer Leakage Vulnerability in  socialclub.rockstargames.com/crew/ leads to FB'S OAuth token theft.](https://hackerone.com/reports/787160) to Rockstar Games - 112 upvotes, $0
-10. [User account compromised authentication bypass via oauth token impersonation](https://hackerone.com/reports/739321) to Picsart - 100 upvotes, $0
+10. [User account compromised authentication bypass via oauth token impersonation](https://hackerone.com/reports/739321) to Picsart - 101 upvotes, $0
 11. [Misconfigured oauth leads to Pre account takeover ](https://hackerone.com/reports/1074047) to Bumble - 89 upvotes, $0
 12. [Incorrect details on OAuth permissions screen allows DMs to be read without permission](https://hackerone.com/reports/434763) to X / xAI - 80 upvotes, $2940
 13. [Forced OAuth authorization using button ID in hash and holding space](https://hackerone.com/reports/2649615) to LinkedIn - 79 upvotes, $0
-14. [CSRF on Periscope Web OAuth authorization endpoint ](https://hackerone.com/reports/215381) to X / xAI - 73 upvotes, $0
+14. [CSRF on Periscope Web OAuth authorization endpoint ](https://hackerone.com/reports/215381) to X / xAI - 74 upvotes, $0
 15. [Facebook OAuth Code Theft through referer leakage on support.rockstargames.com](https://hackerone.com/reports/482743) to Rockstar Games - 71 upvotes, $0
 16. [Open Redirect Vulnerability in OAuth Flow Leading to Potential Phishing Attack](https://hackerone.com/reports/3099816) to Lichess - 68 upvotes, $0
-17. [Stealing Users OAuth Tokens through redirect_uri parameter](https://hackerone.com/reports/665651) to GSA Bounty - 66 upvotes, $750
+17. [Stealing Users OAuth Tokens through redirect_uri parameter](https://hackerone.com/reports/665651) to GSA Bounty - 67 upvotes, $750
 18. [Double Clickjacking Attack on WakaTime OAuth Authorization Flow at https://wakatime.com/oauth/authorize](https://hackerone.com/reports/3287060) to WakaTime - 56 upvotes, $0
 19. [[auth2.zomato.com] Reflected XSS at `oauth2/fallbacks/error` | ORY Hydra an OAuth 2.0 and OpenID Connect Provider](https://hackerone.com/reports/456333) to Eternal - 51 upvotes, $0
-20. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to Internet Bug Bounty - 49 upvotes, $0
+20. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to Internet Bug Bounty - 50 upvotes, $0
 21. [Mattermost Server OAuth Flow Cross-Site Scripting](https://hackerone.com/reports/1216203) to Mattermost - 44 upvotes, $900
 22. [Stealing Users OAUTH Tokens via redirect_uri ](https://hackerone.com/reports/405100) to BOHEMIA INTERACTIVE a.s. - 44 upvotes, $0
-23. [Oauth flow on the comments widget login can lead to the access code leakage](https://hackerone.com/reports/292783) to Ed - 43 upvotes, $0
-24. [page.line.me Open Redirect Leading to OAuth Authorization Code Exposure and Access Token Compromise](https://hackerone.com/reports/3423013) to LY Corporation - 41 upvotes, $1000
+23. [page.line.me Open Redirect Leading to OAuth Authorization Code Exposure and Access Token Compromise](https://hackerone.com/reports/3423013) to LY Corporation - 43 upvotes, $1000
+24. [Oauth flow on the comments widget login can lead to the access code leakage](https://hackerone.com/reports/292783) to Ed - 43 upvotes, $0
 25. [Twitter iOS fails to validate server certificate and sends oauth token](https://hackerone.com/reports/168538) to X / xAI - 40 upvotes, $2100
 26. [Ability to bypass social OAuth and take over any account [d2c-api]](https://hackerone.com/reports/729960) to Genasys Technologies - 40 upvotes, $0
 27. [Smuggle SocialClub's Facebook OAuth Code via Referer Leakage](https://hackerone.com/reports/342709) to Rockstar Games - 39 upvotes, $750
@@ -40,7 +40,7 @@ Top OAuth reports from HackerOne:
 38. [XSS on OAuth authorize/authenticate endpoint](https://hackerone.com/reports/87040) to X / xAI - 23 upvotes, $0
 39. [Open redirect in https://www.rockstargames.com/GTAOnline/restricted-content/agegate/form may lead to Facebook OAuth token theft](https://hackerone.com/reports/798121) to Rockstar Games - 23 upvotes, $0
 40. [XSS in OAuth Redirect Url](https://hackerone.com/reports/163707) to Dropbox - 21 upvotes, $0
-41. [Oauth Misconfiguration Lead To Account Takeover](https://hackerone.com/reports/1212374) to Reddit - 19 upvotes, $0
+41. [Oauth Misconfiguration Lead To Account Takeover](https://hackerone.com/reports/1212374) to Reddit - 20 upvotes, $0
 42. [Insecure OAuth redirection at [admin.8x8.vc]](https://hackerone.com/reports/770548) to 8x8 - 18 upvotes, $0
 43. [Account takeover via Pornhub Oauth](https://hackerone.com/reports/192648) to Pornhub - 17 upvotes, $1000
 44. [configure a redirect URI for Facebook OAuth](https://hackerone.com/reports/140432) to Gratipay - 17 upvotes, $10

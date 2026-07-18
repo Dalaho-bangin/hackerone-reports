@@ -1,7 +1,7 @@
 Top Clickjacking reports from HackerOne:
 
 1. [RCE of Burp  Scanner / Crawler via Clickjacking ](https://hackerone.com/reports/1274695) to PortSwigger Web Security - 171 upvotes, $3000
-2. [Twitter Periscope Clickjacking Vulnerability](https://hackerone.com/reports/591432) to X / xAI - 141 upvotes, $1120
+2. [Twitter Periscope Clickjacking Vulnerability](https://hackerone.com/reports/591432) to X / xAI - 142 upvotes, $1120
 3. [Highly wormable clickjacking in player card](https://hackerone.com/reports/85624) to X / xAI - 134 upvotes, $0
 4. [Clickjacking on donation page](https://hackerone.com/reports/921709) to WordPress - 90 upvotes, $0
 5. [Clickjacking in main domain https://topechelon.com/](https://hackerone.com/reports/2964441) to Top Echelon Software - 80 upvotes, $0
@@ -10,17 +10,17 @@ Top Clickjacking reports from HackerOne:
 8. [Sensitive Clickjacking on admin login page.](https://hackerone.com/reports/389145) to Shipt - 55 upvotes, $0
 9. [Stealing User emails by clickjacking cards.twitter.com/xxx/xxx](https://hackerone.com/reports/154963) to X / xAI - 49 upvotes, $0
 10. [Clickjacking vkpay](https://hackerone.com/reports/374817) to VK.com - 44 upvotes, $0
-11. [[api.tumblr.com] Exploiting clickjacking vulnerability to trigger self DOM-based XSS](https://hackerone.com/reports/953579) to Automattic - 30 upvotes, $0
+11. [[api.tumblr.com] Exploiting clickjacking vulnerability to trigger self DOM-based XSS](https://hackerone.com/reports/953579) to Automattic - 31 upvotes, $0
 12. [URL is vulnerable to clickjacking  https://app.passit.io/](https://hackerone.com/reports/530008) to Passit - 28 upvotes, $0
 13. [Clickjacking Vulnerability Can Leads To Delete Developer APP](https://hackerone.com/reports/1416612) to TikTok - 26 upvotes, $500
 14. [Clickjacking at ylands.com](https://hackerone.com/reports/405342) to BOHEMIA INTERACTIVE a.s. - 22 upvotes, $80
-15. [Clickjacking in the admin page](https://hackerone.com/reports/728004) to Rocket.Chat - 20 upvotes, $0
+15. [Clickjacking in the admin page](https://hackerone.com/reports/728004) to Rocket.Chat - 21 upvotes, $0
 16. [Clickjacking on cas.acronis.com login page](https://hackerone.com/reports/971234) to Acronis - 19 upvotes, $0
 17. [CRITICAL-CLICKJACKING at Yelp Reservations Resulting in exposure of victim Private Data (Email info) + Victim Credit Card MissUse. ](https://hackerone.com/reports/355859) to Yelp - 18 upvotes, $0
 18. [Clickjacking in [exchangemarketplace.com]](https://hackerone.com/reports/658217) to Shopify - 17 upvotes, $0
 19. [Clickjacking at join.nordvpn.com](https://hackerone.com/reports/765955) to Nord Security - 17 upvotes, $0
-20. [Clickjacking In jobs.wordpress.net](https://hackerone.com/reports/223024) to WordPress - 16 upvotes, $0
-21. [self-xss with ClickJacking can leads to account takeover in Firefox](https://hackerone.com/reports/892289) to Imgur - 16 upvotes, $0
+20. [self-xss with ClickJacking can leads to account takeover in Firefox](https://hackerone.com/reports/892289) to Imgur - 17 upvotes, $0
+21. [Clickjacking In jobs.wordpress.net](https://hackerone.com/reports/223024) to WordPress - 16 upvotes, $0
 22. [Clickjacking at open.rocket.chat](https://hackerone.com/reports/1584034) to Rocket.Chat - 16 upvotes, $0
 23. [OAuth authorization page vulnerable to clickjacking](https://hackerone.com/reports/65825) to Coinbase - 15 upvotes, $5000
 24. [Clickjacking wordcamp.org](https://hackerone.com/reports/230581) to WordPress - 14 upvotes, $0

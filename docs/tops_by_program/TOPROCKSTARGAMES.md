@@ -1,24 +1,24 @@
 Top reports from Rockstar Games program at HackerOne:
 
-1. [The return of the ＜](https://hackerone.com/reports/639684) to Rockstar Games - 568 upvotes, $1000
+1. [The return of the ＜](https://hackerone.com/reports/639684) to Rockstar Games - 569 upvotes, $1000
 2. [Account Takeover using Linked Accounts due to lack of CSRF protection](https://hackerone.com/reports/463330) to Rockstar Games - 237 upvotes, $0
 3. [Stealing Facebook OAuth Code Through Screenshot viewer](https://hackerone.com/reports/488269) to Rockstar Games - 200 upvotes, $0
 4. [XSS STORED AT socialclub.rockstargames.com (add friend request from profile attacker)](https://hackerone.com/reports/220852) to Rockstar Games - 194 upvotes, $0
-5. [xss on https://www.rockstargames.com/GTAOnline/jp/screens/ ](https://hackerone.com/reports/507494) to Rockstar Games - 158 upvotes, $0
-6. [Access to the business emails of Rockstar Support agents through the support platform](https://hackerone.com/reports/1920908) to Rockstar Games - 147 upvotes, $550
+5. [xss on https://www.rockstargames.com/GTAOnline/jp/screens/ ](https://hackerone.com/reports/507494) to Rockstar Games - 159 upvotes, $0
+6. [Access to the business emails of Rockstar Support agents through the support platform](https://hackerone.com/reports/1920908) to Rockstar Games - 148 upvotes, $550
 7. [Unserialize leading to arbitrary PHP function invoke](https://hackerone.com/reports/210741) to Rockstar Games - 118 upvotes, $0
 8. [Stored XSS in Snapmatic + R★Editor comments](https://hackerone.com/reports/309531) to Rockstar Games - 118 upvotes, $0
 9. [SocialClub Account Take Over Through Import Friends feature](https://hackerone.com/reports/901728) to Rockstar Games - 116 upvotes, $0
 10. [Referer Leakage Vulnerability in  socialclub.rockstargames.com/crew/ leads to FB'S OAuth token theft.](https://hackerone.com/reports/787160) to Rockstar Games - 112 upvotes, $0
-11. [CSRF Vulnerability on https://signin.rockstargames.com/tpa/facebook/link/](https://hackerone.com/reports/474833) to Rockstar Games - 103 upvotes, $0
+11. [CSRF Vulnerability on https://signin.rockstargames.com/tpa/facebook/link/](https://hackerone.com/reports/474833) to Rockstar Games - 104 upvotes, $0
 12. [Password and mail address stored unencrypted in memory - Rockstar Game Launcher](https://hackerone.com/reports/1128357) to Rockstar Games - 88 upvotes, $750
 13. [Open redirect vulnerability](https://hackerone.com/reports/380760) to Rockstar Games - 83 upvotes, $250
-14. [Blind SSRF in emblem editor (2)](https://hackerone.com/reports/265050) to Rockstar Games - 80 upvotes, $1500
+14. [Blind SSRF in emblem editor (2)](https://hackerone.com/reports/265050) to Rockstar Games - 81 upvotes, $1500
 15. [LFI and SSRF via XXE in emblem editor](https://hackerone.com/reports/347139) to Rockstar Games - 79 upvotes, $1500
 16. [Cache Poisoning DoS on updates.rockstargames.com](https://hackerone.com/reports/1219038) to Rockstar Games - 77 upvotes, $0
 17. [XSS on rockstargames.com](https://hackerone.com/reports/212700) to Rockstar Games - 74 upvotes, $500
 18. [Facebook OAuth Code Theft through referer leakage on support.rockstargames.com](https://hackerone.com/reports/482743) to Rockstar Games - 71 upvotes, $0
-19. [Insecure Direct Object Reference allows Crew Invite deletion](https://hackerone.com/reports/1947924) to Rockstar Games - 65 upvotes, $0
+19. [Insecure Direct Object Reference allows Crew Invite deletion](https://hackerone.com/reports/1947924) to Rockstar Games - 66 upvotes, $0
 20. [Unquoted Service Path in "Rockstar Game Library Service"](https://hackerone.com/reports/716448) to Rockstar Games - 60 upvotes, $0
 21. [Social Club Account Takeover Via RGL And Steam/Epic Linked Account](https://hackerone.com/reports/1235008) to Rockstar Games - 54 upvotes, $0
 22. [Brute Force against VMware Horizon](https://hackerone.com/reports/1278072) to Rockstar Games - 53 upvotes, $250
@@ -31,9 +31,9 @@ Top reports from Rockstar Games program at HackerOne:
 29. [DOM XSS on https://www.rockstargames.com/GTAOnline/feedback](https://hackerone.com/reports/803934) to Rockstar Games - 46 upvotes, $0
 30. [DOM based XSS on /GTAOnline/tw/starterpack/](https://hackerone.com/reports/508517) to Rockstar Games - 46 upvotes, $0
 31. [Stored XSS in profile activity feed messages](https://hackerone.com/reports/231444) to Rockstar Games - 44 upvotes, $1000
-32. [Exposed CDN access token allows modification of all newly uploaded Snapmatic photos](https://hackerone.com/reports/2184872) to Rockstar Games - 40 upvotes, $0
-33. [Smuggle SocialClub's Facebook OAuth Code via Referer Leakage](https://hackerone.com/reports/342709) to Rockstar Games - 39 upvotes, $750
-34. [CSRF in 'set.php' via age causes stored XSS on 'get.php' - http://www.rockstargames.com/php/videoplayer_cache/get.php'](https://hackerone.com/reports/152013) to Rockstar Games - 39 upvotes, $0
+32. [CSRF in 'set.php' via age causes stored XSS on 'get.php' - http://www.rockstargames.com/php/videoplayer_cache/get.php'](https://hackerone.com/reports/152013) to Rockstar Games - 40 upvotes, $0
+33. [Exposed CDN access token allows modification of all newly uploaded Snapmatic photos](https://hackerone.com/reports/2184872) to Rockstar Games - 40 upvotes, $0
+34. [Smuggle SocialClub's Facebook OAuth Code via Referer Leakage](https://hackerone.com/reports/342709) to Rockstar Games - 39 upvotes, $750
 35. [\<- Critical IDOR vulnerability in socialclub allow to insert and delete comments as another user and it discloses sensitive information -\>](https://hackerone.com/reports/204292) to Rockstar Games - 39 upvotes, $0
 36. [Image Injection vulnerability on screenshot-viewer/responsive/image may allow Facebook OAuth token theft.](https://hackerone.com/reports/655288) to Rockstar Games - 36 upvotes, $0
 37. [Stored XSS on profile page via Steam display name](https://hackerone.com/reports/282604) to Rockstar Games - 35 upvotes, $1250
@@ -57,9 +57,9 @@ Top reports from Rockstar Games program at HackerOne:
 55. [Open redirect on https://signin.rockstargames.com/connect/authorize/rsg](https://hackerone.com/reports/1101771) to Rockstar Games - 23 upvotes, $0
 56. [Reflected XSS via Double Encoding](https://hackerone.com/reports/246505) to Rockstar Games - 22 upvotes, $500
 57. [Information Disclosure in https://www.rockstargames.com/search](https://hackerone.com/reports/808832) to Rockstar Games - 22 upvotes, $0
-58. [[IMP] - Blind XSS in the admin panel for reviewing comments](https://hackerone.com/reports/197337) to Rockstar Games - 20 upvotes, $650
-59. [phpinfo() on graph.rockstargames.com exposes sensitive information](https://hackerone.com/reports/1082774) to Rockstar Games - 20 upvotes, $0
-60. [Minor Account Privacy can Set to Everyone.](https://hackerone.com/reports/883731) to Rockstar Games - 20 upvotes, $0
+58. [Minor Account Privacy can Set to Everyone.](https://hackerone.com/reports/883731) to Rockstar Games - 21 upvotes, $0
+59. [[IMP] - Blind XSS in the admin panel for reviewing comments](https://hackerone.com/reports/197337) to Rockstar Games - 20 upvotes, $650
+60. [phpinfo() on graph.rockstargames.com exposes sensitive information](https://hackerone.com/reports/1082774) to Rockstar Games - 20 upvotes, $0
 61. [Comments Denial of Service in socialclub.rockstargames.com](https://hackerone.com/reports/214370) to Rockstar Games - 19 upvotes, $0
 62. [Stored XSS with CRLF injection via post message to user feed](https://hackerone.com/reports/263191) to Rockstar Games - 19 upvotes, $0
 63. [Table and Column Exposure](https://hackerone.com/reports/218898) to Rockstar Games - 18 upvotes, $150
@@ -88,10 +88,10 @@ Top reports from Rockstar Games program at HackerOne:
 86. [RDR2 game service method allows adding any player to a new Posse without consent](https://hackerone.com/reports/1029594) to Rockstar Games - 10 upvotes, $0
 87. [dom based xss in https://www.rockstargames.com/GTAOnline/](https://hackerone.com/reports/254343) to Rockstar Games - 9 upvotes, $0
 88. [Image Injection on `/bully/anniversaryedition` may lead to FB's OAuth Token Theft.](https://hackerone.com/reports/659784) to Rockstar Games - 9 upvotes, $0
-89. [Profile bio at rockstar is accepting control characters](https://hackerone.com/reports/214763) to Rockstar Games - 8 upvotes, $0
-90. [flash injection in http://www.rockstargames.com/IV/imgPlayer/imageEmbed.swf](https://hackerone.com/reports/241231) to Rockstar Games - 8 upvotes, $0
-91. [Image Injection on /bully/anniversaryedition may lead to OAuth token theft.](https://hackerone.com/reports/498358) to Rockstar Games - 8 upvotes, $0
-92. [Modifying Sprunk vs eCola crew data](https://hackerone.com/reports/1680818) to Rockstar Games - 8 upvotes, $0
+89. [Modifying Sprunk vs eCola crew data](https://hackerone.com/reports/1680818) to Rockstar Games - 9 upvotes, $0
+90. [Profile bio at rockstar is accepting control characters](https://hackerone.com/reports/214763) to Rockstar Games - 8 upvotes, $0
+91. [flash injection in http://www.rockstargames.com/IV/imgPlayer/imageEmbed.swf](https://hackerone.com/reports/241231) to Rockstar Games - 8 upvotes, $0
+92. [Image Injection on /bully/anniversaryedition may lead to OAuth token theft.](https://hackerone.com/reports/498358) to Rockstar Games - 8 upvotes, $0
 93. [Control characters incorrectly handled on Crew Status Update](https://hackerone.com/reports/232499) to Rockstar Games - 7 upvotes, $250
 94. [insecure redirect in https://www.rockstargames.com](https://hackerone.com/reports/253975) to Rockstar Games - 7 upvotes, $0
 95. [Image Injection vulnerability affecting www.rockstargames.com/careers may lead to Facebook OAuth Theft](https://hackerone.com/reports/491654) to Rockstar Games - 7 upvotes, $0

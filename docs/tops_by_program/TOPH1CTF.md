@@ -2,7 +2,7 @@ Top reports from h1-ctf program at HackerOne:
 
 1. [How The Hackers Saved Christmas](https://hackerone.com/reports/1069335) to h1-ctf - 179 upvotes, $0
 2. [[H1-415 2020] CTF Writeup](https://hackerone.com/reports/776634) to h1-ctf - 107 upvotes, $0
-3. [[h1-415 2020] Spent a week and failed at solving the last step.](https://hackerone.com/reports/781265) to h1-ctf - 98 upvotes, $0
+3. [[h1-415 2020] Spent a week and failed at solving the last step.](https://hackerone.com/reports/781265) to h1-ctf - 99 upvotes, $0
 4. [[H1-2006 2020] I successfully solved it!](https://hackerone.com/reports/887818) to h1-ctf - 64 upvotes, $0
 5. [[h1-415 2020] Multiple vulnerabilities leading to leaking of secret user files](https://hackerone.com/reports/780036) to h1-ctf - 56 upvotes, $0
 6. [12 Days of Hacky Holidays write-up, but as a text-based RPG?](https://hackerone.com/reports/1066851) to h1-ctf - 44 upvotes, $0
@@ -13,7 +13,7 @@ Top reports from h1-ctf program at HackerOne:
 11. [[H1-2006 2020] Bypassing access control checks by modifying the URL, internal application state, or the HTML page, or using a custom API attack tool](https://hackerone.com/reports/895172) to h1-ctf - 23 upvotes, $0
 12. [[h1-415 2020] I got the flag](https://hackerone.com/reports/777099) to h1-ctf - 20 upvotes, $0
 13. [Saving Christmas from Grinchy Gods](https://hackerone.com/reports/1434017) to h1-ctf - 20 upvotes, $0
-14. [[h1-415 2020] I found Joberts missing file!](https://hackerone.com/reports/780676) to h1-ctf - 18 upvotes, $0
+14. [[h1-415 2020] I found Joberts missing file!](https://hackerone.com/reports/780676) to h1-ctf - 19 upvotes, $0
 15. [[h1-415 2020] Multiple chained vulnerabilities lead to leaking secret document](https://hackerone.com/reports/777241) to h1-ctf - 18 upvotes, $0
 16. [[H1-2006 2020] Flag for H1-CTF](https://hackerone.com/reports/888141) to h1-ctf - 18 upvotes, $0
 17. [[h1-415 2020] h1ctf{y3s_1m_c0sm1c_n0w}](https://hackerone.com/reports/781253) to h1-ctf - 17 upvotes, $0
@@ -31,9 +31,9 @@ Top reports from h1-ctf program at HackerOne:
 29. [[H1-2006 2020] CTF Writeup](https://hackerone.com/reports/888939) to h1-ctf - 13 upvotes, $0
 30. [[100K-ctf] Multiple vulnerabilities leading to compromise of Pinger instance.](https://hackerone.com/reports/1215867) to h1-ctf - 13 upvotes, $0
 31. [Adam and the  Deadly  Injections](https://hackerone.com/reports/1217702) to h1-ctf - 13 upvotes, $0
-32. [[h1-2006 2020] Bounty payments are done !](https://hackerone.com/reports/895824) to h1-ctf - 12 upvotes, $0
-33. [[h1-415 2020] finally](https://hackerone.com/reports/779910) to h1-ctf - 11 upvotes, $0
-34. [[h1-415 2020] SSRF in a headless chrome with remote debugging leads to sensible information leak](https://hackerone.com/reports/781295) to h1-ctf - 11 upvotes, $0
+32. [[h1-415 2020] SSRF in a headless chrome with remote debugging leads to sensible information leak](https://hackerone.com/reports/781295) to h1-ctf - 12 upvotes, $0
+33. [[h1-2006 2020] Bounty payments are done !](https://hackerone.com/reports/895824) to h1-ctf - 12 upvotes, $0
+34. [[h1-415 2020] finally](https://hackerone.com/reports/779910) to h1-ctf - 11 upvotes, $0
 35. [[H1-2006 2020] Bounty Pay CTF challenge](https://hackerone.com/reports/895798) to h1-ctf - 11 upvotes, $0
 36. [[H1-2006 2020] Multiple vulnerabilities allow to leak sensitive information ](https://hackerone.com/reports/895202) to h1-ctf - 11 upvotes, $0
 37. [[H1-2006 2020] CTF Writeup](https://hackerone.com/reports/893305) to h1-ctf - 11 upvotes, $0

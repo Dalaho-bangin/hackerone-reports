@@ -201,6 +201,10 @@
       "file": "tops_by_program/TOPGRATIPAY.md"
     },
     {
+      "name": "Node.js",
+      "file": "tops_by_program/TOPNODEJS.md"
+    },
+    {
       "name": "Slack",
       "file": "tops_by_program/TOPSLACK.md"
     },
@@ -219,10 +223,6 @@
     {
       "name": "Starbucks",
       "file": "tops_by_program/TOPSTARBUCKS.md"
-    },
-    {
-      "name": "Node.js",
-      "file": "tops_by_program/TOPNODEJS.md"
     },
     {
       "name": "Open-Xchange",
