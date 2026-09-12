@@ -1,10 +1,10 @@
 Top OpenID reports from HackerOne:
 
-1. [Email Confirmation Bypass in myshop.myshopify.com that Leads to Full Privilege Escalation to Any Shop Owner by Taking Advantage of the Shopify SSO](https://hackerone.com/reports/791775) to Shopify - 1916 upvotes, $0
+1. [Email Confirmation Bypass in myshop.myshopify.com that Leads to Full Privilege Escalation to Any Shop Owner by Taking Advantage of the Shopify SSO](https://hackerone.com/reports/791775) to Shopify - 1917 upvotes, $0
 2. [Able to Takeover Merchants Accounts Even They Have Already Setup SSO, After Bypassing the Email Confirmation](https://hackerone.com/reports/796956) to Shopify - 310 upvotes, $0
 3. [Ability to DOS any organization's SSO and open up the door to account takeovers](https://hackerone.com/reports/976603) to Superhuman (formerly Grammarly) - 259 upvotes, $10500
 4. [Stealing SSO Login Tokens (snappublisher.snapchat.com)](https://hackerone.com/reports/265943) to Snapchat - 244 upvotes, $7500
-5. [HackerOne SAML signup domain enforcement bypass results in unauthorized access to HackerOne PullRequest organization](https://hackerone.com/reports/2101076) to HackerOne - 227 upvotes, $0
+5. [HackerOne SAML signup domain enforcement bypass results in unauthorized access to HackerOne PullRequest organization](https://hackerone.com/reports/2101076) to HackerOne - 228 upvotes, $0
 6. [SAML Signature verification bypass allows logging into any user (with specific conditions)](https://hackerone.com/reports/2579939) to GitHub - 196 upvotes, $0
 7. [Insecure Zendesk SSO implementation by generating JWT client-side](https://hackerone.com/reports/638635) to Trint Ltd - 102 upvotes, $0
 8. [SAML Authentication Bypass on uchat.uberinternal.com](https://hackerone.com/reports/223014) to Uber - 87 upvotes, $8500
@@ -13,7 +13,7 @@ Top OpenID reports from HackerOne:
 11. [[auth2.zomato.com] Reflected XSS at `oauth2/fallbacks/error` | ORY Hydra an OAuth 2.0 and OpenID Connect Provider](https://hackerone.com/reports/456333) to Eternal - 51 upvotes, $0
 12. [(HackerOne SSO-SAML) Login CSRF, Open Redirect, and Self-XSS Possible Exploitation](https://hackerone.com/reports/171398) to HackerOne - 44 upvotes, $0
 13. [Authentication bypass on JetPack SSO manager - Allows to access the administration panel of wordpress without user interaction](https://hackerone.com/reports/2037902) to Automattic - 41 upvotes, $0
-14. [Authentication Bypass via XML Signature Wrapping in SAML SSO](https://hackerone.com/reports/3827674) to Rocket.Chat - 35 upvotes, $0
+14. [Authentication Bypass via XML Signature Wrapping in SAML SSO](https://hackerone.com/reports/3827674) to Rocket.Chat - 38 upvotes, $0
 15. [Accidental Access to Programs Information via SAML Login](https://hackerone.com/reports/438306) to HackerOne - 34 upvotes, $0
 16. [SAML Response Reuse on hackerone.com/users/saml/auth](https://hackerone.com/reports/888930) to HackerOne - 26 upvotes, $0
 17. [Ability to enumerate private programs using SAML](https://hackerone.com/reports/167828) to HackerOne - 24 upvotes, $0

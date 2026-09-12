@@ -1,12 +1,12 @@
 Top reports from VK.com program at HackerOne:
 
-1. [CVE-2018-0296](https://hackerone.com/reports/377542) to VK.com - 80 upvotes, $0
+1. [CVE-2018-0296](https://hackerone.com/reports/377542) to VK.com - 81 upvotes, $0
 2. [Reflected XSS в /video](https://hackerone.com/reports/1052856) to VK.com - 79 upvotes, $500
 3. [local file disclosure via FFmpeg hls processing](https://hackerone.com/reports/226756) to VK.com - 77 upvotes, $1000
 4. [Stored XSS в личных сообщениях](https://hackerone.com/reports/181823) to VK.com - 67 upvotes, $0
 5. [Определение id по номеру телефона](https://hackerone.com/reports/331040) to VK.com - 60 upvotes, $5000
 6. [Path Traversal в iOS приложении](https://hackerone.com/reports/1050231) to VK.com - 55 upvotes, $700
-7. [Уязвимость в приложении для Android](https://hackerone.com/reports/1343528) to VK.com - 51 upvotes, $3000
+7. [Уязвимость в приложении для Android](https://hackerone.com/reports/1343528) to VK.com - 52 upvotes, $3000
 8. [Stealing Private Information in VK Android App through PlayerProxy Port Remotely](https://hackerone.com/reports/292761) to VK.com - 50 upvotes, $700
 9. [XSS в сюжетах.](https://hackerone.com/reports/1115763) to VK.com - 49 upvotes, $500
 10. [XSS Reflected in m.vk.com](https://hackerone.com/reports/1011463) to VK.com - 48 upvotes, $0

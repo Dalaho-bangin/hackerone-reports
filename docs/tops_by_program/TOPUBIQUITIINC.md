@@ -21,19 +21,19 @@ Top reports from Ubiquiti Inc. program at HackerOne:
 19. [Directory traversal at https://nightly.ubnt.com](https://hackerone.com/reports/229622) to Ubiquiti Inc. - 26 upvotes, $0
 20. [Source code disclosure on https://107.23.69.180](https://hackerone.com/reports/136891) to Ubiquiti Inc. - 25 upvotes, $0
 21. [Privilege Escalation using API-\>Feature](https://hackerone.com/reports/239719) to Ubiquiti Inc. - 23 upvotes, $0
-22. [Read-Only user can execute arbitraty shell commands on AirOS](https://hackerone.com/reports/128750) to Ubiquiti Inc. - 22 upvotes, $0
-23. [Stored XSS in community.ubnt.com](https://hackerone.com/reports/179164) to Ubiquiti Inc. - 22 upvotes, $0
-24. [UniFi Video Server web interface Configuration Restore CSRF leading to full application compromise](https://hackerone.com/reports/329749) to Ubiquiti Inc. - 22 upvotes, $0
-25. [Arbritrary file Upload on AirMax](https://hackerone.com/reports/73480) to Ubiquiti Inc. - 21 upvotes, $0
-26. [Subdomain Takeover in http://assets.goubiquiti.com/](https://hackerone.com/reports/109699) to Ubiquiti Inc. - 21 upvotes, $0
+22. [Subdomain Takeover in http://assets.goubiquiti.com/](https://hackerone.com/reports/109699) to Ubiquiti Inc. - 22 upvotes, $0
+23. [Read-Only user can execute arbitraty shell commands on AirOS](https://hackerone.com/reports/128750) to Ubiquiti Inc. - 22 upvotes, $0
+24. [Stored XSS in community.ubnt.com](https://hackerone.com/reports/179164) to Ubiquiti Inc. - 22 upvotes, $0
+25. [UniFi Video Server web interface Configuration Restore CSRF leading to full application compromise](https://hackerone.com/reports/329749) to Ubiquiti Inc. - 22 upvotes, $0
+26. [Arbritrary file Upload on AirMax](https://hackerone.com/reports/73480) to Ubiquiti Inc. - 21 upvotes, $0
 27. [Exposed API-key allows to control nightly builds of firmwares (█████████ & ████████)](https://hackerone.com/reports/179986) to Ubiquiti Inc. - 21 upvotes, $0
 28. [Shell Injection via Web Management Console (dl-fw.cgi)](https://hackerone.com/reports/121940) to Ubiquiti Inc. - 20 upvotes, $0
 29. [JetBrains .idea project directory](https://hackerone.com/reports/80990) to Ubiquiti Inc. - 20 upvotes, $0
 30. [Subdomain Takeover (moderator.ubnt.com)](https://hackerone.com/reports/181665) to Ubiquiti Inc. - 19 upvotes, $0
-31. [Read-Only user can execute arbitraty shell commands on AirOS](https://hackerone.com/reports/119317) to Ubiquiti Inc. - 18 upvotes, $0
-32. [Wordpress directories/files visible to internet](https://hackerone.com/reports/201984) to Ubiquiti Inc. - 18 upvotes, $0
-33. [Two Factor Authentication Bypass](https://hackerone.com/reports/350288) to Ubiquiti Inc. - 18 upvotes, $0
-34. [Web Server Predictable Session ID on EdgeSwitch ](https://hackerone.com/reports/774393) to Ubiquiti Inc. - 18 upvotes, $0
+31. [Web Server Predictable Session ID on EdgeSwitch ](https://hackerone.com/reports/774393) to Ubiquiti Inc. - 19 upvotes, $0
+32. [Read-Only user can execute arbitraty shell commands on AirOS](https://hackerone.com/reports/119317) to Ubiquiti Inc. - 18 upvotes, $0
+33. [Wordpress directories/files visible to internet](https://hackerone.com/reports/201984) to Ubiquiti Inc. - 18 upvotes, $0
+34. [Two Factor Authentication Bypass](https://hackerone.com/reports/350288) to Ubiquiti Inc. - 18 upvotes, $0
 35. [[nutty.ubnt.com] DOM Based XSS nuttyapp github-btn.html](https://hackerone.com/reports/200753) to Ubiquiti Inc. - 17 upvotes, $0
 36. [[account-global.ubnt.com] CRLF Injection](https://hackerone.com/reports/145128) to Ubiquiti Inc. - 17 upvotes, $0
 37. [SNMP Community String Disclosure to ReadOnly Users on EdgeSwitch](https://hackerone.com/reports/797988) to Ubiquiti Inc. - 17 upvotes, $0

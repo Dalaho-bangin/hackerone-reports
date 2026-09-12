@@ -22,7 +22,7 @@ Top Clickjacking reports from HackerOne:
 20. [self-xss with ClickJacking can leads to account takeover in Firefox](https://hackerone.com/reports/892289) to Imgur - 17 upvotes, $0
 21. [Clickjacking In jobs.wordpress.net](https://hackerone.com/reports/223024) to WordPress - 16 upvotes, $0
 22. [Clickjacking at open.rocket.chat](https://hackerone.com/reports/1584034) to Rocket.Chat - 16 upvotes, $0
-23. [OAuth authorization page vulnerable to clickjacking](https://hackerone.com/reports/65825) to Coinbase - 15 upvotes, $5000
+23. [OAuth authorization page vulnerable to clickjacking](https://hackerone.com/reports/65825) to Coinbase - 15 upvotes, $0
 24. [Clickjacking wordcamp.org](https://hackerone.com/reports/230581) to WordPress - 14 upvotes, $0
 25. [Make user buy items via clickjacking possibility](https://hackerone.com/reports/471967) to Mail.ru - 14 upvotes, $0
 26. [Reflected XSS through ClickJacking](https://hackerone.com/reports/1171403) to U.S. Dept Of Defense - 14 upvotes, $0
@@ -57,11 +57,11 @@ Top Clickjacking reports from HackerOne:
 55. [Clickjacking](https://hackerone.com/reports/200419) to Pushwoosh - 7 upvotes, $0
 56. [Click Jacking Nextcloud](https://hackerone.com/reports/347782) to Nextcloud - 7 upvotes, $0
 57. [Clickjacking on my.stripo.email for MailChimp credentials ](https://hackerone.com/reports/737625) to Stripo Inc - 7 upvotes, $0
-58. [Clickjacking misconfiguration bug](https://hackerone.com/reports/1176104) to Sifchain - 7 upvotes, $0
-59. [Clickjacking to change email address](https://hackerone.com/reports/783191) to Gener8 - 7 upvotes, $0
-60. [Found clickjacking vulnerability](https://hackerone.com/reports/119828) to LeaseWeb - 6 upvotes, $0
-61. [Clickjacking lead to remove review](https://hackerone.com/reports/965141) to Yelp - 6 upvotes, $0
-62. [Khan Academy ClickJacking to Steal Users's Credintials](https://hackerone.com/reports/639682) to Khan Academy - 6 upvotes, $0
+58. [Clickjacking lead to remove review](https://hackerone.com/reports/965141) to Yelp - 7 upvotes, $0
+59. [Khan Academy ClickJacking to Steal Users's Credintials](https://hackerone.com/reports/639682) to Khan Academy - 7 upvotes, $0
+60. [Clickjacking misconfiguration bug](https://hackerone.com/reports/1176104) to Sifchain - 7 upvotes, $0
+61. [Clickjacking to change email address](https://hackerone.com/reports/783191) to Gener8 - 7 upvotes, $0
+62. [Found clickjacking vulnerability](https://hackerone.com/reports/119828) to LeaseWeb - 6 upvotes, $0
 63. [Clickjacking Vulnerability via https://profile.my.games/gamecenter/profile/ can lead to sensitive cross site actions (Bypass X-Frame-Options)](https://hackerone.com/reports/974090) to Mail.ru - 6 upvotes, $0
 64. [Vulnerable for clickjacking attack](https://hackerone.com/reports/1188639) to Sifchain - 6 upvotes, $0
 65. [ClickJacking on http://au.launch.yahoo.com](https://hackerone.com/reports/1229) to Yahoo! - 5 upvotes, $0
